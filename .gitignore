@@ -1,0 +1,8 @@
+# Internal working files — not for public exposure
+issues/
+spec.md
+.tend/
+.github/
+.scratch/
+STATUS.md
+.DS_Store
