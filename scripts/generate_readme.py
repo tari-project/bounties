@@ -11,6 +11,7 @@ Usage:
     python3 scripts/generate_readme.py --dry-run # print to stdout only
 """
 import subprocess, json, sys, os, re, yaml
+from datetime import datetime, timezone
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(SCRIPT_DIR)
@@ -177,6 +178,9 @@ def render_readme(issues):
         )
     lines.append("")
     lines.append(f"**{len(issues)} bounties \u2014 {total_xtm:,} XTM**")
+    lines.append("")
+    updated = datetime.now(timezone.utc).strftime("%B %-d, %Y at %H:%M UTC")
+    lines.append(f"*Last updated: {updated}*")
     lines.append("")
     lines.append("### Tier Summary")
     lines.append("")
