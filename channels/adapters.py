@@ -1,4 +1,3 @@
-import os
 from abc import ABC, abstractmethod
 
 class MessageChannel(ABC):

@@ -1,6 +1,3 @@
-import numpy as np
-from typing import List
-
 class KnowledgeBase:
     """
     Self-Learning Knowledge Base using a mock Vector Embedding approach.
@@ -8,7 +5,6 @@ class KnowledgeBase:
     """
     def __init__(self):
         self.memory = {} # Stores {category: [documents]}
-        self.embeddings = {} # Mock embeddings
 
     def add_knowledge(self, category: str, text: str):
         if category not in self.memory:
@@ -19,14 +15,19 @@ class KnowledgeBase:
     def query(self, user_input: str) -> str:
         # Simulated semantic search
         # In reality: embed(user_input) -> search vector DB -> retrieve top K
-        all_text = " ".join([doc for docs in self.memory.values() for doc in docs])
-        if not all_text:
+        if not self.memory:
             return "I don't have any knowledge yet. Please teach me!"
         
-        # Simple keyword-based mock retrieval for the bounty demo
+        # Improved keyword-based retrieval with basic stop-word filtering
+        stop_words = {"the", "is", "at", "which", "on", "and", "a", "an", "of", "to", "in", "for", "with", "it", "that", "this", "of", "el", "la", "los", "las", "un", "una", "y", "o", "en", "de", "con", "por", "para", "que", "es"}
+        user_words = [word for word in user_input.lower().split() if word not in stop_words]
+        
+        if not user_words:
+            return "Could you please be more specific?"
+
         for category, docs in self.memory.items():
             for doc in docs:
-                if any(word in doc.lower() for word in user_input.lower().split()):
+                if any(word in doc.lower() for word in user_words):
                     return doc
         
         return "I'm not sure about that, but I'm learning. Can you explain it to me?"
