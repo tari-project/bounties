@@ -43,6 +43,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **25 bounties — 1,500,000 XTM**
 
+*Last updated: April 13, 2026 at 16:48 UTC*
+
 ### Tier Summary
 
 | Tier | Count | XTM |
