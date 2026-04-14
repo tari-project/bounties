@@ -115,6 +115,16 @@ def fetch_bounty_issues(local_titles):
     return issues
 
 
+MAINTAINERS = {
+    "tari": "SWvheerden",
+    "minotari-cli": "SWvheerden",
+    "tari-ootle": "sdbondi",
+    "universe": "brianp",
+    "faqqer": "metalaureate",
+    "aiteen": "metalaureate",
+    "community-discourse": "metalaureate",
+}
+
 TIER_PRICING = {
     "S":  {"xtm": "15,000"},
     "M":  {"xtm": "60,000"},
@@ -141,8 +151,8 @@ def render_readme(issues):
         "",
         "## Bounty Board",
         "",
-        "| Issue | Repo | Tier | XTM | Status | PRs | Activity |",
-        "|-------|------|:----:|----:|--------|:---:|:--------:|",
+        "| Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |",
+        "|-------|------|:----:|----:|-----------|--------|:---:|:--------:|",
     ]
     tier_counts = {}
     total_xtm = 0
@@ -171,10 +181,11 @@ def render_readme(issues):
         # Activity (comment count)
         comments = i["comments"]
         activity = f'\U0001f4ac {comments}' if comments > 0 else "\u2014"
+        maintainer = MAINTAINERS.get(i["repo"], "?")
         lines.append(
             f'| [#{i["number"]} \u2014 {i["title"]}]({i["url"]}) '
             f'| {i["repo"]} | {t} | {p["xtm"]} '
-            f'| {status_cell} | {pr_cell} | {activity} |'
+            f'| @{maintainer} | {status_cell} | {pr_cell} | {activity} |'
         )
     lines.append("")
     lines.append(f"**{len(issues)} bounties \u2014 {total_xtm:,} XTM**")
