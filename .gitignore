@@ -2,7 +2,8 @@
 issues/
 spec.md
 .tend/
-.github/
+.github/hooks/
+.github/agents/
 .scratch/
 STATUS.md
 .DS_Store
