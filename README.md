@@ -17,7 +17,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
 | [#7745 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7745) | tari | L | 150,000 | @SWvheerden | 🟢 Open | — | 💬 2 |
 | [#7737 — Convert Merge mining cucumber tests to not mine RxM, but rather RxT](https://github.com/tari-project/tari/issues/7737) | tari | S | 15,000 | @SWvheerden | 🟢 Open | — | 💬 5 |
-| [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | 🟡 PR Open | [🟡 #2](https://github.com/tari-project/faqqer/pull/2) [🟡 #3](https://github.com/tari-project/faqqer/pull/3) | 💬 11 |
+| [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | 🟡 PR Open | [🟡 #2](https://github.com/tari-project/faqqer/pull/2) [🟡 #3](https://github.com/tari-project/faqqer/pull/3) | 💬 12 |
 | [#1931 — UX: Wallet address book](https://github.com/tari-project/tari-ootle/issues/1931) | tari-ootle | L | 150,000 | @sdbondi | 🟡 PR Open | [🟡 #1990](https://github.com/tari-project/tari-ootle/pull/1990) | 💬 4 |
 | [#1 — Install, configure, set up the Tari Community Discourse server.](https://github.com/tari-project/community-discourse/issues/1) | community-discourse | M | 60,000 | @metalaureate | 🟡 PR Open | [🟡 #2](https://github.com/tari-project/community-discourse/pull/2) | 💬 4 |
 | [#113 — add payref tracking to wallet](https://github.com/tari-project/minotari-cli/issues/113) | minotari-cli | M | 60,000 | @SWvheerden | 🟡 PR Open | [🟡 #117](https://github.com/tari-project/minotari-cli/pull/117) | 💬 4 |
@@ -43,7 +43,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **25 bounties — 1,500,000 XTM**
 
-*Last updated: April 15, 2026 at 14:02 UTC*
+*Last updated: April 16, 2026 at 07:48 UTC*
 
 ### Tier Summary
 
