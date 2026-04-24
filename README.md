@@ -7,7 +7,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 1. Browse the bounty board below
 2. Comment on the GitHub issue to signal intent (courtesy, not a lock)
 3. Fork the repo and do the work
-4. Submit a PR that meets the acceptance criteria
+4. Submit a PR that references the issue with a closing keyword (e.g. `Fixes #1234`) so GitHub links your PR to the bounty automatically
 5. First PR that passes review and gets merged wins the bounty
 6. Get paid in XTM
 
