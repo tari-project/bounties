@@ -1,0 +1,22 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "type": "command",
+        "command": "/Users/possum/bin/tend hook session-start"
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "type": "command",
+        "command": "/Users/possum/bin/tend hook user-prompt"
+      }
+    ],
+    "Stop": [
+      {
+        "type": "command",
+        "command": "/Users/possum/bin/tend hook stop"
+      }
+    ]
+  }
+}

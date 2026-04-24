@@ -24,6 +24,7 @@ REPOS = [
     "tari-project/faqqer",
     "tari-project/aiteen",
     "tari-project/community-discourse",
+    "tari-project/wxtm-bridge-frontend",
 ]
 
 TIER_ORDER = {"L": 0, "M": 1, "S": 2, "XL": -1}
@@ -123,6 +124,7 @@ MAINTAINERS = {
     "faqqer": "metalaureate",
     "aiteen": "metalaureate",
     "community-discourse": "metalaureate",
+    "wxtm-bridge-frontend": "brianp",
 }
 
 TIER_PRICING = {

@@ -15,41 +15,43 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
+| [#3204 — Fix Tari Universe Terminating External xmrig Processes on Shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | 🟢 Open | — | 💬 2 |
 | [#7745 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7745) | tari | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #7765](https://github.com/tari-project/tari/pull/7765) | 💬 7 |
-| [#7715 — Create lmdb unit tests](https://github.com/tari-project/tari/issues/7715) | tari | M | 60,000 | @SWvheerden | 🟡 PR Open | [🟡 #7741](https://github.com/tari-project/tari/pull/7741) [🟡 #7760](https://github.com/tari-project/tari/pull/7760) | 💬 4 |
-| [#1977 — Fix eviction detection timeout in offline validator test](https://github.com/tari-project/tari-ootle/issues/1977) | tari-ootle | M | 60,000 | @sdbondi | 🟡 PR Open | [🟡 #1993](https://github.com/tari-project/tari-ootle/pull/1993) [🟡 #2062](https://github.com/tari-project/tari-ootle/pull/2062) | 💬 6 |
-| [#1978 — Fix VN registration detection timeout in state sync test](https://github.com/tari-project/tari-ootle/issues/1978) | tari-ootle | M | 60,000 | @sdbondi | 🟡 PR Open | [🟡 #1994](https://github.com/tari-project/tari-ootle/pull/1994) [🟡 #2028](https://github.com/tari-project/tari-ootle/pull/2028) | 💬 5 |
+| [#7715 — Create LMDB Unit Tests](https://github.com/tari-project/tari/issues/7715) | tari | M | 60,000 | @SWvheerden | 🟡 PR Open | [🟡 #7741](https://github.com/tari-project/tari/pull/7741) [🟡 #7760](https://github.com/tari-project/tari/pull/7760) | 💬 4 |
+| [#1978 — Fix VN Registration Detection Timeout in State Sync Test](https://github.com/tari-project/tari-ootle/issues/1978) | tari-ootle | M | 60,000 | @sdbondi | 🟡 PR Open | [🟡 #1994](https://github.com/tari-project/tari-ootle/pull/1994) [🟡 #2028](https://github.com/tari-project/tari-ootle/pull/2028) | 💬 5 |
 | [#1997 — Add rate limiting to indexer REST API endpoints](https://github.com/tari-project/tari-ootle/issues/1997) | tari-ootle | M | 60,000 | @sdbondi | 🟡 PR Open | [🟡 #2003](https://github.com/tari-project/tari-ootle/pull/2003) [🟡 #2007](https://github.com/tari-project/tari-ootle/pull/2007) [🟡 #2008](https://github.com/tari-project/tari-ootle/pull/2008) [🟡 #2001](https://github.com/tari-project/tari-ootle/pull/2001) [🟡 #2030](https://github.com/tari-project/tari-ootle/pull/2030) | 💬 18 |
-| [#1588 — v1.2.0: Windows 11: Auto-start on system boot: When user restarts laptop, app does not automatically relaunch](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3182](https://github.com/tari-project/universe/pull/3182) | 💬 100 |
-| [#3028 — Cleanup old binary files](https://github.com/tari-project/universe/issues/3028) | universe | S | 15,000 | @brianp | 🟡 PR Open | [🟡 #3181](https://github.com/tari-project/universe/pull/3181) [🟡 #3197](https://github.com/tari-project/universe/pull/3197) | 💬 5 |
-| [#3111 — [BUG] No Linux Support](https://github.com/tari-project/universe/issues/3111) | universe | S | 15,000 | @brianp | 🟡 PR Open | [🟡 #3183](https://github.com/tari-project/universe/pull/3183) | 💬 4 |
-| [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [🟡 #2](https://github.com/tari-project/faqqer/pull/2) [🟡 #3](https://github.com/tari-project/faqqer/pull/3) [✅ #4](https://github.com/tari-project/faqqer/pull/4) | 💬 14 |
-| [#1931 — UX: Wallet address book](https://github.com/tari-project/tari-ootle/issues/1931) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [✅ #1990](https://github.com/tari-project/tari-ootle/pull/1990) | 💬 5 |
-| [#1 — Replace with a supported robust solution](https://github.com/tari-project/aiteen/issues/1) | aiteen | M | 60,000 | @metalaureate | ✅ Merged | [✅ #3](https://github.com/tari-project/aiteen/pull/3) [🟡 #5](https://github.com/tari-project/aiteen/pull/5) | 💬 7 |
-| [#1 — Install, configure, set up the Tari Community Discourse server.](https://github.com/tari-project/community-discourse/issues/1) | community-discourse | M | 60,000 | @metalaureate | ✅ Merged | [✅ #2](https://github.com/tari-project/community-discourse/pull/2) | 💬 5 |
-| [#113 — add payref tracking to wallet](https://github.com/tari-project/minotari-cli/issues/113) | minotari-cli | M | 60,000 | @SWvheerden | ✅ Merged | [✅ #117](https://github.com/tari-project/minotari-cli/pull/117) | 💬 5 |
-| [#7736 — create offline singing cucumber test](https://github.com/tari-project/tari/issues/7736) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [✅ #7743](https://github.com/tari-project/tari/pull/7743) | 💬 7 |
-| [#7738 — Let the wallet save more scanned block headers by spare headers beyond a day](https://github.com/tari-project/tari/issues/7738) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [✅ #7744](https://github.com/tari-project/tari/pull/7744) | 💬 10 |
-| [#1974 — Fix claim burn ownership proof validation in cucumber tests](https://github.com/tari-project/tari-ootle/issues/1974) | tari-ootle | M | 60,000 | @sdbondi | ✅ Merged | [✅ #2024](https://github.com/tari-project/tari-ootle/pull/2024) | 💬 5 |
-| [#3084 — Feature Request: Support Custom Node Selection for Better Connectivity](https://github.com/tari-project/universe/issues/3084) | universe | M | 60,000 | @brianp | ✅ Merged | [✅ #3184](https://github.com/tari-project/universe/pull/3184) | 💬 3 |
-| [#3178 — Custom node data location fails on macOS with NAS (SMB mount)](https://github.com/tari-project/universe/issues/3178) | universe | M | 60,000 | @brianp | ✅ Merged | [✅ #3187](https://github.com/tari-project/universe/pull/3187) | 💬 7 |
-| [#102 — wallet cucumber test scan to height is not properly tested](https://github.com/tari-project/minotari-cli/issues/102) | minotari-cli | S | 15,000 | @SWvheerden | ✅ Merged | [✅ #116](https://github.com/tari-project/minotari-cli/pull/116) | 💬 5 |
-| [#1975 — Fix event topic assertion in indexer event scanning test](https://github.com/tari-project/tari-ootle/issues/1975) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [✅ #1983](https://github.com/tari-project/tari-ootle/pull/1983) | 💬 4 |
-| [#1976 — Fix indexer substate lookup in wallet daemon indexer test](https://github.com/tari-project/tari-ootle/issues/1976) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [✅ #1989](https://github.com/tari-project/tari-ootle/pull/1989) | 💬 3 |
-| [#2657 — When resuming from sleep modes, TU ignores prior mining state (restarts mining + triggers wallet backup request)](https://github.com/tari-project/universe/issues/2657) | universe | S | 15,000 | @brianp | ✅ Merged | [✅ #3185](https://github.com/tari-project/universe/pull/3185) | 💬 4 |
+| [#1588 — Fix Auto-Start on System Boot (Windows)](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3182](https://github.com/tari-project/universe/pull/3182) | 💬 100 |
+| [#3028 — Cleanup Old Binary Files After Update](https://github.com/tari-project/universe/issues/3028) | universe | S | 15,000 | @brianp | 🟡 PR Open | [🟡 #3181](https://github.com/tari-project/universe/pull/3181) [🟡 #3197](https://github.com/tari-project/universe/pull/3197) [🟡 #3205](https://github.com/tari-project/universe/pull/3205) | 💬 5 |
+| [#3111 — Update Linux Build Documentation](https://github.com/tari-project/universe/issues/3111) | universe | S | 15,000 | @brianp | 🟡 PR Open | [🟡 #3183](https://github.com/tari-project/universe/pull/3183) | 💬 4 |
+| [#103 — Mitigate Next.js CVE Risk by Pinning Version](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @brianp | 🟡 PR Open | [🟡 #104](https://github.com/tari-project/wxtm-bridge-frontend/pull/104) | 💬 3 |
+| [#1 — Replace Faqqer with Self-Learning Multi-Channel AI Help Bot](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [🟡 #2](https://github.com/tari-project/faqqer/pull/2) [🟡 #3](https://github.com/tari-project/faqqer/pull/3) [✅ #4](https://github.com/tari-project/faqqer/pull/4) | 💬 14 |
+| [#1931 — Wallet Address Book](https://github.com/tari-project/tari-ootle/issues/1931) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [✅ #1990](https://github.com/tari-project/tari-ootle/pull/1990) | 💬 5 |
+| [#1 — Replace Aiteen with a Robust i18n Pipeline](https://github.com/tari-project/aiteen/issues/1) | aiteen | M | 60,000 | @metalaureate | ✅ Merged | [✅ #3](https://github.com/tari-project/aiteen/pull/3) [🟡 #5](https://github.com/tari-project/aiteen/pull/5) | 💬 7 |
+| [#1 — Set Up Tari Community Discourse Forum](https://github.com/tari-project/community-discourse/issues/1) | community-discourse | M | 60,000 | @metalaureate | ✅ Merged | [✅ #2](https://github.com/tari-project/community-discourse/pull/2) | 💬 5 |
+| [#113 — Add Payref Tracking to Wallet](https://github.com/tari-project/minotari-cli/issues/113) | minotari-cli | M | 60,000 | @SWvheerden | ✅ Merged | [✅ #117](https://github.com/tari-project/minotari-cli/pull/117) | 💬 5 |
+| [#7736 — Create Offline Signing Cucumber Test](https://github.com/tari-project/tari/issues/7736) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [✅ #7743](https://github.com/tari-project/tari/pull/7743) | 💬 7 |
+| [#7738 — Wallet Sparse Scanned Block Header Storage](https://github.com/tari-project/tari/issues/7738) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [✅ #7744](https://github.com/tari-project/tari/pull/7744) | 💬 10 |
+| [#1974 — Fix Claim Burn Ownership Proof in Cucumber Tests](https://github.com/tari-project/tari-ootle/issues/1974) | tari-ootle | M | 60,000 | @sdbondi | ✅ Merged | [✅ #2024](https://github.com/tari-project/tari-ootle/pull/2024) | 💬 5 |
+| [#1977 — Fix Eviction Detection Timeout in Offline Validator Test](https://github.com/tari-project/tari-ootle/issues/1977) | tari-ootle | M | 60,000 | @sdbondi | ✅ Merged | [🟡 #1993](https://github.com/tari-project/tari-ootle/pull/1993) [✅ #2062](https://github.com/tari-project/tari-ootle/pull/2062) | 💬 6 |
+| [#3084 — Support Custom Node Selection for Remote Connection](https://github.com/tari-project/universe/issues/3084) | universe | M | 60,000 | @brianp | ✅ Merged | [✅ #3184](https://github.com/tari-project/universe/pull/3184) | 💬 3 |
+| [#3178 — Fix Custom Node Data Location on macOS with NAS (SMB Mount)](https://github.com/tari-project/universe/issues/3178) | universe | M | 60,000 | @brianp | ✅ Merged | [✅ #3187](https://github.com/tari-project/universe/pull/3187) | 💬 7 |
+| [#102 — Fix Cucumber Wallet Scan Height Validation](https://github.com/tari-project/minotari-cli/issues/102) | minotari-cli | S | 15,000 | @SWvheerden | ✅ Merged | [✅ #116](https://github.com/tari-project/minotari-cli/pull/116) | 💬 5 |
+| [#1975 — Fix Event Topic Assertion in Indexer Cucumber Test](https://github.com/tari-project/tari-ootle/issues/1975) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [✅ #1983](https://github.com/tari-project/tari-ootle/pull/1983) | 💬 4 |
+| [#1976 — Fix Indexer Substate Lookup in Wallet Daemon Test](https://github.com/tari-project/tari-ootle/issues/1976) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [✅ #1989](https://github.com/tari-project/tari-ootle/pull/1989) | 💬 3 |
+| [#2657 — Persist Mining State Across Sleep/Resume](https://github.com/tari-project/universe/issues/2657) | universe | S | 15,000 | @brianp | ✅ Merged | [✅ #3185](https://github.com/tari-project/universe/pull/3185) | 💬 4 |
 | [#3035 — Error sending transcation, missing file: on first time use of wallet after launching app](https://github.com/tari-project/universe/issues/3035) | universe | S | 15,000 | @brianp | ✅ Merged | [✅ #3191](https://github.com/tari-project/universe/pull/3191) | 💬 2 |
-| [#3128 — seed wallet import problem](https://github.com/tari-project/universe/issues/3128) | universe | S | 15,000 | @brianp | ✅ Merged | [✅ #3186](https://github.com/tari-project/universe/pull/3186) | 💬 7 |
-| [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | 💬 3 |
-| [#7737 — Convert Merge mining cucumber tests to not mine RxM, but rather RxT](https://github.com/tari-project/tari/issues/7737) | tari | S | 15,000 | @SWvheerden | ⚫ Closed | — | 💬 10 |
+| [#3128 — Fix Seed Word Import Mnemonic Error](https://github.com/tari-project/universe/issues/3128) | universe | S | 15,000 | @brianp | ✅ Merged | [✅ #3186](https://github.com/tari-project/universe/pull/3186) | 💬 7 |
+| [#7164 — JMT Data Optimization](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | 💬 3 |
+| [#7737 — Convert Merge Mining Cucumber Tests to RandomX-Tari](https://github.com/tari-project/tari/issues/7737) | tari | S | 15,000 | @SWvheerden | ⚫ Closed | — | 💬 10 |
 
-**26 bounties — 1,515,000 XTM**
+**28 bounties — 1,590,000 XTM**
 
-*Last updated: April 24, 2026 at 08:05 UTC*
+*Last updated: April 24, 2026 at 16:00 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 9 | 15,000 |
-| M | 13 | 60,000 |
+| S | 10 | 15,000 |
+| M | 14 | 60,000 |
 | L | 4 | 150,000 |

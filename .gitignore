@@ -2,8 +2,10 @@
 issues/
 spec.md
 .tend/
-.github/hooks/
 .github/agents/
 .scratch/
 STATUS.md
+NUD.md
 .DS_Store
+.tend/events
+.tend/hook_debug.log
