@@ -15,7 +15,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
-| [#7745 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7745) | tari | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #7765](https://github.com/tari-project/tari/pull/7765) | 💬 7 |
+| [#7745 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7745) | tari | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #7765](https://github.com/tari-project/tari/pull/7765) [🟡 #7749](https://github.com/tari-project/tari/pull/7749) | 💬 7 |
 | [#7715 — Create lmdb unit tests](https://github.com/tari-project/tari/issues/7715) | tari | M | 60,000 | @SWvheerden | 🟡 PR Open | [🟡 #7741](https://github.com/tari-project/tari/pull/7741) [🟡 #7760](https://github.com/tari-project/tari/pull/7760) | 💬 4 |
 | [#1978 — Fix VN registration detection timeout in state sync test](https://github.com/tari-project/tari-ootle/issues/1978) | tari-ootle | M | 60,000 | @sdbondi | 🟡 PR Open | [🟡 #1994](https://github.com/tari-project/tari-ootle/pull/1994) [🟡 #2028](https://github.com/tari-project/tari-ootle/pull/2028) [🟡 #2068](https://github.com/tari-project/tari-ootle/pull/2068) | 💬 5 |
 | [#1997 — Add rate limiting to indexer REST API endpoints](https://github.com/tari-project/tari-ootle/issues/1997) | tari-ootle | M | 60,000 | @sdbondi | 🟡 PR Open | [🟡 #2003](https://github.com/tari-project/tari-ootle/pull/2003) [🟡 #2007](https://github.com/tari-project/tari-ootle/pull/2007) [🟡 #2008](https://github.com/tari-project/tari-ootle/pull/2008) [🟡 #2001](https://github.com/tari-project/tari-ootle/pull/2001) [🟡 #2030](https://github.com/tari-project/tari-ootle/pull/2030) | 💬 18 |
@@ -46,7 +46,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **28 bounties — 1,590,000 XTM**
 
-*Last updated: April 25, 2026 at 07:18 UTC*
+*Last updated: April 26, 2026 at 07:40 UTC*
 
 ### Tier Summary
 
