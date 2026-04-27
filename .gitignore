@@ -6,6 +6,7 @@ spec.md
 .scratch/
 STATUS.md
 NUD.md
+SHORTLIST.md
 .DS_Store
 .tend/events
 .tend/hook_debug.log
