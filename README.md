@@ -15,9 +15,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
-| [#7745 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7745) | tari | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #7765](https://github.com/tari-project/tari/pull/7765) [🟡 #7749](https://github.com/tari-project/tari/pull/7749) | 💬 7 |
-| [#7715 — Create lmdb unit tests](https://github.com/tari-project/tari/issues/7715) | tari | M | 60,000 | @SWvheerden | 🟡 PR Open | [🟡 #7741](https://github.com/tari-project/tari/pull/7741) [🟡 #7760](https://github.com/tari-project/tari/pull/7760) | 💬 4 |
-| [#1978 — Fix VN registration detection timeout in state sync test](https://github.com/tari-project/tari-ootle/issues/1978) | tari-ootle | M | 60,000 | @sdbondi | 🟡 PR Open | [🟡 #1994](https://github.com/tari-project/tari-ootle/pull/1994) [🟡 #2028](https://github.com/tari-project/tari-ootle/pull/2028) [🟡 #2068](https://github.com/tari-project/tari-ootle/pull/2068) | 💬 5 |
+| [#7745 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7745) | tari | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #7765](https://github.com/tari-project/tari/pull/7765) [🟡 #7749](https://github.com/tari-project/tari/pull/7749) | 💬 8 |
+| [#7715 — Create lmdb unit tests](https://github.com/tari-project/tari/issues/7715) | tari | M | 60,000 | @SWvheerden | 🟡 PR Open | [🟡 #7741](https://github.com/tari-project/tari/pull/7741) | 💬 4 |
 | [#1588 — v1.2.0: Windows 11: Auto-start on system boot: When user restarts laptop, app does not automatically relaunch](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3182](https://github.com/tari-project/universe/pull/3182) | 💬 100 |
 | [#3204 — Tari Universe terminates external xmrig processes on shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3206](https://github.com/tari-project/universe/pull/3206) | 💬 3 |
 | [#3028 — Cleanup old binary files](https://github.com/tari-project/universe/issues/3028) | universe | S | 15,000 | @brianp | 🟡 PR Open | [🟡 #3181](https://github.com/tari-project/universe/pull/3181) [🟡 #3197](https://github.com/tari-project/universe/pull/3197) [🟡 #3205](https://github.com/tari-project/universe/pull/3205) | 💬 5 |
@@ -32,6 +31,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7738 — Let the wallet save more scanned block headers by spare headers beyond a day](https://github.com/tari-project/tari/issues/7738) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [✅ #7744](https://github.com/tari-project/tari/pull/7744) | 💬 10 |
 | [#1974 — Fix claim burn ownership proof validation in cucumber tests](https://github.com/tari-project/tari-ootle/issues/1974) | tari-ootle | M | 60,000 | @sdbondi | ✅ Merged | [✅ #2024](https://github.com/tari-project/tari-ootle/pull/2024) | 💬 5 |
 | [#1977 — Fix eviction detection timeout in offline validator test](https://github.com/tari-project/tari-ootle/issues/1977) | tari-ootle | M | 60,000 | @sdbondi | ✅ Merged | [✅ #2062](https://github.com/tari-project/tari-ootle/pull/2062) | 💬 6 |
+| [#1978 — Fix VN registration detection timeout in state sync test](https://github.com/tari-project/tari-ootle/issues/1978) | tari-ootle | M | 60,000 | @sdbondi | ✅ Merged | [🟡 #1994](https://github.com/tari-project/tari-ootle/pull/1994) [✅ #2028](https://github.com/tari-project/tari-ootle/pull/2028) [🟡 #2068](https://github.com/tari-project/tari-ootle/pull/2068) | 💬 5 |
 | [#1997 — Add rate limiting to indexer REST API endpoints](https://github.com/tari-project/tari-ootle/issues/1997) | tari-ootle | M | 60,000 | @sdbondi | ✅ Merged | [✅ #2008](https://github.com/tari-project/tari-ootle/pull/2008) | 💬 19 |
 | [#3084 — Feature Request: Support Custom Node Selection for Better Connectivity](https://github.com/tari-project/universe/issues/3084) | universe | M | 60,000 | @brianp | ✅ Merged | [✅ #3184](https://github.com/tari-project/universe/pull/3184) | 💬 3 |
 | [#3178 — Custom node data location fails on macOS with NAS (SMB mount)](https://github.com/tari-project/universe/issues/3178) | universe | M | 60,000 | @brianp | ✅ Merged | [✅ #3187](https://github.com/tari-project/universe/pull/3187) | 💬 7 |
@@ -46,7 +46,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **28 bounties — 1,590,000 XTM**
 
-*Last updated: April 29, 2026 at 08:20 UTC*
+*Last updated: April 30, 2026 at 08:23 UTC*
 
 ### Tier Summary
 
