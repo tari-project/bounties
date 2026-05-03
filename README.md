@@ -15,9 +15,9 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
-| [#7745 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7745) | tari | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #7765](https://github.com/tari-project/tari/pull/7765) [🟡 #7749](https://github.com/tari-project/tari/pull/7749) | 💬 9 |
+| [#7745 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7745) | tari | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #7765](https://github.com/tari-project/tari/pull/7765) [🟡 #7749](https://github.com/tari-project/tari/pull/7749) [🟡 #7799](https://github.com/tari-project/tari/pull/7799) | 💬 11 |
 | [#7715 — Create lmdb unit tests](https://github.com/tari-project/tari/issues/7715) | tari | M | 60,000 | @SWvheerden | 🟡 PR Open | [🟡 #7741](https://github.com/tari-project/tari/pull/7741) | 💬 4 |
-| [#1588 — v1.2.0: Windows 11: Auto-start on system boot: When user restarts laptop, app does not automatically relaunch](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3182](https://github.com/tari-project/universe/pull/3182) | 💬 100 |
+| [#1588 — v1.2.0: Windows 11: Auto-start on system boot: When user restarts laptop, app does not automatically relaunch](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3182](https://github.com/tari-project/universe/pull/3182) [🟡 #3211](https://github.com/tari-project/universe/pull/3211) | 💬 100 |
 | [#3204 — Tari Universe terminates external xmrig processes on shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3206](https://github.com/tari-project/universe/pull/3206) | 💬 3 |
 | [#3028 — Cleanup old binary files](https://github.com/tari-project/universe/issues/3028) | universe | S | 15,000 | @brianp | 🟡 PR Open | [🟡 #3181](https://github.com/tari-project/universe/pull/3181) [🟡 #3197](https://github.com/tari-project/universe/pull/3197) [🟡 #3205](https://github.com/tari-project/universe/pull/3205) | 💬 5 |
 | [#3111 — [BUG] No Linux Support](https://github.com/tari-project/universe/issues/3111) | universe | S | 15,000 | @brianp | 🟡 PR Open | [🟡 #3183](https://github.com/tari-project/universe/pull/3183) | 💬 4 |
@@ -46,7 +46,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **28 bounties — 1,590,000 XTM**
 
-*Last updated: May 2, 2026 at 07:45 UTC*
+*Last updated: May 3, 2026 at 08:02 UTC*
 
 ### Tier Summary
 
