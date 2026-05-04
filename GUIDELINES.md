@@ -66,7 +66,6 @@ Rewrite all bounty issues in place using this format. Apply `bounty` plus the ap
 
 - AI-assisted development is expected and encouraged
 - If you get stuck, ask in Discord
-- If you can't complete it within 14 days of claiming, let us know so someone else can pick it up
 ```
 
 ---

@@ -46,17 +46,16 @@ original_size: {tier}
 
 ### How to Claim
 
-1. Comment on this issue stating your intent to work on it
-2. Workgroup lead confirms the claim (first credible claim gets it)
-3. Deliver the work as a PR or other specified deliverable
-4. Workgroup lead reviews against acceptance criteria
-5. On acceptance, payment is processed
+1. Comment on this issue to signal intent (courtesy, not a lock)
+2. Fork the repo and do the work
+3. Submit a PR that meets the acceptance criteria
+4. First PR that passes review and gets merged wins the bounty
+5. On acceptance, XTM payment is processed
 
 ### Notes
 
 - AI-assisted development is expected and encouraged
 - If you get stuck, ask in Discord
-- If you can't complete it within 14 days of claiming, let us know so someone else can pick it up
 """
 
 
