@@ -15,10 +15,10 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
+| [#1957 — Bounty: Agent-friendly wallet authentication](https://github.com/tari-project/tari-ootle/issues/1957) | tari-ootle | L | 150,000 | @sdbondi | 🟢 Open | — | 💬 2 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #121](https://github.com/tari-project/minotari-cli/pull/121) | 💬 3 |
 | [#7745 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7745) | tari | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #7765](https://github.com/tari-project/tari/pull/7765) [🟡 #7799](https://github.com/tari-project/tari/pull/7799) | 💬 17 |
 | [#7796 — Harden offline transaction signing](https://github.com/tari-project/tari/issues/7796) | tari | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #7804](https://github.com/tari-project/tari/pull/7804) | 💬 4 |
-| [#7715 — Create lmdb unit tests](https://github.com/tari-project/tari/issues/7715) | tari | M | 60,000 | @SWvheerden | 🟡 PR Open | [🟡 #7741](https://github.com/tari-project/tari/pull/7741) [🟡 #7817](https://github.com/tari-project/tari/pull/7817) | 💬 6 |
 | [#7776 — Better feedback of rejected transactions](https://github.com/tari-project/tari/issues/7776) | tari | M | 60,000 | @SWvheerden | 🟡 PR Open | [🟡 #7811](https://github.com/tari-project/tari/pull/7811) [🟡 #7812](https://github.com/tari-project/tari/pull/7812) [🟡 #7816](https://github.com/tari-project/tari/pull/7816) | 💬 6 |
 | [#1588 — v1.2.0: Windows 11: Auto-start on system boot: When user restarts laptop, app does not automatically relaunch](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3182](https://github.com/tari-project/universe/pull/3182) | 💬 100 |
 | [#3204 — Tari Universe terminates external xmrig processes on shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3206](https://github.com/tari-project/universe/pull/3206) [🟡 #3212](https://github.com/tari-project/universe/pull/3212) [🟡 #3214](https://github.com/tari-project/universe/pull/3214) | 💬 4 |
@@ -31,6 +31,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#1 — Replace with a supported robust solution](https://github.com/tari-project/aiteen/issues/1) | aiteen | M | 60,000 | @metalaureate | ✅ Merged | [✅ #3](https://github.com/tari-project/aiteen/pull/3) [🟡 #5](https://github.com/tari-project/aiteen/pull/5) | 💬 7 |
 | [#1 — Install, configure, set up the Tari Community Discourse server.](https://github.com/tari-project/community-discourse/issues/1) | community-discourse | M | 60,000 | @metalaureate | ✅ Merged | [✅ #2](https://github.com/tari-project/community-discourse/pull/2) | 💬 5 |
 | [#113 — add payref tracking to wallet](https://github.com/tari-project/minotari-cli/issues/113) | minotari-cli | M | 60,000 | @SWvheerden | ✅ Merged | [✅ #117](https://github.com/tari-project/minotari-cli/pull/117) | 💬 5 |
+| [#7715 — Create lmdb unit tests](https://github.com/tari-project/tari/issues/7715) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [✅ #7741](https://github.com/tari-project/tari/pull/7741) | 💬 7 |
 | [#7736 — create offline singing cucumber test](https://github.com/tari-project/tari/issues/7736) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [✅ #7743](https://github.com/tari-project/tari/pull/7743) | 💬 7 |
 | [#7738 — Let the wallet save more scanned block headers by spare headers beyond a day](https://github.com/tari-project/tari/issues/7738) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [✅ #7744](https://github.com/tari-project/tari/pull/7744) | 💬 9 |
 | [#1974 — Fix claim burn ownership proof validation in cucumber tests](https://github.com/tari-project/tari-ootle/issues/1974) | tari-ootle | M | 60,000 | @sdbondi | ✅ Merged | [✅ #2024](https://github.com/tari-project/tari-ootle/pull/2024) | 💬 5 |
@@ -48,9 +49,9 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3128 — seed wallet import problem](https://github.com/tari-project/universe/issues/3128) | universe | S | 15,000 | @brianp | ✅ Merged | [✅ #3186](https://github.com/tari-project/universe/pull/3186) | 💬 7 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | 💬 3 |
 
-**32 bounties — 1,965,000 XTM**
+**33 bounties — 2,115,000 XTM**
 
-*Last updated: May 6, 2026 at 08:27 UTC*
+*Last updated: May 7, 2026 at 08:34 UTC*
 
 ### Tier Summary
 
@@ -58,4 +59,4 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 |:----:|:-----:|----:|
 | S | 11 | 15,000 |
 | M | 15 | 60,000 |
-| L | 6 | 150,000 |
+| L | 7 | 150,000 |
