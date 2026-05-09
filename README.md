@@ -16,12 +16,12 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
 | [#1957 — Bounty: Agent-friendly wallet authentication](https://github.com/tari-project/tari-ootle/issues/1957) | tari-ootle | L | 150,000 | @sdbondi | 🟢 Open | — | 💬 2 |
-| [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #121](https://github.com/tari-project/minotari-cli/pull/121) | 💬 3 |
-| [#7745 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7745) | tari | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #7765](https://github.com/tari-project/tari/pull/7765) [🟡 #7799](https://github.com/tari-project/tari/pull/7799) | 💬 17 |
+| [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #121](https://github.com/tari-project/minotari-cli/pull/121) [🟡 #122](https://github.com/tari-project/minotari-cli/pull/122) | 💬 4 |
+| [#7745 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7745) | tari | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #7765](https://github.com/tari-project/tari/pull/7765) [🟡 #7799](https://github.com/tari-project/tari/pull/7799) | 💬 18 |
 | [#7796 — Harden offline transaction signing](https://github.com/tari-project/tari/issues/7796) | tari | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #7804](https://github.com/tari-project/tari/pull/7804) | 💬 4 |
-| [#7776 — Better feedback of rejected transactions](https://github.com/tari-project/tari/issues/7776) | tari | M | 60,000 | @SWvheerden | 🟡 PR Open | [🟡 #7811](https://github.com/tari-project/tari/pull/7811) [🟡 #7812](https://github.com/tari-project/tari/pull/7812) [🟡 #7816](https://github.com/tari-project/tari/pull/7816) [🟡 #7818](https://github.com/tari-project/tari/pull/7818) | 💬 6 |
+| [#7776 — Better feedback of rejected transactions](https://github.com/tari-project/tari/issues/7776) | tari | M | 60,000 | @SWvheerden | 🟡 PR Open | [🟡 #7811](https://github.com/tari-project/tari/pull/7811) | 💬 6 |
 | [#1588 — v1.2.0: Windows 11: Auto-start on system boot: When user restarts laptop, app does not automatically relaunch](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3182](https://github.com/tari-project/universe/pull/3182) | 💬 100 |
-| [#3204 — Tari Universe terminates external xmrig processes on shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3206](https://github.com/tari-project/universe/pull/3206) [🟡 #3212](https://github.com/tari-project/universe/pull/3212) [🟡 #3214](https://github.com/tari-project/universe/pull/3214) [🟡 #3216](https://github.com/tari-project/universe/pull/3216) [🟡 #3217](https://github.com/tari-project/universe/pull/3217) | 💬 7 |
+| [#3204 — Tari Universe terminates external xmrig processes on shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3206](https://github.com/tari-project/universe/pull/3206) [🟡 #3212](https://github.com/tari-project/universe/pull/3212) [🟡 #3214](https://github.com/tari-project/universe/pull/3214) [🟡 #3216](https://github.com/tari-project/universe/pull/3216) [🟡 #3217](https://github.com/tari-project/universe/pull/3217) | 💬 8 |
 | [#7795 — Create better ledger installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [🟡 #7803](https://github.com/tari-project/tari/pull/7803) [🟡 #7805](https://github.com/tari-project/tari/pull/7805) | 💬 4 |
 | [#3028 — Cleanup old binary files](https://github.com/tari-project/universe/issues/3028) | universe | S | 15,000 | @brianp | 🟡 PR Open | [🟡 #3181](https://github.com/tari-project/universe/pull/3181) [🟡 #3197](https://github.com/tari-project/universe/pull/3197) [🟡 #3205](https://github.com/tari-project/universe/pull/3205) [🟡 #3213](https://github.com/tari-project/universe/pull/3213) | 💬 5 |
 | [#3111 — [BUG] No Linux Support](https://github.com/tari-project/universe/issues/3111) | universe | S | 15,000 | @brianp | 🟡 PR Open | [🟡 #3183](https://github.com/tari-project/universe/pull/3183) | 💬 4 |
@@ -51,7 +51,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **33 bounties — 2,115,000 XTM**
 
-*Last updated: May 8, 2026 at 07:43 UTC*
+*Last updated: May 9, 2026 at 07:57 UTC*
 
 ### Tier Summary
 
