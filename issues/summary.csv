@@ -1,0 +1,31 @@
+File,Repo,Issue,Title,URL,Tier,XTM
+tari-7164-jmt-data-optimization.md,tari-project/tari,7164,JMT Data Optimization,https://github.com/tari-project/tari/issues/7164,L,150000
+ootle-1931-wallet-address-book.md,tari-project/tari-ootle,1931,Wallet Address Book,https://github.com/tari-project/tari-ootle/issues/1931,L,150000
+faqqer-1-replace-with-ai-help-bot.md,tari-project/faqqer,1,Replace Faqqer with Self-Learning Multi-Channel AI Help Bot,https://github.com/tari-project/faqqer/issues/1,L,150000
+tari-7715-lmdb-unit-tests.md,tari-project/tari,7715,Create LMDB Unit Tests,https://github.com/tari-project/tari/issues/7715,M,60000
+tari-7736-cucumber-offline-signing.md,tari-project/tari,7736,Create Offline Signing Cucumber Test,https://github.com/tari-project/tari/issues/7736,M,60000
+tari-7738-wallet-sparse-header-storage.md,tari-project/tari,7738,Wallet Sparse Scanned Block Header Storage,https://github.com/tari-project/tari/issues/7738,M,60000
+minotari-cli-113-payref-tracking.md,tari-project/minotari-cli,113,Add Payref Tracking to Wallet,https://github.com/tari-project/minotari-cli/issues/113,M,60000
+ootle-1974-cucumber-claim-burn-proof.md,tari-project/tari-ootle,1974,Fix Claim Burn Ownership Proof in Cucumber Tests,https://github.com/tari-project/tari-ootle/issues/1974,M,60000
+ootle-1977-eviction-detection-timeout.md,tari-project/tari-ootle,1977,Fix Eviction Detection Timeout in Offline Validator Test,https://github.com/tari-project/tari-ootle/issues/1977,M,60000
+ootle-1978-vn-registration-timeout.md,tari-project/tari-ootle,1978,Fix VN Registration Detection Timeout in State Sync Test,https://github.com/tari-project/tari-ootle/issues/1978,M,60000
+universe-3178-macos-nas-smb-data-location.md,tari-project/universe,3178,Fix Custom Node Data Location on macOS with NAS (SMB),https://github.com/tari-project/universe/issues/3178,M,60000
+universe-3084-custom-node-selection.md,tari-project/universe,3084,Support Custom Node Selection for Remote Connection,https://github.com/tari-project/universe/issues/3084,M,60000
+universe-1588-auto-start-boot.md,tari-project/universe,1588,Fix Auto-Start on System Boot (Windows),https://github.com/tari-project/universe/issues/1588,M,60000
+aiteen-1-replace-i18n-pipeline.md,tari-project/aiteen,1,Replace Aiteen with a Robust i18n Pipeline,https://github.com/tari-project/aiteen/issues/1,M,60000
+community-discourse-1-setup-forum.md,tari-project/community-discourse,1,Set Up Tari Community Discourse Forum,https://github.com/tari-project/community-discourse/issues/1,M,60000
+tari-7737-cucumber-merge-mining-rxt.md,tari-project/tari,7737,Convert Merge Mining Cucumber Tests to RxT,https://github.com/tari-project/tari/issues/7737,S,15000
+minotari-cli-102-cucumber-scan-height.md,tari-project/minotari-cli,102,Fix Cucumber Wallet Scan Height Validation,https://github.com/tari-project/minotari-cli/issues/102,S,15000
+ootle-1975-indexer-event-topic.md,tari-project/tari-ootle,1975,Fix Event Topic Assertion in Indexer Cucumber Test,https://github.com/tari-project/tari-ootle/issues/1975,S,15000
+ootle-1976-indexer-substate-lookup.md,tari-project/tari-ootle,1976,Fix Indexer Substate Lookup in Wallet Daemon Test,https://github.com/tari-project/tari-ootle/issues/1976,S,15000
+universe-3128-seed-word-import.md,tari-project/universe,3128,Fix Seed Word Import Mnemonic Error,https://github.com/tari-project/universe/issues/3128,S,15000
+universe-3111-linux-build-docs.md,tari-project/universe,3111,Update Linux Build Documentation,https://github.com/tari-project/universe/issues/3111,S,15000
+universe-3028-binary-cleanup.md,tari-project/universe,3028,Cleanup Old Binary Files After Update,https://github.com/tari-project/universe/issues/3028,S,15000
+universe-2657-sleep-resume-mining-state.md,tari-project/universe,2657,Persist Mining State Across Sleep/Resume,https://github.com/tari-project/universe/issues/2657,S,15000
+wxtm-bridge-frontend-103-mitigate-risks-due-to-next-known-cves-version-and-.md,tari-project/wxtm-bridge-frontend,103,Mitigate risks due to "next" known CVEs version and current versions range,https://github.com/tari-project/wxtm-bridge-frontend/issues/103,S,$0,0
+universe-3204-tari-universe-terminates-external-xmrig-processes-.md,tari-project/universe,3204,Tari Universe terminates external xmrig processes on shutdown,https://github.com/tari-project/universe/issues/3204,M,$0,0
+minotari-cli-119-migration-from-console-wallet.md,tari-project/minotari-cli,119,Migration from console wallet,https://github.com/tari-project/minotari-cli/issues/119,L,$0,0
+tari-7776-better-feedback-of-rejected-transactions.md,tari-project/tari,7776,Better feedback of rejected transactions,https://github.com/tari-project/tari/issues/7776,M,$0,0
+tari-7795-create-better-ledger-installer.md,tari-project/tari,7795,Create better ledger installer,https://github.com/tari-project/tari/issues/7795,S,$0,0
+tari-7796-harden-offline-transaction-signing.md,tari-project/tari,7796,Harden offline transaction signing,https://github.com/tari-project/tari/issues/7796,L,$0,0
+universe-3210-tari-universe-1-6-11-reports-rate-in-g-s-on-mac-fo.md,tari-project/universe,3210,Fix incorrect hashrate unit display on macOS,https://github.com/tari-project/universe/issues/3210,S,15000,0
