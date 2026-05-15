@@ -15,6 +15,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
+| [#3210 — Fix incorrect hashrate unit display on macOS](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | 🟢 Open | — | 💬 1 |
 | [#119 — Migration from Console Wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #121](https://github.com/tari-project/minotari-cli/pull/121) [🟡 #122](https://github.com/tari-project/minotari-cli/pull/122) | 💬 12 |
 | [#7745 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7745) | tari | L | 150,000 | @SWvheerden | 🟡 PR Open | [🟡 #7765](https://github.com/tari-project/tari/pull/7765) [🟡 #7799](https://github.com/tari-project/tari/pull/7799) | 💬 19 |
 | [#1957 — Bounty: Agent-friendly wallet authentication](https://github.com/tari-project/tari-ootle/issues/1957) | tari-ootle | L | 150,000 | @sdbondi | 🟡 PR Open | [🟡 #2109](https://github.com/tari-project/tari-ootle/pull/2109) [🟡 #2110](https://github.com/tari-project/tari-ootle/pull/2110) [🟡 #2113](https://github.com/tari-project/tari-ootle/pull/2113) [🟡 #2115](https://github.com/tari-project/tari-ootle/pull/2115) | 💬 9 |
@@ -49,14 +50,14 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3128 — Fix Seed Word Import Mnemonic Error](https://github.com/tari-project/universe/issues/3128) | universe | S | 15,000 | @brianp | ✅ Merged | [✅ #3186](https://github.com/tari-project/universe/pull/3186) | 💬 7 |
 | [#7164 — JMT Data Optimization](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | 💬 3 |
 
-**33 bounties — 2,115,000 XTM**
+**34 bounties — 2,130,000 XTM**
 
-*Last updated: May 15, 2026 at 17:22 UTC*
+*Last updated: May 15, 2026 at 17:35 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 11 | 15,000 |
+| S | 12 | 15,000 |
 | M | 15 | 60,000 |
 | L | 7 | 150,000 |
