@@ -265,6 +265,52 @@ Risk surface bump: if issue touches signing, wallet, consensus, or bridge code, 
 
 ---
 
+## 5. Discovery Bounties
+
+Discovery bounties reward contributors for **identifying** an issue (not fixing it). They are separate from the implementation bounty on the same issue.
+
+### Detection
+
+Search for issues with `discovery-bounty-S`, `discovery-bounty-M`, `discovery-bounty-L`, or `discovery-bounty-XL` labels:
+
+```bash
+gh search issues --owner tari-project --label "discovery-bounty-S" --json repository,number,title,url
+gh search issues --owner tari-project --label "discovery-bounty-M" --json repository,number,title,url
+gh search issues --owner tari-project --label "discovery-bounty-L" --json repository,number,title,url
+gh search issues --owner tari-project --label "discovery-bounty-XL" --json repository,number,title,url
+```
+
+### Award Verification
+
+For each labeled issue, look for a comment matching the pattern:
+
+```
+discovery-bounty (bounty for identifying the underlying issue) awarded to @<username>
+```
+
+Fetch comments and filter:
+```bash
+gh issue view <number> -R <repo> --json comments --jq '.comments[] | select(.body | test("discovery-bounty")) | {author: .author.login, body: .body, createdAt: .createdAt}'
+```
+
+The comment must be posted by a maintainer (e.g., @metalaureate, @brianp, @SWvheerden, @sdbondi).
+
+### Ledger Entry
+
+Record in `payouts/ledger.csv` with:
+- **pr**: leave empty (no PR involved)
+- **bounty_name**: prefix with `Discovery: ` followed by the issue title
+- **tier**: from the `discovery-bounty-<tier>` label (S/M/L/XL)
+- **notes**: `discovery bounty; awarded by @<maintainer>`
+
+XTM amounts follow the same tier table as implementation bounties.
+
+### During Board Updates
+
+When scanning for pending payouts, also run the discovery bounty search. Cross-reference against `payouts/ledger.csv` by `(repo, issue)` where `bounty_name` starts with `Discovery:` to avoid double-paying.
+
+---
+
 ## Known Contributor Patterns (update as observed)
 
 | Contributor | Pattern | Status |
