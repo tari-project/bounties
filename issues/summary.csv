@@ -29,3 +29,4 @@ tari-7776-better-feedback-of-rejected-transactions.md,tari-project/tari,7776,Bet
 tari-7795-create-better-ledger-installer.md,tari-project/tari,7795,Create better ledger installer,https://github.com/tari-project/tari/issues/7795,S,$0,0
 tari-7796-harden-offline-transaction-signing.md,tari-project/tari,7796,Harden offline transaction signing,https://github.com/tari-project/tari/issues/7796,L,$0,0
 universe-3210-tari-universe-1-6-11-reports-rate-in-g-s-on-mac-fo.md,tari-project/universe,3210,Fix incorrect hashrate unit display on macOS,https://github.com/tari-project/universe/issues/3210,S,15000,0
+wallet-benchmarks-1-create-wallet-benchmarks.md,tari-project/wallet-benchmarks,1,Create wallet benchmarks,https://github.com/tari-project/wallet-benchmarks/issues/1,L,$0,0
