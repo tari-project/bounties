@@ -311,6 +311,46 @@ When scanning for pending payouts, also run the discovery bounty search. Cross-r
 
 ---
 
+## 6. Retro Bounties
+
+Retro bounties reward PRs that were submitted **without** a pre-existing bounty issue. The maintainer decides after the fact that the work deserves a bounty.
+
+### How They Differ from Forward Bounties
+
+| | Forward Bounty | Retro Bounty |
+|---|---|---|
+| Trigger | Issue created first, PR follows | PR submitted first, bounty awarded after |
+| Labels applied to | The **issue** | The **PR** directly |
+| Local issue file | Yes (via `add_bounty.py`) | No — no issue file created |
+| Sync script | Yes | No — labels applied manually |
+| README board | Appears (if issue labeled) | Does NOT appear on board |
+
+### Labeling a Retro Bounty
+
+When the user says "retro bounty" or "label as retro bounty":
+
+1. Apply labels **directly to the PR** (not an issue):
+   - `retro-bounty` — marks it as retroactive
+   - `bounty-S` / `bounty-M` / `bounty-L` / `bounty-XL` — size tier
+
+2. **Do NOT apply the `bounty` label.** Retro bounties use only `retro-bounty` + size.
+
+```bash
+gh pr edit <number> -R <repo> --add-label "retro-bounty,bounty-S"
+```
+
+2. **Do NOT** create a bounty issue, run `add_bounty.py`, run `sync_issues.py`, or overwrite the PR body.
+3. **Do NOT** create a local issue markdown file.
+
+### Recording Payment
+
+Once the retro-bounty PR is merged, record in `payouts/ledger.csv` with:
+- **issue**: leave empty or use the PR number with a note
+- **pr**: the PR number
+- **notes**: `retro bounty; merged <date>`
+
+---
+
 ## Known Contributor Patterns (update as observed)
 
 | Contributor | Pattern | Status |

@@ -24,7 +24,7 @@ universe-3028-binary-cleanup.md,tari-project/universe,3028,Cleanup Old Binary Fi
 universe-2657-sleep-resume-mining-state.md,tari-project/universe,2657,Persist Mining State Across Sleep/Resume,https://github.com/tari-project/universe/issues/2657,S,15000
 wxtm-bridge-frontend-103-mitigate-risks-due-to-next-known-cves-version-and-.md,tari-project/wxtm-bridge-frontend,103,Mitigate risks due to "next" known CVEs version and current versions range,https://github.com/tari-project/wxtm-bridge-frontend/issues/103,S,$0,0
 universe-3204-tari-universe-terminates-external-xmrig-processes-.md,tari-project/universe,3204,Tari Universe terminates external xmrig processes on shutdown,https://github.com/tari-project/universe/issues/3204,M,$0,0
-minotari-cli-119-migration-from-console-wallet.md,tari-project/minotari-cli,119,Migration from console wallet,https://github.com/tari-project/minotari-cli/issues/119,L,$0,0
+minotari-cli-119-migration-from-console-wallet.md,tari-project/minotari-cli,119,Migration from console wallet,https://github.com/tari-project/minotari-cli/issues/119,L,150000
 tari-7776-better-feedback-of-rejected-transactions.md,tari-project/tari,7776,Better feedback of rejected transactions,https://github.com/tari-project/tari/issues/7776,M,$0,0
 tari-7795-create-better-ledger-installer.md,tari-project/tari,7795,Create better ledger installer,https://github.com/tari-project/tari/issues/7795,S,$0,0
 tari-7796-harden-offline-transaction-signing.md,tari-project/tari,7796,Harden offline transaction signing,https://github.com/tari-project/tari/issues/7796,L,$0,0
