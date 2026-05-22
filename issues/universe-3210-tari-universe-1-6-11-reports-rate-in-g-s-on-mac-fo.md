@@ -25,13 +25,13 @@ Tari Universe on macOS incorrectly displays CPU mining hashrate in G/s (graphs p
 - Screenshot showing the bug: the UI displays "G/s" for CPU mining on Mac where it should show "H/s"
 - Mac only runs RandomX (SHA-3 based), not Cuckoo Cycle (c29), so graph-rate units are never appropriate on macOS
 
-### How to Claim
+### How It Works
 
 1. Comment on this issue to signal intent (courtesy, not a lock)
 2. Fork the repo and do the work
-3. Submit a PR that meets the acceptance criteria
-4. First PR that passes review and gets merged wins the bounty
-5. On acceptance, XTM payment is processed
+3. Submit a PR that references the issue with a closing keyword (e.g. `Fixes #3210`) so GitHub links your PR to the bounty automatically
+4. Bounties are competitive. Multiple PRs may be submitted for the same bounty. Review comments are public, and contributors may borrow ideas from each other's work. The maintainer selects the PR that best solves the problem, considering code quality, completeness, and contributor behavior. In cases where multiple contributors made significant contributions, the maintainer may split the bounty. The maintainer's decision is final.
+5. Earn XTM (processing may take up to a week; reach out to @possum on Discord with your Tari address)
 
 ### Notes
 
