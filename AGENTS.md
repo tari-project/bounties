@@ -99,7 +99,7 @@ my_size_note: "optional note"    # Explain any re-sizing decisions
 ---
 ```
 
-The body follows the template in `GUIDELINES.md`: Description, Acceptance Criteria, Context, How to Claim, Notes.
+The body follows the template in `GUIDELINES.md`: Description, Acceptance Criteria, Context, How It Works, Notes.
 
 ### Adding a New Bounty
 
@@ -124,7 +124,7 @@ Before marking a bounty file as ready:
 - **Acceptance criteria**: 3-5 items, each specific, verifiable, and binary pass/fail. No hedges ("if feasible"), no vague timing ("automatically")
 - **Tier**: Correct per all 4 sizing dimensions. Risk surface bump applied where needed
 - **Context**: Links to relevant code paths, error messages, related issues/PRs, file paths
-- **Template**: All sections present (Description, ACs, Context, How to Claim, Notes)
+- **Template**: All sections present (Description, ACs, Context, How It Works, Notes)
 
 ### Syncing to GitHub
 

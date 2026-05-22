@@ -54,13 +54,13 @@ Rewrite all bounty issues in place using this format. Apply `bounty` plus the ap
 
 [Links to relevant code, docs, RFCs, or discussions.]
 
-### How to Claim
+### How It Works
 
 1. Comment on this issue to signal intent (courtesy, not a lock)
 2. Fork the repo and do the work
-3. Submit a PR that meets the acceptance criteria
-4. First PR that passes review and gets merged wins the bounty
-5. On acceptance, XTM payment is processed
+3. Submit a PR that references the issue with a closing keyword (e.g. `Fixes #1234`) so GitHub links your PR to the bounty automatically
+4. Bounties are competitive. Multiple PRs may be submitted for the same bounty. Review comments are public, and contributors may borrow ideas from each other's work. The maintainer selects the PR that best solves the problem, considering code quality, completeness, and contributor behavior. In cases where multiple contributors made significant contributions, the maintainer may split the bounty. The maintainer's decision is final.
+5. Earn XTM (processing may take up to a week; reach out to @possum on Discord with your Tari address)
 
 ### Notes
 
