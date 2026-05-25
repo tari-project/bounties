@@ -31,3 +31,4 @@ tari-7796-harden-offline-transaction-signing.md,tari-project/tari,7796,Harden of
 universe-3210-tari-universe-1-6-11-reports-rate-in-g-s-on-mac-fo.md,tari-project/universe,3210,Fix incorrect hashrate unit display on macOS,https://github.com/tari-project/universe/issues/3210,S,15000,0
 wallet-benchmarks-1-create-wallet-benchmarks.md,tari-project/wallet-benchmarks,1,Create wallet benchmarks,https://github.com/tari-project/wallet-benchmarks/issues/1,L,$0,0
 tari-7829-console-wallet-key-migration.md,tari-project/tari,7829,Console wallet key migration,https://github.com/tari-project/tari/issues/7829,S,$0,0
+tari-7830-connection-types.md,tari-project/tari,7830,Connection types,https://github.com/tari-project/tari/issues/7830,M,$0,0
