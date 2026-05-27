@@ -15,6 +15,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
+| [#171 — Retro bounty: TIP-1 Tari Improvement Proposals process](https://github.com/tari-project/rfcs/issues/171) | rfcs | S | 15,000 | @? | 🟢 Open | — | 💬 3 |
 | [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @? | 🟡 PR Open | [🟡 #4](https://github.com/tari-project/wallet-benchmarks/pull/4) [🟡 #5](https://github.com/tari-project/wallet-benchmarks/pull/5) [🟡 #3](https://github.com/tari-project/wallet-benchmarks/pull/3) [🟡 #6](https://github.com/tari-project/wallet-benchmarks/pull/6) | 💬 19 |
 | [#7830 — Connection types](https://github.com/tari-project/tari/issues/7830) | tari | M | 60,000 | @SWvheerden | 🟡 PR Open | [🟡 #7851](https://github.com/tari-project/tari/pull/7851) [🟡 #7853](https://github.com/tari-project/tari/pull/7853) [🟡 #7854](https://github.com/tari-project/tari/pull/7854) [🟡 #7855](https://github.com/tari-project/tari/pull/7855) | 💬 7 |
 | [#1588 — Fix Auto-Start on System Boot (Windows)](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3182](https://github.com/tari-project/universe/pull/3182) [🟡 #3224](https://github.com/tari-project/universe/pull/3224) [🟡 #3225](https://github.com/tari-project/universe/pull/3225) [🟡 #3228](https://github.com/tari-project/universe/pull/3228) [🟡 #3229](https://github.com/tari-project/universe/pull/3229) [🟡 #3232](https://github.com/tari-project/universe/pull/3232) [🟡 #3239](https://github.com/tari-project/universe/pull/3239) [🟡 #3240](https://github.com/tari-project/universe/pull/3240) [🟡 #3241](https://github.com/tari-project/universe/pull/3241) | 💬 100 |
@@ -52,14 +53,14 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3128 — Fix Seed Word Import Mnemonic Error](https://github.com/tari-project/universe/issues/3128) | universe | S | 15,000 | @brianp | ✅ Merged | [✅ #3186](https://github.com/tari-project/universe/pull/3186) | 💬 7 |
 | [#7164 — JMT Data Optimization](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | 💬 3 |
 
-**36 bounties — 2,205,000 XTM**
+**37 bounties — 2,220,000 XTM**
 
-*Last updated: May 27, 2026 at 09:54 UTC*
+*Last updated: May 27, 2026 at 17:07 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 13 | 15,000 |
+| S | 14 | 15,000 |
 | M | 16 | 60,000 |
 | L | 7 | 150,000 |

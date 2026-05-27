@@ -34,6 +34,8 @@ REPO_MAINTAINER = {
     "tari-project/faqqer":             "metalaureate",
     "tari-project/aiteen":             "metalaureate",
     "tari-project/community-discourse":"metalaureate",
+    "tari-project/rfcs":               "SWvheerden",
+    "tari-project/ootle-py":           "sdbondi",
 }
 
 # Threshold: flag if last contributor comment is older than this many days

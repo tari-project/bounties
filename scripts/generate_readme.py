@@ -26,6 +26,8 @@ REPOS = [
     "tari-project/community-discourse",
     "tari-project/wxtm-bridge-frontend",
     "tari-project/wallet-benchmarks",
+    "tari-project/rfcs",
+    "tari-project/ootle-py",
 ]
 
 TIER_ORDER = {"L": 0, "M": 1, "S": 2, "XL": -1}
