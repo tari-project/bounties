@@ -15,8 +15,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
-| [#171 — Retro bounty: TIP-1 Tari Improvement Proposals process](https://github.com/tari-project/rfcs/issues/171) | rfcs | S | 15,000 | @? | 🟢 Open | — | 💬 4 |
-| [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @? | 🟡 PR Open | [🟡 #4](https://github.com/tari-project/wallet-benchmarks/pull/4) [🟡 #5](https://github.com/tari-project/wallet-benchmarks/pull/5) [🟡 #3](https://github.com/tari-project/wallet-benchmarks/pull/3) [🟡 #6](https://github.com/tari-project/wallet-benchmarks/pull/6) | 💬 25 |
+| [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @? | 🟡 PR Open | [🟡 #4](https://github.com/tari-project/wallet-benchmarks/pull/4) [🟡 #3](https://github.com/tari-project/wallet-benchmarks/pull/3) [🟡 #6](https://github.com/tari-project/wallet-benchmarks/pull/6) | 💬 25 |
 | [#1588 — Fix Auto-Start on System Boot (Windows)](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3182](https://github.com/tari-project/universe/pull/3182) [🟡 #3224](https://github.com/tari-project/universe/pull/3224) [🟡 #3225](https://github.com/tari-project/universe/pull/3225) [🟡 #3228](https://github.com/tari-project/universe/pull/3228) [🟡 #3229](https://github.com/tari-project/universe/pull/3229) [🟡 #3232](https://github.com/tari-project/universe/pull/3232) [🟡 #3239](https://github.com/tari-project/universe/pull/3239) [🟡 #3240](https://github.com/tari-project/universe/pull/3240) [🟡 #3241](https://github.com/tari-project/universe/pull/3241) | 💬 100 |
 | [#3204 — Fix Tari Universe Terminating External xmrig Processes on Shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3206](https://github.com/tari-project/universe/pull/3206) [🟡 #3212](https://github.com/tari-project/universe/pull/3212) [🟡 #3216](https://github.com/tari-project/universe/pull/3216) [🟡 #3217](https://github.com/tari-project/universe/pull/3217) [🟡 #3227](https://github.com/tari-project/universe/pull/3227) [🟡 #3249](https://github.com/tari-project/universe/pull/3249) [🟡 #3259](https://github.com/tari-project/universe/pull/3259) | 💬 20 |
 | [#7795 — Create Better Ledger Installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [🟡 #7803](https://github.com/tari-project/tari/pull/7803) [🟡 #7805](https://github.com/tari-project/tari/pull/7805) [🟡 #7864](https://github.com/tari-project/tari/pull/7864) | 💬 18 |
@@ -52,10 +51,11 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3035 — Error sending transcation, missing file: on first time use of wallet after launching app](https://github.com/tari-project/universe/issues/3035) | universe | S | 15,000 | @brianp | ✅ Merged | [✅ #3191](https://github.com/tari-project/universe/pull/3191) | 💬 2 |
 | [#3128 — Fix Seed Word Import Mnemonic Error](https://github.com/tari-project/universe/issues/3128) | universe | S | 15,000 | @brianp | ✅ Merged | [✅ #3186](https://github.com/tari-project/universe/pull/3186) | 💬 7 |
 | [#7164 — JMT Data Optimization](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | 💬 3 |
+| [#171 — Retro bounty: TIP-1 Tari Improvement Proposals process](https://github.com/tari-project/rfcs/issues/171) | rfcs | S | 15,000 | @? | ⚫ Closed | — | 💬 5 |
 
 **37 bounties — 2,220,000 XTM**
 
-*Last updated: June 2, 2026 at 10:24 UTC*
+*Last updated: June 3, 2026 at 10:59 UTC*
 
 ### Tier Summary
 
