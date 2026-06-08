@@ -15,7 +15,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
-| [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @? | 🟡 PR Open | [🟡 #4](https://github.com/tari-project/wallet-benchmarks/pull/4) [🟡 #3](https://github.com/tari-project/wallet-benchmarks/pull/3) [🟡 #6](https://github.com/tari-project/wallet-benchmarks/pull/6) | 💬 25 |
+| [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @? | 🟡 PR Open | [🟡 #4](https://github.com/tari-project/wallet-benchmarks/pull/4) [🟡 #6](https://github.com/tari-project/wallet-benchmarks/pull/6) | 💬 25 |
 | [#1588 — Fix Auto-Start on System Boot (Windows)](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3182](https://github.com/tari-project/universe/pull/3182) [🟡 #3224](https://github.com/tari-project/universe/pull/3224) [🟡 #3225](https://github.com/tari-project/universe/pull/3225) [🟡 #3228](https://github.com/tari-project/universe/pull/3228) [🟡 #3229](https://github.com/tari-project/universe/pull/3229) [🟡 #3232](https://github.com/tari-project/universe/pull/3232) [🟡 #3239](https://github.com/tari-project/universe/pull/3239) [🟡 #3240](https://github.com/tari-project/universe/pull/3240) [🟡 #3241](https://github.com/tari-project/universe/pull/3241) | 💬 100 |
 | [#3204 — Fix Tari Universe Terminating External xmrig Processes on Shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | 🟡 PR Open | [🟡 #3206](https://github.com/tari-project/universe/pull/3206) [🟡 #3212](https://github.com/tari-project/universe/pull/3212) [🟡 #3216](https://github.com/tari-project/universe/pull/3216) [🟡 #3217](https://github.com/tari-project/universe/pull/3217) [🟡 #3227](https://github.com/tari-project/universe/pull/3227) [🟡 #3249](https://github.com/tari-project/universe/pull/3249) [🟡 #3259](https://github.com/tari-project/universe/pull/3259) [🟡 #3269](https://github.com/tari-project/universe/pull/3269) | 💬 20 |
 | [#7795 — Create Better Ledger Installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [🟡 #7803](https://github.com/tari-project/tari/pull/7803) [🟡 #7805](https://github.com/tari-project/tari/pull/7805) [🟡 #7864](https://github.com/tari-project/tari/pull/7864) [🟡 #7872](https://github.com/tari-project/tari/pull/7872) | 💬 19 |
@@ -55,7 +55,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **37 bounties — 2,220,000 XTM**
 
-*Last updated: June 7, 2026 at 08:56 UTC*
+*Last updated: June 8, 2026 at 10:56 UTC*
 
 ### Tier Summary
 
