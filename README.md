@@ -20,11 +20,11 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#1588 — v1.2.0: Windows 11: Auto-start on system boot: When user restarts laptop, app does not automatically relaunch](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 12 |
 | [#3204 — Tari Universe terminates external xmrig processes on shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | 🟡 PR Open | [10 PRs](https://github.com/tari-project/universe/pulls) | 💬 11 |
 | [#125 — Race condition in utxo locking](https://github.com/tari-project/minotari-cli/issues/125) | minotari-cli | S | 15,000 | @SWvheerden | 🟡 PR Open | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 4 |
-| [#7795 — Create better ledger installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [8 PRs](https://github.com/tari-project/tari/pulls) | 💬 11 |
+| [#7795 — Create better ledger installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [9 PRs](https://github.com/tari-project/tari/pulls) | 💬 11 |
 | [#3028 — Cleanup old binary files](https://github.com/tari-project/universe/issues/3028) | universe | S | 15,000 | @brianp | 🟡 PR Open | [11 PRs](https://github.com/tari-project/universe/pulls) | 💬 12 |
 | [#3111 — [BUG] No Linux Support](https://github.com/tari-project/universe/issues/3111) | universe | S | 15,000 | @brianp | 🟡 PR Open | [7 PRs](https://github.com/tari-project/universe/pulls) | 💬 7 |
 | [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | 🟡 PR Open | [10 PRs](https://github.com/tari-project/universe/pulls) | 💬 11 |
-| [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [14 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 17 |
+| [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [14 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 18 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
 | [#7796 — Harden offline transaction signing](https://github.com/tari-project/tari/issues/7796) | tari | L | 150,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
@@ -60,7 +60,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **42 bounties — 2,430,000 XTM**
 
-*Last updated: June 18, 2026 at 19:55 UTC*
+*Last updated: June 18, 2026 at 20:54 UTC*
 
 ### Tier Summary
 
