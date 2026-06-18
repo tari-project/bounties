@@ -15,11 +15,11 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
-| [#1949 — walletd: Log of balance changes](https://github.com/tari-project/tari-ootle/issues/1949) | tari-ootle | L | 150,000 | @sdbondi | 🟢 Open | — | — |
-| [#125 — Race condition in utxo locking](https://github.com/tari-project/minotari-cli/issues/125) | minotari-cli | S | 15,000 | @SWvheerden | 🟢 Open | — | — |
+| [#1949 — walletd: Log of balance changes](https://github.com/tari-project/tari-ootle/issues/1949) | tari-ootle | L | 150,000 | @sdbondi | 🟡 PR Open | — | 💬 1 |
 | [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [6 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 7 |
 | [#1588 — v1.2.0: Windows 11: Auto-start on system boot: When user restarts laptop, app does not automatically relaunch](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 12 |
 | [#3204 — Tari Universe terminates external xmrig processes on shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | 🟡 PR Open | [10 PRs](https://github.com/tari-project/universe/pulls) | 💬 11 |
+| [#125 — Race condition in utxo locking](https://github.com/tari-project/minotari-cli/issues/125) | minotari-cli | S | 15,000 | @SWvheerden | 🟡 PR Open | — | 💬 2 |
 | [#7795 — Create better ledger installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [8 PRs](https://github.com/tari-project/tari/pulls) | 💬 10 |
 | [#3028 — Cleanup old binary files](https://github.com/tari-project/universe/issues/3028) | universe | S | 15,000 | @brianp | 🟡 PR Open | [11 PRs](https://github.com/tari-project/universe/pulls) | 💬 12 |
 | [#3111 — [BUG] No Linux Support](https://github.com/tari-project/universe/issues/3111) | universe | S | 15,000 | @brianp | 🟡 PR Open | [7 PRs](https://github.com/tari-project/universe/pulls) | 💬 7 |
@@ -60,7 +60,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **42 bounties — 2,430,000 XTM**
 
-*Last updated: June 18, 2026 at 00:33 UTC*
+*Last updated: June 18, 2026 at 01:33 UTC*
 
 ### Tier Summary
 
