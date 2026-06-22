@@ -19,7 +19,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [6 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 7 |
 | [#1588 — v1.2.0: Windows 11: Auto-start on system boot: When user restarts laptop, app does not automatically relaunch](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 12 |
 | [#3204 — Tari Universe terminates external xmrig processes on shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | 🟡 PR Open | [10 PRs](https://github.com/tari-project/universe/pulls) | 💬 11 |
-| [#125 — Race condition in utxo locking](https://github.com/tari-project/minotari-cli/issues/125) | minotari-cli | S | 15,000 | @SWvheerden | 🟡 PR Open | [4 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 4 |
 | [#7795 — Create better ledger installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [9 PRs](https://github.com/tari-project/tari/pulls) | 💬 11 |
 | [#3028 — Cleanup old binary files](https://github.com/tari-project/universe/issues/3028) | universe | S | 15,000 | @brianp | 🟡 PR Open | [11 PRs](https://github.com/tari-project/universe/pulls) | 💬 12 |
 | [#3111 — [BUG] No Linux Support](https://github.com/tari-project/universe/issues/3111) | universe | S | 15,000 | @brianp | 🟡 PR Open | [7 PRs](https://github.com/tari-project/universe/pulls) | 💬 7 |
@@ -45,6 +44,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3084 — Feature Request: Support Custom Node Selection for Better Connectivity](https://github.com/tari-project/universe/issues/3084) | universe | M | 60,000 | @brianp | ✅ Merged | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
 | [#3178 — Custom node data location fails on macOS with NAS (SMB mount)](https://github.com/tari-project/universe/issues/3178) | universe | M | 60,000 | @brianp | ✅ Merged | [5 PRs](https://github.com/tari-project/universe/pulls) | 💬 6 |
 | [#102 — wallet cucumber test scan to height is not properly tested](https://github.com/tari-project/minotari-cli/issues/102) | minotari-cli | S | 15,000 | @SWvheerden | ✅ Merged | [2 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 2 |
+| [#125 — Race condition in utxo locking](https://github.com/tari-project/minotari-cli/issues/125) | minotari-cli | S | 15,000 | @SWvheerden | ✅ Merged | [4 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 4 |
 | [#171 — Retro bounty: TIP-1 Tari Improvement Proposals process](https://github.com/tari-project/rfcs/issues/171) | rfcs | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/rfcs/pulls) | 💬 4 |
 | [#-7822 — fix: consume merge mining proxy monero reservation](https://github.com/tari-project/tari/pull/7822) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7259 — feat: auto zero value coinbase reward calculation](https://github.com/tari-project/tari/pull/7259) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
@@ -60,7 +60,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **42 bounties — 2,430,000 XTM**
 
-*Last updated: June 22, 2026 at 14:38 UTC*
+*Last updated: June 22, 2026 at 15:38 UTC*
 
 ### Tier Summary
 
