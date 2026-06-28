@@ -17,7 +17,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
 | [#1949 — walletd: Log of balance changes](https://github.com/tari-project/tari-ootle/issues/1949) | tari-ootle | L | 150,000 | @sdbondi | 🟡 PR Open | [3 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 3 |
 | [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [7 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 8 |
-| [#1588 — v1.2.0: Windows 11: Auto-start on system boot: When user restarts laptop, app does not automatically relaunch](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [13 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
+| [#1588 — v1.2.0: Windows 11: Auto-start on system boot: When user restarts laptop, app does not automatically relaunch](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | 🟡 PR Open | [13 PRs](https://github.com/tari-project/universe/pulls) | 💬 14 |
 | [#3204 — Tari Universe terminates external xmrig processes on shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | 🟡 PR Open | [14 PRs](https://github.com/tari-project/universe/pulls) | 💬 15 |
 | [#7795 — Create better ledger installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [10 PRs](https://github.com/tari-project/tari/pulls) | 💬 12 |
 | [#3028 — Cleanup old binary files](https://github.com/tari-project/universe/issues/3028) | universe | S | 15,000 | @brianp | 🟡 PR Open | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
@@ -60,7 +60,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **42 bounties — 2,430,000 XTM**
 
-*Last updated: June 28, 2026 at 10:48 UTC*
+*Last updated: June 28, 2026 at 11:48 UTC*
 
 ### Tier Summary
 
