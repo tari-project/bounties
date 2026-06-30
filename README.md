@@ -17,10 +17,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
 | [#1949 — walletd: Log of balance changes](https://github.com/tari-project/tari-ootle/issues/1949) | tari-ootle | L | 150,000 | @sdbondi | 🟡 PR Open | [3 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 3 |
 | [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [7 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 8 |
-| [#3204 — Tari Universe terminates external xmrig processes on shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | 🟡 PR Open | [14 PRs](https://github.com/tari-project/universe/pulls) | 💬 15 |
 | [#7795 — Create better ledger installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [10 PRs](https://github.com/tari-project/tari/pulls) | 💬 13 |
-| [#3028 — Cleanup old binary files](https://github.com/tari-project/universe/issues/3028) | universe | S | 15,000 | @brianp | 🟡 PR Open | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
-| [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | 🟡 PR Open | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [17 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 20 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -42,6 +39,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#1588 — v1.2.0: Windows 11: Auto-start on system boot: When user restarts laptop, app does not automatically relaunch](https://github.com/tari-project/universe/issues/1588) | universe | M | 60,000 | @brianp | ✅ Merged | [14 PRs](https://github.com/tari-project/universe/pulls) | 💬 14 |
 | [#3084 — Feature Request: Support Custom Node Selection for Better Connectivity](https://github.com/tari-project/universe/issues/3084) | universe | M | 60,000 | @brianp | ✅ Merged | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
 | [#3178 — Custom node data location fails on macOS with NAS (SMB mount)](https://github.com/tari-project/universe/issues/3178) | universe | M | 60,000 | @brianp | ✅ Merged | [5 PRs](https://github.com/tari-project/universe/pulls) | 💬 6 |
+| [#3204 — Tari Universe terminates external xmrig processes on shutdown](https://github.com/tari-project/universe/issues/3204) | universe | M | 60,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#102 — wallet cucumber test scan to height is not properly tested](https://github.com/tari-project/minotari-cli/issues/102) | minotari-cli | S | 15,000 | @SWvheerden | ✅ Merged | [2 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 2 |
 | [#125 — Race condition in utxo locking](https://github.com/tari-project/minotari-cli/issues/125) | minotari-cli | S | 15,000 | @SWvheerden | ✅ Merged | [4 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 4 |
 | [#171 — Retro bounty: TIP-1 Tari Improvement Proposals process](https://github.com/tari-project/rfcs/issues/171) | rfcs | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/rfcs/pulls) | 💬 4 |
@@ -53,14 +51,16 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#1975 — Fix event topic assertion in indexer event scanning test](https://github.com/tari-project/tari-ootle/issues/1975) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [2 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 2 |
 | [#1976 — Fix indexer substate lookup in wallet daemon indexer test](https://github.com/tari-project/tari-ootle/issues/1976) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [1 PR](https://github.com/tari-project/tari-ootle/pulls) | 💬 2 |
 | [#2657 — When resuming from sleep modes, TU ignores prior mining state (restarts mining + triggers wallet backup request)](https://github.com/tari-project/universe/issues/2657) | universe | S | 15,000 | @brianp | ✅ Merged | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
+| [#3028 — Cleanup old binary files](https://github.com/tari-project/universe/issues/3028) | universe | S | 15,000 | @brianp | ✅ Merged | [13 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#3035 — Error sending transcation, missing file: on first time use of wallet after launching app](https://github.com/tari-project/universe/issues/3035) | universe | S | 15,000 | @brianp | ✅ Merged | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
 | [#3111 — [BUG] No Linux Support](https://github.com/tari-project/universe/issues/3111) | universe | S | 15,000 | @brianp | ✅ Merged | [11 PRs](https://github.com/tari-project/universe/pulls) | 💬 12 |
 | [#3128 — seed wallet import problem](https://github.com/tari-project/universe/issues/3128) | universe | S | 15,000 | @brianp | ✅ Merged | [3 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
+| [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 
 **42 bounties — 2,430,000 XTM**
 
-*Last updated: June 30, 2026 at 14:28 UTC*
+*Last updated: June 30, 2026 at 16:06 UTC*
 
 ### Tier Summary
 
