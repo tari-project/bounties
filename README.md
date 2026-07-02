@@ -15,6 +15,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
+| [#2308 — walletd web UI: set the default account from Settings](https://github.com/tari-project/tari-ootle/issues/2308) | tari-ootle | S | 15,000 | @sdbondi | 🟢 Open | — | 💬 2 |
+| [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | 🟢 Open | — | — |
 | [#1949 — walletd: Log of balance changes](https://github.com/tari-project/tari-ootle/issues/1949) | tari-ootle | L | 150,000 | @sdbondi | 🟡 PR Open | [3 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 3 |
 | [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [7 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 8 |
 | [#7795 — Create better ledger installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [10 PRs](https://github.com/tari-project/tari/pulls) | 💬 13 |
@@ -58,14 +60,14 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 
-**42 bounties — 2,430,000 XTM**
+**44 bounties — 2,460,000 XTM**
 
-*Last updated: July 2, 2026 at 14:40 UTC*
+*Last updated: July 2, 2026 at 15:41 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 18 | 15,000 |
+| S | 20 | 15,000 |
 | M | 16 | 60,000 |
 | L | 8 | 150,000 |
