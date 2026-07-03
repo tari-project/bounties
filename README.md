@@ -18,7 +18,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟢 Open | — | — |
 | [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [7 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 8 |
 | [#7795 — Create better ledger installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [10 PRs](https://github.com/tari-project/tari/pulls) | 💬 13 |
-| [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | 🟡 PR Open | — | 💬 2 |
+| [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | 🟡 PR Open | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [17 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 20 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -52,6 +52,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7829 — Console wallet key migration](https://github.com/tari-project/tari/issues/7829) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/tari/pulls) | 💬 3 |
 | [#1975 — Fix event topic assertion in indexer event scanning test](https://github.com/tari-project/tari-ootle/issues/1975) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [2 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 2 |
 | [#1976 — Fix indexer substate lookup in wallet daemon indexer test](https://github.com/tari-project/tari-ootle/issues/1976) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [1 PR](https://github.com/tari-project/tari-ootle/pulls) | 💬 2 |
+| [#2308 — walletd web UI: set the default account from Settings](https://github.com/tari-project/tari-ootle/issues/2308) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [3 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 6 |
 | [#2657 — When resuming from sleep modes, TU ignores prior mining state (restarts mining + triggers wallet backup request)](https://github.com/tari-project/universe/issues/2657) | universe | S | 15,000 | @brianp | ✅ Merged | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
 | [#3028 — Cleanup old binary files](https://github.com/tari-project/universe/issues/3028) | universe | S | 15,000 | @brianp | ✅ Merged | [13 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#3035 — Error sending transcation, missing file: on first time use of wallet after launching app](https://github.com/tari-project/universe/issues/3035) | universe | S | 15,000 | @brianp | ✅ Merged | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
@@ -59,11 +60,10 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3128 — seed wallet import problem](https://github.com/tari-project/universe/issues/3128) | universe | S | 15,000 | @brianp | ✅ Merged | [3 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
 | [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
-| [#2308 — walletd web UI: set the default account from Settings](https://github.com/tari-project/tari-ootle/issues/2308) | tari-ootle | S | 15,000 | @sdbondi | ⚫ Closed | [2 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 6 |
 
 **45 bounties — 2,520,000 XTM**
 
-*Last updated: July 3, 2026 at 13:33 UTC*
+*Last updated: July 3, 2026 at 14:33 UTC*
 
 ### Tier Summary
 
