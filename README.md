@@ -18,6 +18,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟢 Open | — | — |
 | [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [7 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 8 |
 | [#7795 — Create better ledger installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [10 PRs](https://github.com/tari-project/tari/pulls) | 💬 13 |
+| [#2330 — Serve indexer Prometheus metrics on a separate listener from the REST API](https://github.com/tari-project/tari-ootle/issues/2330) | tari-ootle | S | 15,000 | @sdbondi | 🟡 PR Open | — | 💬 3 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [17 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 20 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -62,14 +63,14 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 
-**46 bounties — 2,670,000 XTM**
+**47 bounties — 2,685,000 XTM**
 
-*Last updated: July 9, 2026 at 13:24 UTC*
+*Last updated: July 9, 2026 at 14:25 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 20 | 15,000 |
+| S | 21 | 15,000 |
 | M | 17 | 60,000 |
 | L | 9 | 150,000 |
