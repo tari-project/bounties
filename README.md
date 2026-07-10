@@ -18,7 +18,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟢 Open | — | — |
 | [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [7 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 8 |
 | [#7795 — Create better ledger installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [10 PRs](https://github.com/tari-project/tari/pulls) | 💬 13 |
-| [#2330 — Serve indexer Prometheus metrics on a separate listener from the REST API](https://github.com/tari-project/tari-ootle/issues/2330) | tari-ootle | S | 15,000 | @sdbondi | 🟡 PR Open | — | 💬 8 |
+| [#2330 — Serve indexer Prometheus metrics on a separate listener from the REST API](https://github.com/tari-project/tari-ootle/issues/2330) | tari-ootle | S | 15,000 | @sdbondi | 🟡 PR Open | [5 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 8 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [17 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 20 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -65,7 +65,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **47 bounties — 2,685,000 XTM**
 
-*Last updated: July 9, 2026 at 23:24 UTC*
+*Last updated: July 10, 2026 at 00:24 UTC*
 
 ### Tier Summary
 
