@@ -47,8 +47,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7829 — Console Wallet Key Migration](https://github.com/tari-project/tari/issues/7829) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [✅ #7859](https://github.com/tari-project/tari/pull/7859) | 💬 6 |
 | [#1975 — Fix Event Topic Assertion in Indexer Cucumber Test](https://github.com/tari-project/tari-ootle/issues/1975) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [✅ #1983](https://github.com/tari-project/tari-ootle/pull/1983) | 💬 4 |
 | [#1976 — Fix Indexer Substate Lookup in Wallet Daemon Test](https://github.com/tari-project/tari-ootle/issues/1976) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [✅ #1989](https://github.com/tari-project/tari-ootle/pull/1989) | 💬 3 |
-| [#2308 — walletd web UI: set the default account from Settings](https://github.com/tari-project/tari-ootle/issues/2308) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [✅ #2311](https://github.com/tari-project/tari-ootle/pull/2311) | 💬 4 |
-| [#2330 — Serve indexer Prometheus metrics on a separate listener from the REST API](https://github.com/tari-project/tari-ootle/issues/2330) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [✅ #2332](https://github.com/tari-project/tari-ootle/pull/2332) | 💬 6 |
+| [#2308 — walletd web UI: set the default account from Settings](https://github.com/tari-project/tari-ootle/issues/2308) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [✅ #2311](https://github.com/tari-project/tari-ootle/pull/2311) | 💬 3 |
+| [#2330 — Serve indexer Prometheus metrics on a separate listener from the REST API](https://github.com/tari-project/tari-ootle/issues/2330) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [✅ #2332](https://github.com/tari-project/tari-ootle/pull/2332) | 💬 5 |
 | [#2657 — Persist Mining State Across Sleep/Resume](https://github.com/tari-project/universe/issues/2657) | universe | S | 15,000 | @brianp | ✅ Merged | [✅ #3185](https://github.com/tari-project/universe/pull/3185) | 💬 4 |
 | [#3028 — Cleanup Old Binary Files After Update](https://github.com/tari-project/universe/issues/3028) | universe | S | 15,000 | @brianp | ✅ Merged | [✅ #3252](https://github.com/tari-project/universe/pull/3252) | 💬 10 |
 | [#3035 — Error sending transcation, missing file: on first time use of wallet after launching app](https://github.com/tari-project/universe/issues/3035) | universe | S | 15,000 | @brianp | ✅ Merged | [✅ #3191](https://github.com/tari-project/universe/pull/3191) | 💬 2 |
@@ -61,7 +61,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **43 bounties — 2,490,000 XTM**
 
-*Last updated: July 20, 2026 at 08:57 UTC*
+*Last updated: July 21, 2026 at 08:28 UTC*
 
 ### Tier Summary
 
