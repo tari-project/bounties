@@ -62,15 +62,16 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
+| [#2149 — Race in stealth claim_validator_fees between fee-pool snapshot and on-chain claim](https://github.com/tari-project/tari-ootle/issues/2149) | tari-ootle | M | 60,000 | @sdbondi | ⚫ Closed | — | — |
 
-**47 bounties — 2,685,000 XTM**
+**48 bounties — 2,745,000 XTM**
 
-*Last updated: July 23, 2026 at 09:45 UTC*
+*Last updated: July 23, 2026 at 10:46 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
 | S | 21 | 15,000 |
-| M | 17 | 60,000 |
+| M | 18 | 60,000 |
 | L | 9 | 150,000 |
