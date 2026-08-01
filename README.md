@@ -15,7 +15,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
-| [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [9 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 11 |
+| [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [10 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 11 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
 | [#7935 — tari_comms_dht accepts loopback and private peer addresses when allow_test_addresses=false](https://github.com/tari-project/tari/issues/7935) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [2 PRs](https://github.com/tari-project/tari/pulls) | 💬 2 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [17 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 20 |
@@ -67,7 +67,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **49 bounties — 2,760,000 XTM**
 
-*Last updated: August 1, 2026 at 07:09 UTC*
+*Last updated: August 1, 2026 at 08:09 UTC*
 
 ### Tier Summary
 
