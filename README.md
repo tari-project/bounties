@@ -17,7 +17,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
 | [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [10 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 11 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
-| [#7935 — tari_comms_dht accepts loopback and private peer addresses when allow_test_addresses=false](https://github.com/tari-project/tari/issues/7935) | tari | S | 15,000 | @SWvheerden | 🟡 PR Open | [2 PRs](https://github.com/tari-project/tari/pulls) | 💬 2 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [17 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 20 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -52,6 +51,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7737 — Convert Merge mining cucumber tests to not mine RxM, but rather RxT](https://github.com/tari-project/tari/issues/7737) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [4 PRs](https://github.com/tari-project/tari/pulls) | 💬 4 |
 | [#7795 — Create better ledger installer](https://github.com/tari-project/tari/issues/7795) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [10 PRs](https://github.com/tari-project/tari/pulls) | 💬 13 |
 | [#7829 — Console wallet key migration](https://github.com/tari-project/tari/issues/7829) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/tari/pulls) | 💬 3 |
+| [#7935 — tari_comms_dht accepts loopback and private peer addresses when allow_test_addresses=false](https://github.com/tari-project/tari/issues/7935) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [2 PRs](https://github.com/tari-project/tari/pulls) | 💬 2 |
 | [#1975 — Fix event topic assertion in indexer event scanning test](https://github.com/tari-project/tari-ootle/issues/1975) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [2 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 2 |
 | [#1976 — Fix indexer substate lookup in wallet daemon indexer test](https://github.com/tari-project/tari-ootle/issues/1976) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [1 PR](https://github.com/tari-project/tari-ootle/pulls) | 💬 2 |
 | [#2308 — walletd web UI: set the default account from Settings](https://github.com/tari-project/tari-ootle/issues/2308) | tari-ootle | S | 15,000 | @sdbondi | ✅ Merged | [3 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 6 |
@@ -67,7 +67,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **49 bounties — 2,760,000 XTM**
 
-*Last updated: August 5, 2026 at 12:09 UTC*
+*Last updated: August 5, 2026 at 13:09 UTC*
 
 ### Tier Summary
 
