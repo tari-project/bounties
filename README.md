@@ -17,7 +17,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
 | [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [10 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 11 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
-| [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [17 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 21 |
+| [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [18 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 21 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
 | [#-165 — TIP-3: Tari Community Forums](https://github.com/tari-project/rfcs/pull/165) | rfcs | L | 150,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/rfcs/pulls) | 💬 1 |
@@ -68,7 +68,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **50 bounties — 2,910,000 XTM**
 
-*Last updated: August 17, 2026 at 16:15 UTC*
+*Last updated: August 17, 2026 at 19:15 UTC*
 
 ### Tier Summary
 
