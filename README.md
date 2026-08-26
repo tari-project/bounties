@@ -16,11 +16,11 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
 | [#18 — Ledger GetScriptOffset: enforce cross-side key-identity disjointness in the anti-extraction guard](https://github.com/tari-project/special_contributions/issues/18) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
-| [#19 — Audit remaining public P2P RPC repeated fields for missing cardinality bounds (GHSA-vj49-p32c-v9gc follow-up)](https://github.com/tari-project/special_contributions/issues/19) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#20 — Wallet: in-band recovery path for unspendable/maturity-locked UTXOs (GHSA-f5fr-v7h5-w6q7 follow-up)](https://github.com/tari-project/special_contributions/issues/20) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#17 — minotari_node: bound `page`, and stop a panic in one HTTP handler from killing the whole node (GHSA-4r27-mpgm-hx3h follow-up)](https://github.com/tari-project/special_contributions/issues/17) | special_contributions | L | 150,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#17 — minotari_node: bound `page`, and stop a panic in one HTTP handler from killing the whole node (GHSA-4r27-mpgm-hx3h follow-up)](https://github.com/tari-project/special_contributions/issues/17) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [10 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 11 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
+| [#19 — Audit remaining public P2P RPC repeated fields for missing cardinality bounds (GHSA-vj49-p32c-v9gc follow-up)](https://github.com/tari-project/special_contributions/issues/19) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [18 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 21 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -72,7 +72,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **54 bounties — 3,240,000 XTM**
 
-*Last updated: August 25, 2026 at 23:42 UTC*
+*Last updated: August 26, 2026 at 00:43 UTC*
 
 ### Tier Summary
 
