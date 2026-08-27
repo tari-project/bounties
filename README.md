@@ -15,11 +15,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
-| [#18 — Ledger GetScriptOffset: enforce cross-side key-identity disjointness in the anti-extraction guard](https://github.com/tari-project/special_contributions/issues/18) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [10 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 11 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
-| [#19 — Audit remaining public P2P RPC repeated fields for missing cardinality bounds (GHSA-vj49-p32c-v9gc follow-up)](https://github.com/tari-project/special_contributions/issues/19) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 2 |
-| [#20 — Wallet: in-band recovery path for unspendable/maturity-locked UTXOs (GHSA-f5fr-v7h5-w6q7 follow-up)](https://github.com/tari-project/special_contributions/issues/20) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [18 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 21 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -50,6 +47,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#102 — wallet cucumber test scan to height is not properly tested](https://github.com/tari-project/minotari-cli/issues/102) | minotari-cli | S | 15,000 | @SWvheerden | ✅ Merged | [2 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 2 |
 | [#125 — Race condition in utxo locking](https://github.com/tari-project/minotari-cli/issues/125) | minotari-cli | S | 15,000 | @SWvheerden | ✅ Merged | [4 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 4 |
 | [#171 — Retro bounty: TIP-1 Tari Improvement Proposals process](https://github.com/tari-project/rfcs/issues/171) | rfcs | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/rfcs/pulls) | 💬 4 |
+| [#19 — Audit remaining public P2P RPC repeated fields for missing cardinality bounds (GHSA-vj49-p32c-v9gc follow-up)](https://github.com/tari-project/special_contributions/issues/19) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
+| [#20 — Wallet: in-band recovery path for unspendable/maturity-locked UTXOs (GHSA-f5fr-v7h5-w6q7 follow-up)](https://github.com/tari-project/special_contributions/issues/20) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#-7822 — fix: consume merge mining proxy monero reservation](https://github.com/tari-project/tari/pull/7822) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7259 — feat: auto zero value coinbase reward calculation](https://github.com/tari-project/tari/pull/7259) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7242 — fix: minotari_merge_mining_proxy returns Tari block hash even if submit_to_origin is disabled](https://github.com/tari-project/tari/pull/7242) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
@@ -68,11 +67,12 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3128 — seed wallet import problem](https://github.com/tari-project/universe/issues/3128) | universe | S | 15,000 | @brianp | ✅ Merged | [3 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
 | [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
+| [#18 — Ledger GetScriptOffset: enforce cross-side key-identity disjointness in the anti-extraction guard](https://github.com/tari-project/special_contributions/issues/18) | special_contributions | L | 150,000 | @? | ⚫ Closed | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 
 **54 bounties — 3,240,000 XTM**
 
-*Last updated: August 27, 2026 at 08:42 UTC*
+*Last updated: August 27, 2026 at 09:43 UTC*
 
 ### Tier Summary
 
