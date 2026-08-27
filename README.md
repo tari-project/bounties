@@ -23,6 +23,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#-165 — TIP-3: Tari Community Forums](https://github.com/tari-project/rfcs/pull/165) | rfcs | L | 150,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/rfcs/pulls) | 💬 1 |
 | [#2 — Voluntary community coverage for June 2026](https://github.com/tari-project/special_contributions/issues/2) | special_contributions | L | 150,000 | @? | ✅ Merged | [2 PRs](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
 | [#17 — minotari_node: bound `page`, and stop a panic in one HTTP handler from killing the whole node (GHSA-4r27-mpgm-hx3h follow-up)](https://github.com/tari-project/special_contributions/issues/17) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#18 — Ledger GetScriptOffset: enforce cross-side key-identity disjointness in the anti-extraction guard](https://github.com/tari-project/special_contributions/issues/18) | special_contributions | L | 150,000 | @? | ✅ Merged | [2 PRs](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
 | [#7796 — Harden offline transaction signing](https://github.com/tari-project/tari/issues/7796) | tari | L | 150,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#1931 — UX: Wallet address book](https://github.com/tari-project/tari-ootle/issues/1931) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [1 PR](https://github.com/tari-project/tari-ootle/pulls) | 💬 1 |
 | [#1949 — walletd: Log of balance changes](https://github.com/tari-project/tari-ootle/issues/1949) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [3 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 3 |
@@ -67,12 +68,11 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3128 — seed wallet import problem](https://github.com/tari-project/universe/issues/3128) | universe | S | 15,000 | @brianp | ✅ Merged | [3 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
 | [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
-| [#18 — Ledger GetScriptOffset: enforce cross-side key-identity disjointness in the anti-extraction guard](https://github.com/tari-project/special_contributions/issues/18) | special_contributions | L | 150,000 | @? | ⚫ Closed | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 
 **54 bounties — 3,240,000 XTM**
 
-*Last updated: August 27, 2026 at 13:42 UTC*
+*Last updated: August 27, 2026 at 14:43 UTC*
 
 ### Tier Summary
 
