@@ -15,7 +15,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
-| [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | 🟡 PR Open | [10 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 11 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [18 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 21 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
@@ -28,6 +27,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#1931 — UX: Wallet address book](https://github.com/tari-project/tari-ootle/issues/1931) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [1 PR](https://github.com/tari-project/tari-ootle/pulls) | 💬 1 |
 | [#1949 — walletd: Log of balance changes](https://github.com/tari-project/tari-ootle/issues/1949) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [3 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 3 |
 | [#1957 — Bounty: Agent-friendly wallet authentication](https://github.com/tari-project/tari-ootle/issues/1957) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [5 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 5 |
+| [#1 — Create wallet benchmarks](https://github.com/tari-project/wallet-benchmarks/issues/1) | wallet-benchmarks | L | 150,000 | @SWvheerden | ✅ Merged | [10 PRs](https://github.com/tari-project/wallet-benchmarks/pulls) | 💬 11 |
 | [#1 — Replace with a supported robust solution](https://github.com/tari-project/aiteen/issues/1) | aiteen | M | 60,000 | @metalaureate | ✅ Merged | [4 PRs](https://github.com/tari-project/aiteen/pulls) | 💬 4 |
 | [#1 — Install, configure, set up the Tari Community Discourse server.](https://github.com/tari-project/community-discourse/issues/1) | community-discourse | M | 60,000 | @metalaureate | ✅ Merged | [1 PR](https://github.com/tari-project/community-discourse/pulls) | 💬 1 |
 | [#113 — add payref tracking to wallet](https://github.com/tari-project/minotari-cli/issues/113) | minotari-cli | M | 60,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -72,7 +72,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **54 bounties — 3,240,000 XTM**
 
-*Last updated: September 1, 2026 at 11:42 UTC*
+*Last updated: September 1, 2026 at 12:42 UTC*
 
 ### Tier Summary
 
