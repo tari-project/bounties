@@ -15,7 +15,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
-| [#27 — RWA token](https://github.com/tari-project/special_contributions/issues/27) | special_contributions | L | 150,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#27 — RWA token](https://github.com/tari-project/special_contributions/issues/27) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [18 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 21 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
@@ -73,7 +73,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **55 bounties — 3,390,000 XTM**
 
-*Last updated: September 8, 2026 at 20:50 UTC*
+*Last updated: September 8, 2026 at 21:50 UTC*
 
 ### Tier Summary
 
