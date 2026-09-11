@@ -15,7 +15,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
-| [#27 — RWA token](https://github.com/tari-project/special_contributions/issues/27) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [18 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 21 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
@@ -24,6 +23,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#2 — Voluntary community coverage for June 2026](https://github.com/tari-project/special_contributions/issues/2) | special_contributions | L | 150,000 | @? | ✅ Merged | [2 PRs](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
 | [#17 — minotari_node: bound `page`, and stop a panic in one HTTP handler from killing the whole node (GHSA-4r27-mpgm-hx3h follow-up)](https://github.com/tari-project/special_contributions/issues/17) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#18 — Ledger GetScriptOffset: enforce cross-side key-identity disjointness in the anti-extraction guard](https://github.com/tari-project/special_contributions/issues/18) | special_contributions | L | 150,000 | @? | ✅ Merged | [2 PRs](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
+| [#27 — RWA token](https://github.com/tari-project/special_contributions/issues/27) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#7796 — Harden offline transaction signing](https://github.com/tari-project/tari/issues/7796) | tari | L | 150,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#1931 — UX: Wallet address book](https://github.com/tari-project/tari-ootle/issues/1931) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [1 PR](https://github.com/tari-project/tari-ootle/pulls) | 💬 1 |
 | [#1949 — walletd: Log of balance changes](https://github.com/tari-project/tari-ootle/issues/1949) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [3 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 3 |
@@ -73,7 +73,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **55 bounties — 3,390,000 XTM**
 
-*Last updated: September 11, 2026 at 10:50 UTC*
+*Last updated: September 11, 2026 at 11:50 UTC*
 
 ### Tier Summary
 
