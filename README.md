@@ -15,6 +15,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
+| [#40 — Security report: tari-ootle zero-value proof authorization bypass (GHSA-pp4v-v773-9qxg)](https://github.com/tari-project/special_contributions/issues/40) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
+| [#41 — Security report: tari-ootle stealth transfer value inflation (GHSA-x485-wpxp-m89h)](https://github.com/tari-project/special_contributions/issues/41) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [22 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 26 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
@@ -74,9 +76,9 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 
-**58 bounties — 3,705,000 XTM**
+**60 bounties — 4,005,000 XTM**
 
-*Last updated: October 2, 2026 at 05:34 UTC*
+*Last updated: October 2, 2026 at 06:34 UTC*
 
 ### Tier Summary
 
@@ -84,4 +86,4 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 |:----:|:-----:|----:|
 | S | 25 | 15,000 |
 | M | 18 | 60,000 |
-| L | 15 | 150,000 |
+| L | 17 | 150,000 |
