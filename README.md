@@ -16,7 +16,10 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
 | [#40 — Security report: tari-ootle zero-value proof authorization bypass (GHSA-pp4v-v773-9qxg)](https://github.com/tari-project/special_contributions/issues/40) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
-| [#41 — Security report: tari-ootle stealth transfer value inflation (GHSA-x485-wpxp-m89h)](https://github.com/tari-project/special_contributions/issues/41) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
+| [#43 — Security report: tari-ootle unauthenticated HotStuff restart (GHSA-wxp4-rq8h-jcvf)](https://github.com/tari-project/special_contributions/issues/43) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
+| [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#47 — Security report: tari-ootle dry-run input lookup amplification (GHSA-p677-8mxp-3mfj)](https://github.com/tari-project/special_contributions/issues/47) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#49 — Security report: tari-ootle template compile fee under-pricing (GHSA-jmhq-55mw-648w)](https://github.com/tari-project/special_contributions/issues/49) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [22 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 26 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
@@ -74,16 +77,20 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3128 — seed wallet import problem](https://github.com/tari-project/universe/issues/3128) | universe | S | 15,000 | @brianp | ✅ Merged | [3 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
 | [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
+| [#41 — Security report: tari-ootle stealth transfer value inflation (GHSA-x485-wpxp-m89h)](https://github.com/tari-project/special_contributions/issues/41) | special_contributions | L | 150,000 | @? | ⚫ Closed | — | 💬 1 |
+| [#42 — Security report: tari-ootle unmetered covenant balance proofs (GHSA-g2pw-wx69-2mx8)](https://github.com/tari-project/special_contributions/issues/42) | special_contributions | L | 150,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
+| [#46 — Security report: tari-ootle indexer event pagination DoS (GHSA-7xqr-7m59-v97v)](https://github.com/tari-project/special_contributions/issues/46) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
+| [#48 — Security report: tari-ootle unmetered dry-run template compilation (GHSA-h5pq-gqp9-rp39)](https://github.com/tari-project/special_contributions/issues/48) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 
-**60 bounties — 4,005,000 XTM**
+**67 bounties — 4,380,000 XTM**
 
-*Last updated: October 2, 2026 at 10:34 UTC*
+*Last updated: October 2, 2026 at 11:34 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 25 | 15,000 |
+| S | 30 | 15,000 |
 | M | 18 | 60,000 |
-| L | 17 | 150,000 |
+| L | 19 | 150,000 |
