@@ -18,9 +18,10 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#40 — Security report: tari-ootle zero-value proof authorization bypass (GHSA-pp4v-v773-9qxg)](https://github.com/tari-project/special_contributions/issues/40) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#43 — Security report: tari-ootle unauthenticated HotStuff restart (GHSA-wxp4-rq8h-jcvf)](https://github.com/tari-project/special_contributions/issues/43) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#47 — Security report: tari-ootle dry-run input lookup amplification (GHSA-p677-8mxp-3mfj)](https://github.com/tari-project/special_contributions/issues/47) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#49 — Security report: tari-ootle template compile fee under-pricing (GHSA-jmhq-55mw-648w)](https://github.com/tari-project/special_contributions/issues/49) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#51 — Security report: tari-ootle stablecoin admin/deployer authority can enable permissionless minting and unrecoverable privileged access (GHSA-4g4m-xgcp-pv55)](https://github.com/tari-project/special_contributions/issues/51) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
+| [#47 — Security report: tari-ootle dry-run input lookup amplification (GHSA-p677-8mxp-3mfj)](https://github.com/tari-project/special_contributions/issues/47) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#49 — Security report: tari-ootle template compile fee under-pricing (GHSA-jmhq-55mw-648w)](https://github.com/tari-project/special_contributions/issues/49) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [22 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 26 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -31,6 +32,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#27 — RWA token](https://github.com/tari-project/special_contributions/issues/27) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#36 — Security report: tari-ootle validator crash (GHSA-wm29-g4mc-pgp3)](https://github.com/tari-project/special_contributions/issues/36) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#38 — Security report: tari-ootle unauthenticated consensus request handling (GHSA-86p9-mv74-3g3p)](https://github.com/tari-project/special_contributions/issues/38) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#41 — Security report: tari-ootle stealth transfer value inflation (GHSA-x485-wpxp-m89h)](https://github.com/tari-project/special_contributions/issues/41) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#42 — Security report: tari-ootle unmetered covenant balance proofs (GHSA-g2pw-wx69-2mx8)](https://github.com/tari-project/special_contributions/issues/42) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#7796 — Harden offline transaction signing](https://github.com/tari-project/tari/issues/7796) | tari | L | 150,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#1931 — UX: Wallet address book](https://github.com/tari-project/tari-ootle/issues/1931) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [1 PR](https://github.com/tari-project/tari-ootle/pulls) | 💬 1 |
 | [#1949 — walletd: Log of balance changes](https://github.com/tari-project/tari-ootle/issues/1949) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [3 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 3 |
@@ -59,6 +62,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#19 — Audit remaining public P2P RPC repeated fields for missing cardinality bounds (GHSA-vj49-p32c-v9gc follow-up)](https://github.com/tari-project/special_contributions/issues/19) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
 | [#20 — Wallet: in-band recovery path for unspendable/maturity-locked UTXOs (GHSA-f5fr-v7h5-w6q7 follow-up)](https://github.com/tari-project/special_contributions/issues/20) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#34 — mempool hardeing](https://github.com/tari-project/special_contributions/issues/34) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#46 — Security report: tari-ootle indexer event pagination DoS (GHSA-7xqr-7m59-v97v)](https://github.com/tari-project/special_contributions/issues/46) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#48 — Security report: tari-ootle unmetered dry-run template compilation (GHSA-h5pq-gqp9-rp39)](https://github.com/tari-project/special_contributions/issues/48) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#-7822 — fix: consume merge mining proxy monero reservation](https://github.com/tari-project/tari/pull/7822) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7259 — feat: auto zero value coinbase reward calculation](https://github.com/tari-project/tari/pull/7259) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7242 — fix: minotari_merge_mining_proxy returns Tari block hash even if submit_to_origin is disabled](https://github.com/tari-project/tari/pull/7242) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
@@ -77,20 +82,16 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3128 — seed wallet import problem](https://github.com/tari-project/universe/issues/3128) | universe | S | 15,000 | @brianp | ✅ Merged | [3 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
 | [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
-| [#41 — Security report: tari-ootle stealth transfer value inflation (GHSA-x485-wpxp-m89h)](https://github.com/tari-project/special_contributions/issues/41) | special_contributions | L | 150,000 | @? | ⚫ Closed | — | 💬 1 |
-| [#42 — Security report: tari-ootle unmetered covenant balance proofs (GHSA-g2pw-wx69-2mx8)](https://github.com/tari-project/special_contributions/issues/42) | special_contributions | L | 150,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
-| [#46 — Security report: tari-ootle indexer event pagination DoS (GHSA-7xqr-7m59-v97v)](https://github.com/tari-project/special_contributions/issues/46) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
-| [#48 — Security report: tari-ootle unmetered dry-run template compilation (GHSA-h5pq-gqp9-rp39)](https://github.com/tari-project/special_contributions/issues/48) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 
-**67 bounties — 4,380,000 XTM**
+**68 bounties — 4,395,000 XTM**
 
-*Last updated: October 2, 2026 at 15:34 UTC*
+*Last updated: October 2, 2026 at 16:34 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 30 | 15,000 |
+| S | 31 | 15,000 |
 | M | 18 | 60,000 |
 | L | 19 | 150,000 |
