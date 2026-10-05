@@ -21,6 +21,9 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#60 — Security report: tari-ootle messaging handler: no read timeout — stalled inbound streams pin task capacity and prevent connection reaping (GHSA-38xx-4h6j-jmr3)](https://github.com/tari-project/special_contributions/issues/60) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#61 — Security report: tari-ootle unauthenticated remote validator process abort via sync_state until_epoch overflow (GHSA-6hvx-j552-fffj)](https://github.com/tari-project/special_contributions/issues/61) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#64 — Security report: tari-ootle public liquidity pools allow arbitrary LP token minting and reserve theft (GHSA-q7qg-fgqp-p96v)](https://github.com/tari-project/special_contributions/issues/64) | special_contributions | L | 150,000 | @? | 🟡 PR Open | — | 💬 2 |
+| [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#63 — Security report: tari-ootle a peer-claimed `synced_to_version = u64::MAX` overflow-panics the indexer's sync worker, and the poisoned value is persisted — the crash recurs on every restart (GHSA-pjx9-6f6w-r678)](https://github.com/tari-project/special_contributions/issues/63) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [22 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 26 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
@@ -89,14 +92,14 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#58 — Security report: tari-ootle @cbor-keyed metadata values are committed by the engine but cannot be read back through tari_bor's JSON projection (GHSA-6gp9-g8wp-9mhc)](https://github.com/tari-project/special_contributions/issues/58) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 
-**73 bounties — 4,740,000 XTM**
+**76 bounties — 5,100,000 XTM**
 
-*Last updated: October 5, 2026 at 12:31 UTC*
+*Last updated: October 5, 2026 at 13:32 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
 | S | 32 | 15,000 |
-| M | 21 | 60,000 |
-| L | 20 | 150,000 |
+| M | 22 | 60,000 |
+| L | 22 | 150,000 |
