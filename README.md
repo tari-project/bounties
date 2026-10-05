@@ -19,7 +19,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#57 — Security report: tari-ootle a `blob!("...")` manifest with an invalid identifier string panics the parser; walletd's global panic hook kills the whole daemon on it (GHSA-256m-v6v9-82mp)](https://github.com/tari-project/special_contributions/issues/57) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#60 — Security report: tari-ootle messaging handler: no read timeout — stalled inbound streams pin task capacity and prevent connection reaping (GHSA-38xx-4h6j-jmr3)](https://github.com/tari-project/special_contributions/issues/60) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#56 — Security report: tari-ootle submit_transaction RPC decodes a transaction in full before the size cap, amplifying a 6 MiB frame into ~640 MiB of heap (GHSA-6mvf-8pp4-3c5j)](https://github.com/tari-project/special_contributions/issues/56) | special_contributions | L | 150,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#56 — Security report: tari-ootle submit_transaction RPC decodes a transaction in full before the size cap, amplifying a 6 MiB frame into ~640 MiB of heap (GHSA-6mvf-8pp4-3c5j)](https://github.com/tari-project/special_contributions/issues/56) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#64 — Security report: tari-ootle public liquidity pools allow arbitrary LP token minting and reserve theft (GHSA-q7qg-fgqp-p96v)](https://github.com/tari-project/special_contributions/issues/64) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [2 PRs](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#63 — Security report: tari-ootle a peer-claimed `synced_to_version = u64::MAX` overflow-panics the indexer's sync worker, and the poisoned value is persisted — the crash recurs on every restart (GHSA-pjx9-6f6w-r678)](https://github.com/tari-project/special_contributions/issues/63) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -94,7 +94,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **76 bounties — 5,100,000 XTM**
 
-*Last updated: October 5, 2026 at 22:31 UTC*
+*Last updated: October 5, 2026 at 23:34 UTC*
 
 ### Tier Summary
 
