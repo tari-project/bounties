@@ -26,8 +26,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#73 — Security report: tari-ootle `scalar_invert` intrinsic is charged at the cheap scalar-field-op rate (GHSA-2h95-2f82-q9m8)](https://github.com/tari-project/special_contributions/issues/73) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#80 — Security report: tari-ootle rPC server leaks the per-client session count on handshake failure, permanently locking out a peer and growing the session map unbounded (GHSA-7h97-fwqj-6qpm)](https://github.com/tari-project/special_contributions/issues/80) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#56 — Security report: tari-ootle submit_transaction RPC decodes a transaction in full before the size cap, amplifying a 6 MiB frame into ~640 MiB of heap (GHSA-6mvf-8pp4-3c5j)](https://github.com/tari-project/special_contributions/issues/56) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#64 — Security report: tari-ootle public liquidity pools allow arbitrary LP token minting and reserve theft (GHSA-q7qg-fgqp-p96v)](https://github.com/tari-project/special_contributions/issues/64) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [2 PRs](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#63 — Security report: tari-ootle a peer-claimed `synced_to_version = u64::MAX` overflow-panics the indexer's sync worker, and the poisoned value is persisted — the crash recurs on every restart (GHSA-pjx9-6f6w-r678)](https://github.com/tari-project/special_contributions/issues/63) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
@@ -44,6 +42,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#40 — Security report: tari-ootle zero-value proof authorization bypass (GHSA-pp4v-v773-9qxg)](https://github.com/tari-project/special_contributions/issues/40) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#41 — Security report: tari-ootle stealth transfer value inflation (GHSA-x485-wpxp-m89h)](https://github.com/tari-project/special_contributions/issues/41) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#42 — Security report: tari-ootle unmetered covenant balance proofs (GHSA-g2pw-wx69-2mx8)](https://github.com/tari-project/special_contributions/issues/42) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#56 — Security report: tari-ootle submit_transaction RPC decodes a transaction in full before the size cap, amplifying a 6 MiB frame into ~640 MiB of heap (GHSA-6mvf-8pp4-3c5j)](https://github.com/tari-project/special_contributions/issues/56) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#64 — Security report: tari-ootle public liquidity pools allow arbitrary LP token minting and reserve theft (GHSA-q7qg-fgqp-p96v)](https://github.com/tari-project/special_contributions/issues/64) | special_contributions | L | 150,000 | @? | ✅ Merged | [2 PRs](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
 | [#7796 — Harden offline transaction signing](https://github.com/tari-project/tari/issues/7796) | tari | L | 150,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#1931 — UX: Wallet address book](https://github.com/tari-project/tari-ootle/issues/1931) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [1 PR](https://github.com/tari-project/tari-ootle/pulls) | 💬 1 |
 | [#1949 — walletd: Log of balance changes](https://github.com/tari-project/tari-ootle/issues/1949) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [3 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 3 |
@@ -98,11 +98,11 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
-| [#71 — Security report: tari-ootle `nfts.transfer` pays the fee from, and signs with, an account the caller has no scope on (GHSA-jg8h-hw4h-5fmv)](https://github.com/tari-project/special_contributions/issues/71) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | — |
+| [#71 — Security report: tari-ootle `nfts.transfer` pays the fee from, and signs with, an account the caller has no scope on (GHSA-jg8h-hw4h-5fmv)](https://github.com/tari-project/special_contributions/issues/71) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 
 **84 bounties — 5,625,000 XTM**
 
-*Last updated: October 6, 2026 at 09:32 UTC*
+*Last updated: October 6, 2026 at 10:31 UTC*
 
 ### Tier Summary
 
