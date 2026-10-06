@@ -23,7 +23,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#60 — Security report: tari-ootle messaging handler: no read timeout — stalled inbound streams pin task capacity and prevent connection reaping (GHSA-38xx-4h6j-jmr3)](https://github.com/tari-project/special_contributions/issues/60) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#72 — Security report: tari-ootle epoch-checkpoint total_exhaust_burn is unbounded and overflows the indexer Amount accumulator, aborting it (GHSA-jhc4-392q-5jvw)](https://github.com/tari-project/special_contributions/issues/72) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#75 — Security report: tari-ootle `ResourceBuilder::non_fungible()`'s default access rules leave `update_non_fungible_data` at `AccessRule::AllowAll`, letting any caller permanently overwrite (GHSA-h8rm-c49w-w5rx)](https://github.com/tari-project/special_contributions/issues/75) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
-| [#76 — Security report: tari-ootle stealth resource actions bypass the resource auth hook; StealthUtxoBurn has no spend authorization or freeze check (GHSA-24f6-ghpp-4h32)](https://github.com/tari-project/special_contributions/issues/76) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#73 — Security report: tari-ootle `scalar_invert` intrinsic is charged at the cheap scalar-field-op rate (GHSA-2h95-2f82-q9m8)](https://github.com/tari-project/special_contributions/issues/73) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#80 — Security report: tari-ootle rPC server leaks the per-client session count on handshake failure, permanently locking out a peer and growing the session map unbounded (GHSA-7h97-fwqj-6qpm)](https://github.com/tari-project/special_contributions/issues/80) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
@@ -80,6 +79,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#49 — Security report: tari-ootle template compile fee under-pricing (GHSA-jmhq-55mw-648w)](https://github.com/tari-project/special_contributions/issues/49) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#51 — Security report: tari-ootle stablecoin admin/deployer authority can enable permissionless minting and unrecoverable privileged access (GHSA-4g4m-xgcp-pv55)](https://github.com/tari-project/special_contributions/issues/51) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#58 — Security report: tari-ootle @cbor-keyed metadata values are committed by the engine but cannot be read back through tari_bor's JSON projection (GHSA-6gp9-g8wp-9mhc)](https://github.com/tari-project/special_contributions/issues/58) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#71 — Security report: tari-ootle `nfts.transfer` pays the fee from, and signs with, an account the caller has no scope on (GHSA-jg8h-hw4h-5fmv)](https://github.com/tari-project/special_contributions/issues/71) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#-7822 — fix: consume merge mining proxy monero reservation](https://github.com/tari-project/tari/pull/7822) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7259 — feat: auto zero value coinbase reward calculation](https://github.com/tari-project/tari/pull/7259) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7242 — fix: minotari_merge_mining_proxy returns Tari block hash even if submit_to_origin is disabled](https://github.com/tari-project/tari/pull/7242) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
@@ -99,11 +99,11 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
-| [#71 — Security report: tari-ootle `nfts.transfer` pays the fee from, and signs with, an account the caller has no scope on (GHSA-jg8h-hw4h-5fmv)](https://github.com/tari-project/special_contributions/issues/71) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
+| [#76 — Security report: tari-ootle stealth resource actions bypass the resource auth hook; StealthUtxoBurn has no spend authorization or freeze check (GHSA-24f6-ghpp-4h32)](https://github.com/tari-project/special_contributions/issues/76) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | 💬 1 |
 
 **85 bounties — 5,775,000 XTM**
 
-*Last updated: October 6, 2026 at 14:32 UTC*
+*Last updated: October 6, 2026 at 15:31 UTC*
 
 ### Tier Summary
 
