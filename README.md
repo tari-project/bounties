@@ -18,6 +18,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#43 — Security report: tari-ootle unauthenticated HotStuff restart (GHSA-wxp4-rq8h-jcvf)](https://github.com/tari-project/special_contributions/issues/43) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#78 — Security report: tari-ootle state sync durably commits unverified peer-supplied consensus state before the root check, with no rollback — permanent self-DoS + integrity violation (GHSA-pq7v-fwv7-jxq8)](https://github.com/tari-project/special_contributions/issues/78) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#79 — Security report: tari-ootle a transaction can finalize AllAccept in its output shard group while the input shard group never accepted it — the dead `all_objects_accepted()` check was never replaced (GHSA-734p-gq7p-3pwq)](https://github.com/tari-project/special_contributions/issues/79) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
+| [#82 — Security report: tari-ootle substate exclusion proof is not bound to the substate's shard, so a serving validator can prove false absence ("destroyed") for any substate (GHSA-2xjh-wg9w-g5hc)](https://github.com/tari-project/special_contributions/issues/82) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#57 — Security report: tari-ootle a `blob!("...")` manifest with an invalid identifier string panics the parser; walletd's global panic hook kills the whole daemon on it (GHSA-256m-v6v9-82mp)](https://github.com/tari-project/special_contributions/issues/57) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#60 — Security report: tari-ootle messaging handler: no read timeout — stalled inbound streams pin task capacity and prevent connection reaping (GHSA-38xx-4h6j-jmr3)](https://github.com/tari-project/special_contributions/issues/60) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#72 — Security report: tari-ootle epoch-checkpoint total_exhaust_burn is unbounded and overflows the indexer Amount accumulator, aborting it (GHSA-jhc4-392q-5jvw)](https://github.com/tari-project/special_contributions/issues/72) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
@@ -100,9 +101,9 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#71 — Security report: tari-ootle `nfts.transfer` pays the fee from, and signs with, an account the caller has no scope on (GHSA-jg8h-hw4h-5fmv)](https://github.com/tari-project/special_contributions/issues/71) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 
-**84 bounties — 5,625,000 XTM**
+**85 bounties — 5,775,000 XTM**
 
-*Last updated: October 6, 2026 at 13:31 UTC*
+*Last updated: October 6, 2026 at 14:32 UTC*
 
 ### Tier Summary
 
@@ -110,4 +111,4 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 |:----:|:-----:|----:|
 | S | 35 | 15,000 |
 | M | 25 | 60,000 |
-| L | 24 | 150,000 |
+| L | 25 | 150,000 |
