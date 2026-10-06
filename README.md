@@ -53,6 +53,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#1 — Install, configure, set up the Tari Community Discourse server.](https://github.com/tari-project/community-discourse/issues/1) | community-discourse | M | 60,000 | @metalaureate | ✅ Merged | [1 PR](https://github.com/tari-project/community-discourse/pulls) | 💬 1 |
 | [#113 — add payref tracking to wallet](https://github.com/tari-project/minotari-cli/issues/113) | minotari-cli | M | 60,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
 | [#61 — Security report: tari-ootle unauthenticated remote validator process abort via sync_state until_epoch overflow (GHSA-6hvx-j552-fffj)](https://github.com/tari-project/special_contributions/issues/61) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#76 — Security report: tari-ootle stealth resource actions bypass the resource auth hook; StealthUtxoBurn has no spend authorization or freeze check (GHSA-24f6-ghpp-4h32)](https://github.com/tari-project/special_contributions/issues/76) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#7715 — Create lmdb unit tests](https://github.com/tari-project/tari/issues/7715) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [6 PRs](https://github.com/tari-project/tari/pulls) | 💬 6 |
 | [#7736 — create offline singing cucumber test](https://github.com/tari-project/tari/issues/7736) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/tari/pulls) | 💬 3 |
 | [#7738 — Let the wallet save more scanned block headers by spare headers beyond a day](https://github.com/tari-project/tari/issues/7738) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/tari/pulls) | 💬 3 |
@@ -99,11 +100,10 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
-| [#76 — Security report: tari-ootle stealth resource actions bypass the resource auth hook; StealthUtxoBurn has no spend authorization or freeze check (GHSA-24f6-ghpp-4h32)](https://github.com/tari-project/special_contributions/issues/76) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | 💬 1 |
 
 **85 bounties — 5,775,000 XTM**
 
-*Last updated: October 6, 2026 at 18:31 UTC*
+*Last updated: October 6, 2026 at 19:32 UTC*
 
 ### Tier Summary
 
