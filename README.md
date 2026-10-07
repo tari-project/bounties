@@ -29,13 +29,13 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#80 — Security report: tari-ootle rPC server leaks the per-client session count on handshake failure, permanently locking out a peer and growing the session map unbounded (GHSA-7h97-fwqj-6qpm)](https://github.com/tari-project/special_contributions/issues/80) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#85 — Security report: tari-ootle unauthenticated validator JSON-RPC can create signed exit artifact (GHSA-39x3-3pg3-px79)](https://github.com/tari-project/special_contributions/issues/85) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#90 — Security report: tari-ootle walletd confidential.create_transfer_proof omits reveal_amount from change, so every reveal-based withdraw proof fails balance verification (GHSA-7vhp-937q-mc4w)](https://github.com/tari-project/special_contributions/issues/90) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#91 — Security report: tari-ootle epoch_manager: Equal-arm hash correction leaves committees stale after reorg rescan (GHSA-mq5v-4h4g-49w6)](https://github.com/tari-project/special_contributions/issues/91) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#92 — Security report: tari-ootle one 2 KB manifest submission aborts the entire walletd daemon (GHSA-g234-qrqg-35ch)](https://github.com/tari-project/special_contributions/issues/92) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#63 — Security report: tari-ootle a peer-claimed `synced_to_version = u64::MAX` overflow-panics the indexer's sync worker, and the poisoned value is persisted — the crash recurs on every restart (GHSA-pjx9-6f6w-r678)](https://github.com/tari-project/special_contributions/issues/63) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#83 — Security report: tari-ootle forged cross-shard foreign proposal pledges enable unbacked asset minting (GHSA-m298-6jj3-fg7c)](https://github.com/tari-project/special_contributions/issues/83) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 2 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
 | [#87 — Security report: tari-ootle claim_burn mints the claimed UTXO to the seal signer's key, locking a relayer-sealed claim's funds behind the relayer (GHSA-j9v4-vq99-f484)](https://github.com/tari-project/special_contributions/issues/87) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#91 — Security report: tari-ootle epoch_manager: Equal-arm hash correction leaves committees stale after reorg rescan (GHSA-mq5v-4h4g-49w6)](https://github.com/tari-project/special_contributions/issues/91) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#92 — Security report: tari-ootle one 2 KB manifest submission aborts the entire walletd daemon (GHSA-g234-qrqg-35ch)](https://github.com/tari-project/special_contributions/issues/92) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [22 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 26 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -110,7 +110,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **92 bounties — 5,970,000 XTM**
 
-*Last updated: October 7, 2026 at 09:32 UTC*
+*Last updated: October 7, 2026 at 10:31 UTC*
 
 ### Tier Summary
 
