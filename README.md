@@ -62,6 +62,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#61 — Security report: tari-ootle unauthenticated remote validator process abort via sync_state until_epoch overflow (GHSA-6hvx-j552-fffj)](https://github.com/tari-project/special_contributions/issues/61) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#76 — Security report: tari-ootle stealth resource actions bypass the resource auth hook; StealthUtxoBurn has no spend authorization or freeze check (GHSA-24f6-ghpp-4h32)](https://github.com/tari-project/special_contributions/issues/76) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#83 — Security report: tari-ootle forged cross-shard foreign proposal pledges enable unbacked asset minting (GHSA-m298-6jj3-fg7c)](https://github.com/tari-project/special_contributions/issues/83) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
+| [#97 — Security report: tari-ootle malicious indexer crashes tari_walletd via SubstateDiff id/value mismatch — no authentication required (CP-2) (GHSA-mc36-c3gm-3cj4)](https://github.com/tari-project/special_contributions/issues/97) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#7715 — Create lmdb unit tests](https://github.com/tari-project/tari/issues/7715) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [6 PRs](https://github.com/tari-project/tari/pulls) | 💬 6 |
 | [#7736 — create offline singing cucumber test](https://github.com/tari-project/tari/issues/7736) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/tari/pulls) | 💬 3 |
 | [#7738 — Let the wallet save more scanned block headers by spare headers beyond a day](https://github.com/tari-project/tari/issues/7738) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/tari/pulls) | 💬 3 |
@@ -110,12 +111,11 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
-| [#97 — Security report: tari-ootle malicious indexer crashes tari_walletd via SubstateDiff id/value mismatch — no authentication required (CP-2) (GHSA-mc36-c3gm-3cj4)](https://github.com/tari-project/special_contributions/issues/97) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#90 — Security report: tari-ootle walletd confidential.create_transfer_proof omits reveal_amount from change, so every reveal-based withdraw proof fails balance verification (GHSA-7vhp-937q-mc4w)](https://github.com/tari-project/special_contributions/issues/90) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 
 **97 bounties — 6,360,000 XTM**
 
-*Last updated: October 7, 2026 at 18:31 UTC*
+*Last updated: October 7, 2026 at 19:32 UTC*
 
 ### Tier Summary
 
