@@ -34,7 +34,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#63 — Security report: tari-ootle a peer-claimed `synced_to_version = u64::MAX` overflow-panics the indexer's sync worker, and the poisoned value is persisted — the crash recurs on every restart (GHSA-pjx9-6f6w-r678)](https://github.com/tari-project/special_contributions/issues/63) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
 | [#87 — Security report: tari-ootle claim_burn mints the claimed UTXO to the seal signer's key, locking a relayer-sealed claim's funds behind the relayer (GHSA-j9v4-vq99-f484)](https://github.com/tari-project/special_contributions/issues/87) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
-| [#101 — Security report: tari-ootle unauthenticated GET /epoch-checkpoints serves an unmetered ~4 MB response per request (~5.7×10⁴ amplification, ~0.57 s of origin work) (GHSA-vx64-74jw-67vv)](https://github.com/tari-project/special_contributions/issues/101) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [23 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 27 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -93,6 +92,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#90 — Security report: tari-ootle walletd confidential.create_transfer_proof omits reveal_amount from change, so every reveal-based withdraw proof fails balance verification (GHSA-7vhp-937q-mc4w)](https://github.com/tari-project/special_contributions/issues/90) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#91 — Security report: tari-ootle epoch_manager: Equal-arm hash correction leaves committees stale after reorg rescan (GHSA-mq5v-4h4g-49w6)](https://github.com/tari-project/special_contributions/issues/91) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#92 — Security report: tari-ootle one 2 KB manifest submission aborts the entire walletd daemon (GHSA-g234-qrqg-35ch)](https://github.com/tari-project/special_contributions/issues/92) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#101 — Security report: tari-ootle unauthenticated GET /epoch-checkpoints serves an unmetered ~4 MB response per request (~5.7×10⁴ amplification, ~0.57 s of origin work) (GHSA-vx64-74jw-67vv)](https://github.com/tari-project/special_contributions/issues/101) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#-7822 — fix: consume merge mining proxy monero reservation](https://github.com/tari-project/tari/pull/7822) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7259 — feat: auto zero value coinbase reward calculation](https://github.com/tari-project/tari/pull/7259) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7242 — fix: minotari_merge_mining_proxy returns Tari block hash even if submit_to_origin is disabled](https://github.com/tari-project/tari/pull/7242) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
@@ -115,7 +115,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **97 bounties — 6,360,000 XTM**
 
-*Last updated: October 8, 2026 at 04:31 UTC*
+*Last updated: October 8, 2026 at 05:32 UTC*
 
 ### Tier Summary
 
