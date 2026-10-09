@@ -28,7 +28,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#82 — Security report: tari-ootle substate exclusion proof is not bound to the substate's shard, so a serving validator can prove false absence ("destroyed") for any substate (GHSA-2xjh-wg9w-g5hc)](https://github.com/tari-project/special_contributions/issues/82) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#107 — Security report: tari-ootle unauthenticated cross-shard QC replay forces consensus sync loop, halting committee liveness (GHSA-p6cp-739m-2hrv)](https://github.com/tari-project/special_contributions/issues/107) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
-| [#122 — Security report: tari-ootle unmetered template return value decoding bypasses compute budget (GHSA-wjvw-6j6r-x7q6)](https://github.com/tari-project/special_contributions/issues/122) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#122 — Security report: tari-ootle unmetered template return value decoding bypasses compute budget (GHSA-wjvw-6j6r-x7q6)](https://github.com/tari-project/special_contributions/issues/122) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#123 — Security report: tari-ootle unauthenticated dust deposits permanently brick any builtin account and freeze its funds — allow-all deposit grows an unremovable inline vault map until every mutating method OOMs inside the WASM memory limit (tari-ootle) (GHSA-rr6w-w4r5-9fcx)](https://github.com/tari-project/special_contributions/issues/123) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#124 — Security report: tari-ootle rPC session admission blocked by a silent inbound substream: pre-handshake head-of-line blocking in PeerRpcServer::serve() (GHSA-6qvq-r3x2-92vg)](https://github.com/tari-project/special_contributions/issues/124) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#125 — Security report: tari-ootle timeout certificates are accepted without checking their epoch, letting a Byzantine leader replay a stale quorum-signed TC to force an unauthorized view/height skip (GHSA-x75p-5xgq-26cv)](https://github.com/tari-project/special_contributions/issues/125) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -127,7 +127,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **109 bounties — 7,170,000 XTM**
 
-*Last updated: October 9, 2026 at 00:31 UTC*
+*Last updated: October 9, 2026 at 01:32 UTC*
 
 ### Tier Summary
 
