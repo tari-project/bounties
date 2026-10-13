@@ -33,7 +33,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#85 — Security report: tari-ootle unauthenticated validator JSON-RPC can create signed exit artifact (GHSA-39x3-3pg3-px79)](https://github.com/tari-project/special_contributions/issues/85) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#100 — Security report: tari-ootle committee member can remotely abort validator via NodeHeight overflow in LeaderSkipSet (GHSA-v8m9-4g8c-j2jf)](https://github.com/tari-project/special_contributions/issues/100) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#153 — Security report: tari-ootle confidential transfer proofs with reveal amount are always invalid (EMAIL-33)](https://github.com/tari-project/special_contributions/issues/153) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#155 — Security report: tari-ootle indexer value-proof verification does not bind the anchor's age: a stale quorum-signed root proves a live substate down (GHSA-h2q8-m8f7-xvv7)](https://github.com/tari-project/special_contributions/issues/155) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#157 — Bug fix: tari-ootle CreateResource accepts an invalid or identity view key (tari-ootle#2895)](https://github.com/tari-project/special_contributions/issues/157) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#158 — Security report: tari-ootle engine: `CreateResource` stores the view key without checking it is a valid, non-identity point (ISSUE-2841)](https://github.com/tari-project/special_contributions/issues/158) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#159 — Security report: tari-ootle validator node shutdown via non-numeric filter in get_filtered_blocks_count (EMAIL-34)](https://github.com/tari-project/special_contributions/issues/159) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
@@ -48,6 +47,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#154 — Security report: tari-ootle emit_log writes the host log before the 32 KiB receipt cap (GHSA-jwq8-9jwc-g52p)](https://github.com/tari-project/special_contributions/issues/154) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#136 — Bug report: tari-ootle indexer substate cache corrupts null in component state, breaking dry runs](https://github.com/tari-project/special_contributions/issues/136) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#155 — Security report: tari-ootle indexer value-proof verification does not bind the anchor's age: a stale quorum-signed root proves a live substate down (GHSA-h2q8-m8f7-xvv7)](https://github.com/tari-project/special_contributions/issues/155) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [23 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 27 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -153,7 +153,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **135 bounties — 8,820,000 XTM**
 
-*Last updated: October 13, 2026 at 09:32 UTC*
+*Last updated: October 13, 2026 at 10:31 UTC*
 
 ### Tier Summary
 
