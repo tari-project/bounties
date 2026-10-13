@@ -19,19 +19,33 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#95 — Security report: tari-ootle committed state that the state-sync transport cannot deliver makes a shard permanently unsyncable for new nodes (GHSA-fcgg-6mg5-357x)](https://github.com/tari-project/special_contributions/issues/95) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#96 — Security report: tari-ootle malicious indexer can irreversibly drain nearly an entire L1 burn claim through a non-refundable auto-claim fee (GHSA-vv8c-c3cc-cwm8)](https://github.com/tari-project/special_contributions/issues/96) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#149 — Security report: tari-ootle oversized foreign proposals silently stall shard for the epoch (GHSA-27ch-g89f-mgx4)](https://github.com/tari-project/special_contributions/issues/149) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
+| [#152 — Security report: tari-ootle unmetered host-side CBOR arg decode lets a template burn validator CPU for free (GHSA-qp4q-p8m7-pmj9)](https://github.com/tari-project/special_contributions/issues/152) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#60 — Security report: tari-ootle messaging handler: no read timeout — stalled inbound streams pin task capacity and prevent connection reaping (GHSA-38xx-4h6j-jmr3)](https://github.com/tari-project/special_contributions/issues/60) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#72 — Security report: tari-ootle epoch-checkpoint total_exhaust_burn is unbounded and overflows the indexer Amount accumulator, aborting it (GHSA-jhc4-392q-5jvw)](https://github.com/tari-project/special_contributions/issues/72) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#134 — Security report: tari-ootle consensus MissingTransactionsResponse decodes ~0.5-1.3 GiB of heap from a single 4 MiB message (per-message transaction decode bound missing from #2761) (GHSA-h87c-879q-38hj)](https://github.com/tari-project/special_contributions/issues/134) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#143 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/143) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#144 — Security report: tari-ootle transaction admission and consensus validation enforce no fee sufficiency or minimum fee-rate — dust-fee transactions are gossip-accepted, stored, proposed, and executed network-wide at zero cost to the sender, enabling unbounded mempool/execution DoS and block-weight monopolization (tari-ootle) (GHSA-vf6j-c5c9-gg9m)](https://github.com/tari-project/special_contributions/issues/144) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#150 — Security report: tari-ootle remote validator crash via u64::MAX RPC deadline (Instant overflow panic) (EMAIL-28)](https://github.com/tari-project/special_contributions/issues/150) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
+| [#151 — Security report: tari-ootle unbounded batch buffering in state sync (has_more) lets a serving peer OOM the validator (GHSA-2hjq-c37v-g792)](https://github.com/tari-project/special_contributions/issues/151) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
+| [#163 — Security report: tari-ootle unbounded RestrictedAccessRule::AnyOf/AllOf decode amplification on the validator RPC path (GHSA-mj8q-cqch-jjv5)](https://github.com/tari-project/special_contributions/issues/163) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#73 — Security report: tari-ootle `scalar_invert` intrinsic is charged at the cheap scalar-field-op rate (GHSA-2h95-2f82-q9m8)](https://github.com/tari-project/special_contributions/issues/73) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#85 — Security report: tari-ootle unauthenticated validator JSON-RPC can create signed exit artifact (GHSA-39x3-3pg3-px79)](https://github.com/tari-project/special_contributions/issues/85) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#100 — Security report: tari-ootle committee member can remotely abort validator via NodeHeight overflow in LeaderSkipSet (GHSA-v8m9-4g8c-j2jf)](https://github.com/tari-project/special_contributions/issues/100) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#153 — Security report: tari-ootle confidential transfer proofs with reveal amount are always invalid (EMAIL-33)](https://github.com/tari-project/special_contributions/issues/153) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#155 — Security report: tari-ootle indexer value-proof verification does not bind the anchor's age: a stale quorum-signed root proves a live substate down (GHSA-h2q8-m8f7-xvv7)](https://github.com/tari-project/special_contributions/issues/155) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#157 — Bug fix: tari-ootle CreateResource accepts an invalid or identity view key (tari-ootle#2895)](https://github.com/tari-project/special_contributions/issues/157) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#158 — Security report: tari-ootle engine: `CreateResource` stores the view key without checking it is a valid, non-identity point (ISSUE-2841)](https://github.com/tari-project/special_contributions/issues/158) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#159 — Security report: tari-ootle validator node shutdown via non-numeric filter in get_filtered_blocks_count (EMAIL-34)](https://github.com/tari-project/special_contributions/issues/159) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#160 — Security report: tari-ootle relay poisoning via untrusted identify claims causes unbounded relay set and dial storm (EMAIL-40)](https://github.com/tari-project/special_contributions/issues/160) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#161 — Security report: tari-ootle duplicate council keys halve effective m-of-n threshold (EMAIL-52)](https://github.com/tari-project/special_contributions/issues/161) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#164 — Security report: tari-ootle liquidity pool traps confidential commitments deposited via swap (EMAIL-50)](https://github.com/tari-project/special_contributions/issues/164) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#165 — Security report: tari-ootle unauthenticated webauthn.start_auth session accumulation causes memory growth and quadratic CPU in walletd (EMAIL-45)](https://github.com/tari-project/special_contributions/issues/165) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#166 — Security report: tari-ootle malicious indexer's fabricated commit result permanently freezes wallet confidential funds (EMAIL-41)](https://github.com/tari-project/special_contributions/issues/166) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#141 — Security report: tari-ootle engine WASM on_panic handler: uncapped log amplification, message logged twice before truncation (GHSA-qqxm-x5cc-3265)](https://github.com/tari-project/special_contributions/issues/141) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#145 — Security report: tari-ootle consensus message decode expands 24–48× beyond wire-byte accounting → remote unauthenticated memory exhaustion (OOM) of validator nodes (GHSA-9795-9pp8-phgh)](https://github.com/tari-project/special_contributions/issues/145) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#154 — Security report: tari-ootle emit_log writes the host log before the 32 KiB receipt cap (GHSA-jwq8-9jwc-g52p)](https://github.com/tari-project/special_contributions/issues/154) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#136 — Bug report: tari-ootle indexer substate cache corrupts null in component state, breaking dry runs](https://github.com/tari-project/special_contributions/issues/136) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [23 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 27 |
@@ -137,14 +151,14 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
 
-**121 bounties — 8,340,000 XTM**
+**135 bounties — 8,820,000 XTM**
 
-*Last updated: October 13, 2026 at 08:31 UTC*
+*Last updated: October 13, 2026 at 09:32 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 46 | 15,000 |
-| M | 40 | 60,000 |
-| L | 35 | 150,000 |
+| S | 56 | 15,000 |
+| M | 43 | 60,000 |
+| L | 36 | 150,000 |
