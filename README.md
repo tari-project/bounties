@@ -160,13 +160,13 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
 | [#181 — Security report: tari-ootle create scoped request caller can rewrite any wallet lock deadline (GHSA-vx64-fqq8-9prm)](https://github.com/tari-project/special_contributions/issues/181) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
-| [#182 — Security report: tari-ootle gossip validation chain omits the dry-run check, so honest relays are greylisted (GHSA-m5gw-676m-x89c)](https://github.com/tari-project/special_contributions/issues/182) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | — |
-| [#183 — Security report: tari-ootle confidential withdraw prices its balance-proof verification at zero while the verification runs (GHSA-659x-fc98-87wp)](https://github.com/tari-project/special_contributions/issues/183) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | — |
-| [#184 — Security report: tari-ootle liquidity pool contribute with equal minted LP keeps the caller's entire second bucket (GHSA-79v5-wfgh-jh6q)](https://github.com/tari-project/special_contributions/issues/184) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | — |
+| [#182 — Security report: tari-ootle gossip validation chain omits the dry-run check, so honest relays are greylisted (GHSA-m5gw-676m-x89c)](https://github.com/tari-project/special_contributions/issues/182) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
+| [#183 — Security report: tari-ootle confidential withdraw prices its balance-proof verification at zero while the verification runs (GHSA-659x-fc98-87wp)](https://github.com/tari-project/special_contributions/issues/183) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
+| [#184 — Security report: tari-ootle liquidity pool contribute with equal minted LP keeps the caller's entire second bucket (GHSA-79v5-wfgh-jh6q)](https://github.com/tari-project/special_contributions/issues/184) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 
 **148 bounties — 9,060,000 XTM**
 
-*Last updated: October 14, 2026 at 14:32 UTC*
+*Last updated: October 14, 2026 at 15:31 UTC*
 
 ### Tier Summary
 
