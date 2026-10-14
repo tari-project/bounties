@@ -43,7 +43,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#136 — Bug report: tari-ootle indexer substate cache corrupts null in component state, breaking dry runs](https://github.com/tari-project/special_contributions/issues/136) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#157 — Bug fix: tari-ootle CreateResource accepts an invalid or identity view key (tari-ootle#2895)](https://github.com/tari-project/special_contributions/issues/157) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#157 — Bug fix: tari-ootle CreateResource accepts an invalid or identity view key (tari-ootle#2895)](https://github.com/tari-project/special_contributions/issues/157) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [23 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 27 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -154,7 +154,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **136 bounties — 8,880,000 XTM**
 
-*Last updated: October 13, 2026 at 23:31 UTC*
+*Last updated: October 14, 2026 at 00:32 UTC*
 
 ### Tier Summary
 
