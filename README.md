@@ -43,10 +43,10 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#136 — Bug report: tari-ootle indexer substate cache corrupts null in component state, breaking dry runs](https://github.com/tari-project/special_contributions/issues/136) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#153 — Security report: tari-ootle confidential transfer proofs with reveal amount are always invalid (EMAIL-33)](https://github.com/tari-project/special_contributions/issues/153) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
-| [#178 — Security report: tari-ootle unauthenticated ForeignProposal validation cost denial of service pins consensus worker (GHSA-g592-vph9-hm4g)](https://github.com/tari-project/special_contributions/issues/178) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#178 — Security report: tari-ootle unauthenticated ForeignProposal validation cost denial of service pins consensus worker (GHSA-g592-vph9-hm4g)](https://github.com/tari-project/special_contributions/issues/178) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#180 — Security report: tari-ootle tari_indexer: unauthenticated GraphQL endpoint has no per-request complexity limit, enabling alias amplification DoS (CWE-770) (GHSA-5pw5-mf52-mfj6)](https://github.com/tari-project/special_contributions/issues/180) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#185 — Security report: tari-ootle unauthenticated single-peer fill of the 64 MiB consensus future-view buffer at the nearest view permanently locks out honest proposals and votes (GHSA-96fw-3mr9-2qq2)](https://github.com/tari-project/special_contributions/issues/185) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#191 — Security report: tari-ootle a `.offset`-suffixed workspace label aborts the host process instead of returning the documented `VALIDATION` error (GHSA-984v-gg82-rr3f)](https://github.com/tari-project/special_contributions/issues/191) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#191 — Security report: tari-ootle a `.offset`-suffixed workspace label aborts the host process instead of returning the documented `VALIDATION` error (GHSA-984v-gg82-rr3f)](https://github.com/tari-project/special_contributions/issues/191) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [23 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 27 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -166,7 +166,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **148 bounties — 9,060,000 XTM**
 
-*Last updated: October 15, 2026 at 02:52 UTC*
+*Last updated: October 15, 2026 at 03:52 UTC*
 
 ### Tier Summary
 
