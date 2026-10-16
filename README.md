@@ -53,7 +53,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#195 — Security report: tari-ootle engine: the 4 MiB aggregate transaction-output cap is never checked on the fee-intent-only commit path (main intent rejected), letting one ordinary transaction commit up to ~1 GiB of state (GHSA-hg3x-m3g3-vjq9)](https://github.com/tari-project/special_contributions/issues/195) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#198 — Security report: tari-ootle a block's transaction_merkle_root is quorum-signed but never recomputed from the block's commands, letting a Byzantine leader commit a false finalization/exclusion proof (GHSA-c5rq-wmvm-qqwx)](https://github.com/tari-project/special_contributions/issues/198) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#200 — Security report: tari-ootle reservoir-sampling proposal batch selector decodes the entire ready transaction pool on every proposal regardless of the block budget, enabling network-wide liveness degradation (GHSA-fc8p-764g-6r62)](https://github.com/tari-project/special_contributions/issues/200) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#201 — Security report: tari-ootle byzantine committee member grows validator parked-block storage without bound: replayed-QC catch-up blocks citing absent transactions are persisted durably and never garbage-collected (GHSA-95xj-f7cc-px8c)](https://github.com/tari-project/special_contributions/issues/201) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#202 — Security report: tari-ootle indexer state-sync permanent wedge via duplicate updates in one version (EMAIL-31)](https://github.com/tari-project/special_contributions/issues/202) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#205 — Security report: tari-ootle connection flood: no per-IP or total connection limits — unbounded connections from a single attacker (GHSA-hr7f-cc6j-x9h6)](https://github.com/tari-project/special_contributions/issues/205) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#212 — Contribution: fix(networking): add a transport upgrade timeout to bound pending inbound connections (tari-project/tari-ootle#2948)](https://github.com/tari-project/special_contributions/issues/212) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
@@ -64,6 +63,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#153 — Security report: tari-ootle confidential transfer proofs with reveal amount are always invalid (EMAIL-33)](https://github.com/tari-project/special_contributions/issues/153) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#201 — Security report: tari-ootle byzantine committee member grows validator parked-block storage without bound: replayed-QC catch-up blocks citing absent transactions are persisted durably and never garbage-collected (GHSA-95xj-f7cc-px8c)](https://github.com/tari-project/special_contributions/issues/201) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#218 — Contribution: fix(consensus): validate duplicate foreign pledge versions in output-only transactions (tari-project/tari-ootle#2915)](https://github.com/tari-project/special_contributions/issues/218) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
@@ -193,7 +193,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **175 bounties — 10,455,000 XTM**
 
-*Last updated: October 16, 2026 at 01:41 UTC*
+*Last updated: October 16, 2026 at 02:41 UTC*
 
 ### Tier Summary
 
