@@ -36,7 +36,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#208 — Security report: tari-ootle malicious indexer crashes the wallet daemon via unwraps on substituted substate data (GHSA-rr2h-gv24-pqxh)](https://github.com/tari-project/special_contributions/issues/208) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#220 — Security report: tari-ootle a serving validator can OOM (and stall) a substate-batch client through an unbounded `missing` list (GHSA-7p55-c95r-86v6)](https://github.com/tari-project/special_contributions/issues/220) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#228 — Security report: tari-ootle walletd signs with caller-named mask keys: a read-only RPC leaks the blinding factors that hide confidential/stealth output values (GHSA-2gv4-x4gj-3p78)](https://github.com/tari-project/special_contributions/issues/228) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
-| [#229 — Security report: tari-ootle epoch committee rotation orphans mid-flight transaction locks, permanently bricking substates network-wide (GHSA-9f5q-6h58-r4c3)](https://github.com/tari-project/special_contributions/issues/229) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#230 — Security report: tari-ootle unbounded missing-transactions response: one tiny request pins a validator's consensus worker (up to ~1.31 GB encoded per request) (GHSA-r5q2-hhx4-px6p)](https://github.com/tari-project/special_contributions/issues/230) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#232 — Security report: tari-ootle a peer can pin gigabytes of validator memory: `get_substate_batch` buffers the whole response before streaming and bounds only its item count (GHSA-2pm9-q6j8-qrh8)](https://github.com/tari-project/special_contributions/issues/232) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
@@ -68,8 +67,9 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#196 — Security report: tari-ootle prior-epoch notification stalls a current committee after a shard-layout split (GHSA-h585-9x2f-7p47)](https://github.com/tari-project/special_contributions/issues/196) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#217 — Security report: tari-ootle state Sync Accepts Hash-Only Substates as Verified State Despite Matching Checkpoint Root (GHSA-5rx8-8wf2-rwv2)](https://github.com/tari-project/special_contributions/issues/217) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#229 — Security report: tari-ootle epoch committee rotation orphans mid-flight transaction locks, permanently bricking substates network-wide (GHSA-9f5q-6h58-r4c3)](https://github.com/tari-project/special_contributions/issues/229) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
-| [#153 — Security report: tari-ootle confidential transfer proofs with reveal amount are always invalid (EMAIL-33)](https://github.com/tari-project/special_contributions/issues/153) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#153 — Security report: tari-ootle confidential transfer proofs with reveal amount are always invalid (EMAIL-33)](https://github.com/tari-project/special_contributions/issues/153) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -200,7 +200,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **182 bounties — 10,875,000 XTM**
 
-*Last updated: October 17, 2026 at 10:41 UTC*
+*Last updated: October 17, 2026 at 11:41 UTC*
 
 ### Tier Summary
 
