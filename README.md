@@ -186,6 +186,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#218 — Contribution: fix(consensus): validate duplicate foreign pledge versions in output-only transactions (tari-project/tari-ootle#2915)](https://github.com/tari-project/special_contributions/issues/218) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#219 — Security report: tari-ootle consensus: output-only pledge map keys on SubstateRequirement (version ignored), and its overwrite comment is wrong (ISSUE-2845)](https://github.com/tari-project/special_contributions/issues/219) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#237 — Security report: tari-ootle ootle-wasm / ootle.ts: stealth amounts outside u64 are reduced modulo 2^64 at the WASM boundary, so 2^64 + 5 is built, proven and validated as 5 (ISSUE-2982)](https://github.com/tari-project/special_contributions/issues/237) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#240 — Security report: tari-ootle consensus: a cross-shard transaction with max_epoch outside the validity window locks its local inputs in LocalPrepared and never releases them, because #2905's timeout keys off the unbounded max_epoch (GHSA-x45g-95p8-g67h)](https://github.com/tari-project/special_contributions/issues/240) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#-7822 — fix: consume merge mining proxy monero reservation](https://github.com/tari-project/tari/pull/7822) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7259 — feat: auto zero value coinbase reward calculation](https://github.com/tari-project/tari/pull/7259) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7242 — fix: minotari_merge_mining_proxy returns Tari block hash even if submit_to_origin is disabled](https://github.com/tari-project/tari/pull/7242) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
@@ -208,11 +209,10 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#145 — Security report: tari-ootle consensus message decode expands 24–48× beyond wire-byte accounting → remote unauthenticated memory exhaustion (OOM) of validator nodes (GHSA-9795-9pp8-phgh)](https://github.com/tari-project/special_contributions/issues/145) | special_contributions | L | 150,000 | @? | ⚫ Closed | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
-| [#240 — Security report: tari-ootle consensus: a cross-shard transaction with max_epoch outside the validity window locks its local inputs in LocalPrepared and never releases them, because #2905's timeout keys off the unbounded max_epoch (GHSA-x45g-95p8-g67h)](https://github.com/tari-project/special_contributions/issues/240) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 
 **194 bounties — 11,235,000 XTM**
 
-*Last updated: October 19, 2026 at 19:41 UTC*
+*Last updated: October 19, 2026 at 20:41 UTC*
 
 ### Tier Summary
 
