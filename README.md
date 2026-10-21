@@ -21,6 +21,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#209 — Security report: tari-ootle free validator log flood via oversized template panic messages (error level, no fee, no log-level dependency) (GHSA-fgff-j3q5-7x83)](https://github.com/tari-project/special_contributions/issues/209) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#216 — Security report: tari-ootle debug log flood: per-call `tari_debug` budget lets one transaction write ~7 GiB of validator logs for ~0.25 tTARI (GHSA-q46j-2mj8-wvqp)](https://github.com/tari-project/special_contributions/issues/216) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#273 — Security report: tari-ootle resourceContainer::Confidential revealed-change overflow and duplicate-commitment bypass in engine_types (GHSA-82jm-8fx9-mh39)](https://github.com/tari-project/special_contributions/issues/273) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
+| [#279 — Security report: tari-ootle foreign proposal notification from an unrelated committee suppresses the honest notification, so the block is never fetched from the committee that holds it (GHSA-mxc7-fprj-8xq2)](https://github.com/tari-project/special_contributions/issues/279) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
+| [#280 — Security report: tari-ootle non-canonical confidential mask in a payer-crafted output panics the receiving wallet (persistent walletd crash loop) (GHSA-mm9x-928m-8gjc)](https://github.com/tari-project/special_contributions/issues/280) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#60 — Security report: tari-ootle messaging handler: no read timeout — stalled inbound streams pin task capacity and prevent connection reaping (GHSA-38xx-4h6j-jmr3)](https://github.com/tari-project/special_contributions/issues/60) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#72 — Security report: tari-ootle epoch-checkpoint total_exhaust_burn is unbounded and overflows the indexer Amount accumulator, aborting it (GHSA-jhc4-392q-5jvw)](https://github.com/tari-project/special_contributions/issues/72) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#134 — Security report: tari-ootle consensus MissingTransactionsResponse decodes ~0.5-1.3 GiB of heap from a single 4 MiB message (per-message transaction decode bound missing from #2761) (GHSA-h87c-879q-38hj)](https://github.com/tari-project/special_contributions/issues/134) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
@@ -60,6 +62,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#236 — Security report: tari-ootle tIP-0006 spend-script predicates mutate engine state from the "side-effect-free" read-only frame (address allocation / signer-proof creation escape the sandbox deny-list) (GHSA-mjmv-783x-rxh7)](https://github.com/tari-project/special_contributions/issues/236) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#269 — Security report: tari-ootle confidential withdraw accepts and then destroys revealed change when no change output is present (engine value-conservation break; guarded in mint_confidential, not in withdraw) (GHSA-7532-3fg4-fcgw)](https://github.com/tari-project/special_contributions/issues/269) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#276 — Security report: tari-ootle malicious indexer aborts the wallet with one HTTP 304: the UTXO stream client unwraps a `None` status error (GHSA-q278-wcqg-x39q)](https://github.com/tari-project/special_contributions/issues/276) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#277 — Bug report: tari-ootle typeScript SDK: templateAddressLiteral emits a tagged template address the engine rejects, so calls fail after the fee (fix belongs in ootle.ts) (ISSUE-2986)](https://github.com/tari-project/special_contributions/issues/277) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#278 — Security report: tari-ootle consensus: timeout vote signatures bind no network, so a timeout certificate verifies on any network where the signers are committee members (ISSUE-2848)](https://github.com/tari-project/special_contributions/issues/278) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#153 — Security report: tari-ootle confidential transfer proofs with reveal amount are always invalid (EMAIL-33)](https://github.com/tari-project/special_contributions/issues/153) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -217,14 +221,14 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
 
-**201 bounties — 11,610,000 XTM**
+**205 bounties — 11,940,000 XTM**
 
-*Last updated: October 21, 2026 at 07:10 UTC*
+*Last updated: October 21, 2026 at 08:10 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 96 | 15,000 |
+| S | 98 | 15,000 |
 | M | 62 | 60,000 |
-| L | 43 | 150,000 |
+| L | 45 | 150,000 |
