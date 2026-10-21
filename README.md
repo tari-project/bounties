@@ -70,11 +70,11 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#289 — Security report: tari-ootle spend-script leaf validation loads (and can compile) the referenced template without charging the template-load fee (GHSA-57r9-hc99-grj4)](https://github.com/tari-project/special_contributions/issues/289) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#291 — Bug report: tari-ootle coalesced UTXO protobuf frames are dropped and wallet scan cursor skips owned outputs (GHSA-mf7r-4pfr-2qg3)](https://github.com/tari-project/special_contributions/issues/291) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#273 — Security report: tari-ootle resourceContainer::Confidential revealed-change overflow and duplicate-commitment bypass in engine_types (GHSA-82jm-8fx9-mh39)](https://github.com/tari-project/special_contributions/issues/273) | special_contributions | L | 150,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#273 — Security report: tari-ootle resourceContainer::Confidential revealed-change overflow and duplicate-commitment bypass in engine_types (GHSA-82jm-8fx9-mh39)](https://github.com/tari-project/special_contributions/issues/273) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#282 — Security report: tari-ootle ootle-rs: IndexerTrust::Verify bypasses via unrequested batch substates, omitted account vaults, and unverified get_resource reads (GHSA-4x6r-vhmx-g34f)](https://github.com/tari-project/special_contributions/issues/282) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#153 — Security report: tari-ootle confidential transfer proofs with reveal amount are always invalid (EMAIL-33)](https://github.com/tari-project/special_contributions/issues/153) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#277 — Bug report: tari-ootle typeScript SDK: templateAddressLiteral emits a tagged template address the engine rejects, so calls fail after the fee (fix belongs in ootle.ts) (ISSUE-2986)](https://github.com/tari-project/special_contributions/issues/277) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#277 — Bug report: tari-ootle typeScript SDK: templateAddressLiteral emits a tagged template address the engine rejects, so calls fail after the fee (fix belongs in ootle.ts) (ISSUE-2986)](https://github.com/tari-project/special_contributions/issues/277) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -231,7 +231,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **213 bounties — 12,330,000 XTM**
 
-*Last updated: October 21, 2026 at 17:11 UTC*
+*Last updated: October 21, 2026 at 18:10 UTC*
 
 ### Tier Summary
 
