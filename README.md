@@ -48,6 +48,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#287 — Security report: tari-ootle malicious indexer permanently poisons the wallet's stealth-UTXO scan cursor (GHSA-rrp6-34q3-56r8)](https://github.com/tari-project/special_contributions/issues/287) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#288 — Security report: tari-ootle post-invocation host charges push a fully executed main intent into the all-or-nothing reject path, refunding its fee (GHSA-mp6v-gfmj-r6xw)](https://github.com/tari-project/special_contributions/issues/288) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#290 — Security report: tari-ootle identify metrics retain every peer forever: unbounded memory growth on metrics-enabled validator/indexer nodes (GHSA-x9m4-9c4v-r385)](https://github.com/tari-project/special_contributions/issues/290) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
+| [#295 — Security report: tari-ootle indexer REST client parses an unbounded error body into `serde_json::Value`: a 61 MiB `500` response expands to ~2 GiB of wallet heap (GHSA-vv2x-mqfw-p4xv)](https://github.com/tari-project/special_contributions/issues/295) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
+| [#296 — Security report: tari-ootle forged UTXO Spent update persistently hides an unspent wallet output (GHSA-52vp-j7ph-m3g3)](https://github.com/tari-project/special_contributions/issues/296) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#85 — Security report: tari-ootle unauthenticated validator JSON-RPC can create signed exit artifact (GHSA-39x3-3pg3-px79)](https://github.com/tari-project/special_contributions/issues/85) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#159 — Security report: tari-ootle validator node shutdown via non-numeric filter in get_filtered_blocks_count (EMAIL-34)](https://github.com/tari-project/special_contributions/issues/159) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
@@ -69,6 +71,9 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#278 — Security report: tari-ootle consensus: timeout vote signatures bind no network, so a timeout certificate verifies on any network where the signers are committee members (ISSUE-2848)](https://github.com/tari-project/special_contributions/issues/278) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#289 — Security report: tari-ootle spend-script leaf validation loads (and can compile) the referenced template without charging the template-load fee (GHSA-57r9-hc99-grj4)](https://github.com/tari-project/special_contributions/issues/289) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#291 — Bug report: tari-ootle coalesced UTXO protobuf frames are dropped and wallet scan cursor skips owned outputs (GHSA-mf7r-4pfr-2qg3)](https://github.com/tari-project/special_contributions/issues/291) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#297 — Bug report: tari-ootle omitted confidential output poisons wallet scan state after indexer recovery (GHSA-28cx-xpx5-3xq2)](https://github.com/tari-project/special_contributions/issues/297) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#298 — Bug report: tari-ootle absence from the indexer's full-UTXO lookup permanently erases an owned stealth UTXO from the wallet (GHSA-6pr9-gm2g-pjvp)](https://github.com/tari-project/special_contributions/issues/298) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#299 — Security report: tari-ootle malicious indexer can mark wallet stealth UTXOs frozen or burnt through unverified status reads, blocking stealth spends (GHSA-3x9g-j64h-88m2)](https://github.com/tari-project/special_contributions/issues/299) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#273 — Security report: tari-ootle resourceContainer::Confidential revealed-change overflow and duplicate-commitment bypass in engine_types (GHSA-82jm-8fx9-mh39)](https://github.com/tari-project/special_contributions/issues/273) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#282 — Security report: tari-ootle ootle-rs: IndexerTrust::Verify bypasses via unrequested batch substates, omitted account vaults, and unverified get_resource reads (GHSA-4x6r-vhmx-g34f)](https://github.com/tari-project/special_contributions/issues/282) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -229,14 +234,14 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
 
-**213 bounties — 12,330,000 XTM**
+**218 bounties — 12,495,000 XTM**
 
-*Last updated: October 22, 2026 at 07:10 UTC*
+*Last updated: October 22, 2026 at 08:11 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 100 | 15,000 |
-| M | 68 | 60,000 |
+| S | 103 | 15,000 |
+| M | 70 | 60,000 |
 | L | 45 | 150,000 |
