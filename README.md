@@ -34,7 +34,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#296 — Security report: tari-ootle forged UTXO Spent update persistently hides an unspent wallet output (GHSA-52vp-j7ph-m3g3)](https://github.com/tari-project/special_contributions/issues/296) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#302 — Security report: tari-ootle state sync commits a create/destroy pair no block committed — a serving peer plants permanent substate records and a poisoned `HeadIndex` (version `u64::MAX`) (GHSA-rxpr-jx2j-9x74)](https://github.com/tari-project/special_contributions/issues/302) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#303 — Security report: tari-ootle outbound messaging stream permanently black-holed on an I/O negotiation failure (silent message loss + unbounded retention) (GHSA-wh7f-8p58-g7qq)](https://github.com/tari-project/special_contributions/issues/303) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
-| [#308 — Security report: tari-ootle validator JSON-RPC validates neither Host nor Origin: a DNS-rebinding page drives the privileged loopback RPC (PR #2726 fixed only the CORS half) (GHSA-4r7j-w95g-59v2)](https://github.com/tari-project/special_contributions/issues/308) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#85 — Security report: tari-ootle unauthenticated validator JSON-RPC can create signed exit artifact (GHSA-39x3-3pg3-px79)](https://github.com/tari-project/special_contributions/issues/85) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#160 — Security report: tari-ootle relay poisoning via untrusted identify claims causes unbounded relay set and dial storm (EMAIL-40)](https://github.com/tari-project/special_contributions/issues/160) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
@@ -55,6 +54,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#306 — Bug report: tari-ootle state sync clears transaction pool without releasing substate locks, permanently bricking substates on the syncing node (GHSA-cr6x-7g4q-v3qr)](https://github.com/tari-project/special_contributions/issues/306) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#307 — Security report: tari-ootle unauthenticated WebAuthn auth_start endpoint leaks username existence via allowCredentials (GHSA-9p3v-6v6f-8m76)](https://github.com/tari-project/special_contributions/issues/307) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#308 — Security report: tari-ootle validator JSON-RPC validates neither Host nor Origin: a DNS-rebinding page drives the privileged loopback RPC (PR #2726 fixed only the CORS half) (GHSA-4r7j-w95g-59v2)](https://github.com/tari-project/special_contributions/issues/308) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
@@ -243,7 +243,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **225 bounties — 12,735,000 XTM**
 
-*Last updated: October 23, 2026 at 18:55 UTC*
+*Last updated: October 23, 2026 at 19:55 UTC*
 
 ### Tier Summary
 
