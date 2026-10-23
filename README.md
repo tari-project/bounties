@@ -34,6 +34,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#296 — Security report: tari-ootle forged UTXO Spent update persistently hides an unspent wallet output (GHSA-52vp-j7ph-m3g3)](https://github.com/tari-project/special_contributions/issues/296) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#302 — Security report: tari-ootle state sync commits a create/destroy pair no block committed — a serving peer plants permanent substate records and a poisoned `HeadIndex` (version `u64::MAX`) (GHSA-rxpr-jx2j-9x74)](https://github.com/tari-project/special_contributions/issues/302) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#303 — Security report: tari-ootle outbound messaging stream permanently black-holed on an I/O negotiation failure (silent message loss + unbounded retention) (GHSA-wh7f-8p58-g7qq)](https://github.com/tari-project/special_contributions/issues/303) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
+| [#308 — Security report: tari-ootle validator JSON-RPC validates neither Host nor Origin: a DNS-rebinding page drives the privileged loopback RPC (PR #2726 fixed only the CORS half) (GHSA-4r7j-w95g-59v2)](https://github.com/tari-project/special_contributions/issues/308) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#85 — Security report: tari-ootle unauthenticated validator JSON-RPC can create signed exit artifact (GHSA-39x3-3pg3-px79)](https://github.com/tari-project/special_contributions/issues/85) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#160 — Security report: tari-ootle relay poisoning via untrusted identify claims causes unbounded relay set and dial storm (EMAIL-40)](https://github.com/tari-project/special_contributions/issues/160) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
@@ -240,14 +241,14 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#226 — Security report: tari-ootle burn-rate governance: stale locked epoch bypasses the activation lead time and rewrites the resolvable epoch window (GHSA-h7r6-f76r-8vc5)](https://github.com/tari-project/special_contributions/issues/226) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#276 — Security report: tari-ootle malicious indexer aborts the wallet with one HTTP 304: the UTXO stream client unwraps a `None` status error (GHSA-q278-wcqg-x39q)](https://github.com/tari-project/special_contributions/issues/276) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 
-**224 bounties — 12,675,000 XTM**
+**225 bounties — 12,735,000 XTM**
 
-*Last updated: October 23, 2026 at 13:10 UTC*
+*Last updated: October 23, 2026 at 14:11 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
 | S | 107 | 15,000 |
-| M | 72 | 60,000 |
+| M | 73 | 60,000 |
 | L | 45 | 150,000 |
