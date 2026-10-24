@@ -51,10 +51,10 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#298 — Bug report: tari-ootle absence from the indexer's full-UTXO lookup permanently erases an owned stealth UTXO from the wallet (GHSA-6pr9-gm2g-pjvp)](https://github.com/tari-project/special_contributions/issues/298) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#304 — Security report: tari-ootle walletd: no Host header validation in no-auth mode, and the WebAuthn signature counter is not persisted (ISSUE-2842)](https://github.com/tari-project/special_contributions/issues/304) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#305 — Security report: tari-ootle a withholding indexer permanently locks a wallet's inputs: transaction-linked locks are never timeout-reaped and a 200-Pending/404 answer counts as healthy so failover never fires (GHSA-6fp7-7wf2-ph5m)](https://github.com/tari-project/special_contributions/issues/305) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#306 — Bug report: tari-ootle state sync clears transaction pool without releasing substate locks, permanently bricking substates on the syncing node (GHSA-cr6x-7g4q-v3qr)](https://github.com/tari-project/special_contributions/issues/306) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#307 — Security report: tari-ootle unauthenticated WebAuthn auth_start endpoint leaks username existence via allowCredentials (GHSA-9p3v-6v6f-8m76)](https://github.com/tari-project/special_contributions/issues/307) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
+| [#306 — Bug report: tari-ootle state sync clears transaction pool without releasing substate locks, permanently bricking substates on the syncing node (GHSA-cr6x-7g4q-v3qr)](https://github.com/tari-project/special_contributions/issues/306) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#307 — Security report: tari-ootle unauthenticated WebAuthn auth_start endpoint leaks username existence via allowCredentials (GHSA-9p3v-6v6f-8m76)](https://github.com/tari-project/special_contributions/issues/307) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -243,7 +243,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **225 bounties — 12,735,000 XTM**
 
-*Last updated: October 24, 2026 at 20:55 UTC*
+*Last updated: October 24, 2026 at 21:55 UTC*
 
 ### Tier Summary
 
