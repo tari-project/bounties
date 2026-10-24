@@ -54,7 +54,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#306 — Bug report: tari-ootle state sync clears transaction pool without releasing substate locks, permanently bricking substates on the syncing node (GHSA-cr6x-7g4q-v3qr)](https://github.com/tari-project/special_contributions/issues/306) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#307 — Security report: tari-ootle unauthenticated WebAuthn auth_start endpoint leaks username existence via allowCredentials (GHSA-9p3v-6v6f-8m76)](https://github.com/tari-project/special_contributions/issues/307) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#308 — Security report: tari-ootle validator JSON-RPC validates neither Host nor Origin: a DNS-rebinding page drives the privileged loopback RPC (PR #2726 fixed only the CORS half) (GHSA-4r7j-w95g-59v2)](https://github.com/tari-project/special_contributions/issues/308) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
@@ -135,6 +134,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#288 — Security report: tari-ootle post-invocation host charges push a fully executed main intent into the all-or-nothing reject path, refunding its fee (GHSA-mp6v-gfmj-r6xw)](https://github.com/tari-project/special_contributions/issues/288) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#290 — Security report: tari-ootle identify metrics retain every peer forever: unbounded memory growth on metrics-enabled validator/indexer nodes (GHSA-x9m4-9c4v-r385)](https://github.com/tari-project/special_contributions/issues/290) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#295 — Security report: tari-ootle indexer REST client parses an unbounded error body into `serde_json::Value`: a 61 MiB `500` response expands to ~2 GiB of wallet heap (GHSA-vv2x-mqfw-p4xv)](https://github.com/tari-project/special_contributions/issues/295) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#308 — Security report: tari-ootle validator JSON-RPC validates neither Host nor Origin: a DNS-rebinding page drives the privileged loopback RPC (PR #2726 fixed only the CORS half) (GHSA-4r7j-w95g-59v2)](https://github.com/tari-project/special_contributions/issues/308) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#7715 — Create lmdb unit tests](https://github.com/tari-project/tari/issues/7715) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [6 PRs](https://github.com/tari-project/tari/pulls) | 💬 6 |
 | [#7736 — create offline singing cucumber test](https://github.com/tari-project/tari/issues/7736) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/tari/pulls) | 💬 3 |
 | [#7738 — Let the wallet save more scanned block headers by spare headers beyond a day](https://github.com/tari-project/tari/issues/7738) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/tari/pulls) | 💬 3 |
@@ -243,7 +243,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **225 bounties — 12,735,000 XTM**
 
-*Last updated: October 24, 2026 at 04:55 UTC*
+*Last updated: October 24, 2026 at 05:55 UTC*
 
 ### Tier Summary
 
