@@ -54,11 +54,11 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#316 — Security report: tari-ootle manifest global reuse amplifies authorized wallet requests into stored over-limit dry runs (GHSA-x3rp-9mf5-53mm)](https://github.com/tari-project/special_contributions/issues/316) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#317 — Security report: tari-ootle unbounded memory growth and quadratic CPU in the wallet SSE event-stream consumer (@tari-project/ootle-indexer) (GHSA-j9gh-gmgx-hhp3)](https://github.com/tari-project/special_contributions/issues/317) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#314 — Security report: tari-ootle float values in substate data break verified reads through the indexer JSON path, letting any depositor freeze a victim's wallet refresh (GHSA-ch7v-fvrr-5338)](https://github.com/tari-project/special_contributions/issues/314) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#314 — Security report: tari-ootle float values in substate data break verified reads through the indexer JSON path, letting any depositor freeze a victim's wallet refresh (GHSA-ch7v-fvrr-5338)](https://github.com/tari-project/special_contributions/issues/314) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#315 — Security report: tari-ootle malicious indexer plants phantom unspent stealth outputs: recovered UTXOs committed without up-state proof, even under IndexerTrust::Verify (GHSA-f8q7-c3p5-2wpg)](https://github.com/tari-project/special_contributions/issues/315) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
-| [#312 — Contribution: fix(common_types): parse substate requirement and input declaration suffixes from the right (#3094) (tari-project/tari-ootle#3111)](https://github.com/tari-project/special_contributions/issues/312) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
-| [#313 — Report: tari-ootle wallet CLI: `-i` misparses a string NFT id containing ':' as a different NFT and version (ISSUE-3094)](https://github.com/tari-project/special_contributions/issues/313) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#312 — Contribution: fix(common_types): parse substate requirement and input declaration suffixes from the right (#3094) (tari-project/tari-ootle#3111)](https://github.com/tari-project/special_contributions/issues/312) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#313 — Report: tari-ootle wallet CLI: `-i` misparses a string NFT id containing ':' as a different NFT and version (ISSUE-3094)](https://github.com/tari-project/special_contributions/issues/313) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -249,7 +249,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **231 bounties — 12,915,000 XTM**
 
-*Last updated: October 26, 2026 at 20:55 UTC*
+*Last updated: October 26, 2026 at 21:55 UTC*
 
 ### Tier Summary
 
