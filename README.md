@@ -34,6 +34,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#296 — Security report: tari-ootle forged UTXO Spent update persistently hides an unspent wallet output (GHSA-52vp-j7ph-m3g3)](https://github.com/tari-project/special_contributions/issues/296) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#302 — Security report: tari-ootle state sync commits a create/destroy pair no block committed — a serving peer plants permanent substate records and a poisoned `HeadIndex` (version `u64::MAX`) (GHSA-rxpr-jx2j-9x74)](https://github.com/tari-project/special_contributions/issues/302) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#303 — Security report: tari-ootle outbound messaging stream permanently black-holed on an I/O negotiation failure (silent message loss + unbounded retention) (GHSA-wh7f-8p58-g7qq)](https://github.com/tari-project/special_contributions/issues/303) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
+| [#314 — Security report: tari-ootle float values in substate data break verified reads through the indexer JSON path, letting any depositor freeze a victim's wallet refresh (GHSA-ch7v-fvrr-5338)](https://github.com/tari-project/special_contributions/issues/314) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#85 — Security report: tari-ootle unauthenticated validator JSON-RPC can create signed exit artifact (GHSA-39x3-3pg3-px79)](https://github.com/tari-project/special_contributions/issues/85) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#160 — Security report: tari-ootle relay poisoning via untrusted identify claims causes unbounded relay set and dial storm (EMAIL-40)](https://github.com/tari-project/special_contributions/issues/160) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
@@ -51,10 +52,13 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#298 — Bug report: tari-ootle absence from the indexer's full-UTXO lookup permanently erases an owned stealth UTXO from the wallet (GHSA-6pr9-gm2g-pjvp)](https://github.com/tari-project/special_contributions/issues/298) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#304 — Security report: tari-ootle walletd: no Host header validation in no-auth mode, and the WebAuthn signature counter is not persisted (ISSUE-2842)](https://github.com/tari-project/special_contributions/issues/304) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#305 — Security report: tari-ootle a withholding indexer permanently locks a wallet's inputs: transaction-linked locks are never timeout-reaped and a 200-Pending/404 answer counts as healthy so failover never fires (GHSA-6fp7-7wf2-ph5m)](https://github.com/tari-project/special_contributions/issues/305) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#312 — Contribution: fix(common_types): parse substate requirement and input declaration suffixes from the right (#3094) (tari-project/tari-ootle#3111)](https://github.com/tari-project/special_contributions/issues/312) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#313 — Report: tari-ootle wallet CLI: `-i` misparses a string NFT id containing ':' as a different NFT and version (ISSUE-3094)](https://github.com/tari-project/special_contributions/issues/313) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#316 — Security report: tari-ootle manifest global reuse amplifies authorized wallet requests into stored over-limit dry runs (GHSA-x3rp-9mf5-53mm)](https://github.com/tari-project/special_contributions/issues/316) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#317 — Security report: tari-ootle unbounded memory growth and quadratic CPU in the wallet SSE event-stream consumer (@tari-project/ootle-indexer) (GHSA-j9gh-gmgx-hhp3)](https://github.com/tari-project/special_contributions/issues/317) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#315 — Security report: tari-ootle malicious indexer plants phantom unspent stealth outputs: recovered UTXOs committed without up-state proof, even under IndexerTrust::Verify (GHSA-f8q7-c3p5-2wpg)](https://github.com/tari-project/special_contributions/issues/315) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
-| [#306 — Bug report: tari-ootle state sync clears transaction pool without releasing substate locks, permanently bricking substates on the syncing node (GHSA-cr6x-7g4q-v3qr)](https://github.com/tari-project/special_contributions/issues/306) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#307 — Security report: tari-ootle unauthenticated WebAuthn auth_start endpoint leaks username existence via allowCredentials (GHSA-9p3v-6v6f-8m76)](https://github.com/tari-project/special_contributions/issues/307) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -218,6 +222,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#277 — Bug report: tari-ootle typeScript SDK: templateAddressLiteral emits a tagged template address the engine rejects, so calls fail after the fee (fix belongs in ootle.ts) (ISSUE-2986)](https://github.com/tari-project/special_contributions/issues/277) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#278 — Security report: tari-ootle consensus: timeout vote signatures bind no network, so a timeout certificate verifies on any network where the signers are committee members (ISSUE-2848)](https://github.com/tari-project/special_contributions/issues/278) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#299 — Security report: tari-ootle malicious indexer can mark wallet stealth UTXOs frozen or burnt through unverified status reads, blocking stealth spends (GHSA-3x9g-j64h-88m2)](https://github.com/tari-project/special_contributions/issues/299) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#306 — Bug report: tari-ootle state sync clears transaction pool without releasing substate locks, permanently bricking substates on the syncing node (GHSA-cr6x-7g4q-v3qr)](https://github.com/tari-project/special_contributions/issues/306) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#307 — Security report: tari-ootle unauthenticated WebAuthn auth_start endpoint leaks username existence via allowCredentials (GHSA-9p3v-6v6f-8m76)](https://github.com/tari-project/special_contributions/issues/307) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#-7822 — fix: consume merge mining proxy monero reservation](https://github.com/tari-project/tari/pull/7822) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7259 — feat: auto zero value coinbase reward calculation](https://github.com/tari-project/tari/pull/7259) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7242 — fix: minotari_merge_mining_proxy returns Tari block hash even if submit_to_origin is disabled](https://github.com/tari-project/tari/pull/7242) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
@@ -241,14 +247,14 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
 
-**225 bounties — 12,735,000 XTM**
+**231 bounties — 12,915,000 XTM**
 
-*Last updated: October 26, 2026 at 10:55 UTC*
+*Last updated: October 26, 2026 at 11:55 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 107 | 15,000 |
-| M | 73 | 60,000 |
+| S | 111 | 15,000 |
+| M | 75 | 60,000 |
 | L | 45 | 150,000 |
