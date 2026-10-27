@@ -55,11 +55,11 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#316 — Security report: tari-ootle manifest global reuse amplifies authorized wallet requests into stored over-limit dry runs (GHSA-x3rp-9mf5-53mm)](https://github.com/tari-project/special_contributions/issues/316) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#317 — Security report: tari-ootle unbounded memory growth and quadratic CPU in the wallet SSE event-stream consumer (@tari-project/ootle-indexer) (GHSA-j9gh-gmgx-hhp3)](https://github.com/tari-project/special_contributions/issues/317) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#327 — Prune mode sync issue](https://github.com/tari-project/special_contributions/issues/327) | special_contributions | L | 150,000 | @? | 🟡 PR Open | — | 💬 1 |
-| [#323 — Contribution: feat(walletd): add cookie-file authentication for local clients (#3050) (tari-project/tari-ootle#3113)](https://github.com/tari-project/special_contributions/issues/323) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
-| [#325 — Security report: tari-ootle unauthenticated follow-state-sync stream lets one minority committee member permanently poison the indexer store (GHSA-5qfh-xpq7-4rpq)](https://github.com/tari-project/special_contributions/issues/325) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#327 — Prune mode sync issue](https://github.com/tari-project/special_contributions/issues/327) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#323 — Contribution: feat(walletd): add cookie-file authentication for local clients (#3050) (tari-project/tari-ootle#3113)](https://github.com/tari-project/special_contributions/issues/323) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#325 — Security report: tari-ootle unauthenticated follow-state-sync stream lets one minority committee member permanently poison the indexer store (GHSA-5qfh-xpq7-4rpq)](https://github.com/tari-project/special_contributions/issues/325) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
-| [#326 — Contribution: fix(wallet_cli): honour --dry-run and wait timeout on transfer commands (#3134) (tari-project/tari-ootle#3135)](https://github.com/tari-project/special_contributions/issues/326) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#326 — Contribution: fix(wallet_cli): honour --dry-run and wait timeout on transfer commands (#3134) (tari-project/tari-ootle#3135)](https://github.com/tari-project/special_contributions/issues/326) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
@@ -254,7 +254,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **236 bounties — 13,260,000 XTM**
 
-*Last updated: October 27, 2026 at 12:55 UTC*
+*Last updated: October 27, 2026 at 14:55 UTC*
 
 ### Tier Summary
 
