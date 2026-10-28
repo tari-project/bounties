@@ -15,6 +15,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
+| [#350 — Contest Winning: September 2026 Build Contest (2nd Place)](https://github.com/tari-project/special_contributions/issues/350) | special_contributions | P | 500,000 | @? | 🟢 Open | — | — |
 | [#43 — Security report: tari-ootle unauthenticated HotStuff restart (GHSA-wxp4-rq8h-jcvf)](https://github.com/tari-project/special_contributions/issues/43) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#194 — Security report: tari-ootle cross-shard double-spend via forged foreign-proposal pledge values (BlockPledge not committed to by quorum certificates) (GHSA-p26x-5g5v-rmwc)](https://github.com/tari-project/special_contributions/issues/194) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#206 — Security report: tari-ootle fabricated foreign proposals accepted on the attached-proposal path (no commit-proof validation) - deterministic cross-shard double-spend (GHSA-4x2w-2823-87w4)](https://github.com/tari-project/special_contributions/issues/206) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
@@ -60,11 +61,12 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#337 — Security report: tari-universe log files exposed the OS user name through absolute app data paths (GHSA-qj92-r4m5-9hrp)](https://github.com/tari-project/special_contributions/issues/337) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#345 — Contribution: fix(wallet): resolve per-row account in get_locked_by_lock_id (tari-project/tari-ootle#3157)](https://github.com/tari-project/special_contributions/issues/345) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#346 — Bug report: tari-ootle wallet_storage_sqlite: `stealth_outputs_get_locked_by_lock_id` and `confidential_outputs_get_locked_by_lock_id` overwrite all outputs' account address with the first row's account (ISSUE-3156)](https://github.com/tari-project/special_contributions/issues/346) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#349 — Contribution: fix(walletd): record wallet outputs in create_stealth_transfer_statement (tari-project/tari-ootle#3155)](https://github.com/tari-project/special_contributions/issues/349) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#333 — Security report: tari-universe unvalidated postMessage sender could reach privileged tapplet signer methods including the one-sided send (GHSA-mj75-4pfh-7q38)](https://github.com/tari-project/special_contributions/issues/333) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#335 — Security report: tari-universe support log bundle included wallet secrets and airdrop tokens (GHSA-gc23-qrx4-44w6)](https://github.com/tari-project/special_contributions/issues/335) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#336 — Security report: tari-universe legacy plaintext wallet seed fallback file was not removed after successful keyring migration (GHSA-qhqr-xhmr-w9vf)](https://github.com/tari-project/special_contributions/issues/336) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#344 — security report for consensus mismatch](https://github.com/tari-project/special_contributions/issues/344) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#352 — Require a sorted body before treating it as the one its header commits](https://github.com/tari-project/special_contributions/issues/352) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
@@ -153,6 +155,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#315 — Security report: tari-ootle malicious indexer plants phantom unspent stealth outputs: recovered UTXOs committed without up-state proof, even under IndexerTrust::Verify (GHSA-f8q7-c3p5-2wpg)](https://github.com/tari-project/special_contributions/issues/315) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#323 — Contribution: feat(walletd): add cookie-file authentication for local clients (#3050) (tari-project/tari-ootle#3113)](https://github.com/tari-project/special_contributions/issues/323) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#325 — Security report: tari-ootle unauthenticated follow-state-sync stream lets one minority committee member permanently poison the indexer store (GHSA-5qfh-xpq7-4rpq)](https://github.com/tari-project/special_contributions/issues/325) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#344 — security report for consensus mismatch](https://github.com/tari-project/special_contributions/issues/344) | special_contributions | M | 60,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#7715 — Create lmdb unit tests](https://github.com/tari-project/tari/issues/7715) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [6 PRs](https://github.com/tari-project/tari/pulls) | 💬 6 |
 | [#7736 — create offline singing cucumber test](https://github.com/tari-project/tari/issues/7736) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/tari/pulls) | 💬 3 |
 | [#7738 — Let the wallet save more scanned block headers by spare headers beyond a day](https://github.com/tari-project/tari/issues/7738) | tari | M | 60,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/tari/pulls) | 💬 3 |
@@ -264,15 +267,15 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
 
-**248 bounties — 14,740,000 XTM**
+**251 bounties — 15,315,000 XTM**
 
-*Last updated: October 28, 2026 at 16:26 UTC*
+*Last updated: October 28, 2026 at 17:26 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 116 | 15,000 |
-| M | 85 | 60,000 |
+| S | 117 | 15,000 |
+| M | 86 | 60,000 |
 | L | 46 | 150,000 |
-| P | 1 | 1,000,000 total |
+| P | 2 | 1,500,000 total |
