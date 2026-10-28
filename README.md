@@ -61,6 +61,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#316 — Security report: tari-ootle manifest global reuse amplifies authorized wallet requests into stored over-limit dry runs (GHSA-x3rp-9mf5-53mm)](https://github.com/tari-project/special_contributions/issues/316) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#317 — Security report: tari-ootle unbounded memory growth and quadratic CPU in the wallet SSE event-stream consumer (@tari-project/ootle-indexer) (GHSA-j9gh-gmgx-hhp3)](https://github.com/tari-project/special_contributions/issues/317) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#337 — Security report: tari-universe log files exposed the OS user name through absolute app data paths (GHSA-qj92-r4m5-9hrp)](https://github.com/tari-project/special_contributions/issues/337) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#327 — Prune mode sync issue](https://github.com/tari-project/special_contributions/issues/327) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#323 — Contribution: feat(walletd): add cookie-file authentication for local clients (#3050) (tari-project/tari-ootle#3113)](https://github.com/tari-project/special_contributions/issues/323) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -259,14 +260,14 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
 
-**243 bounties — 13,635,000 XTM**
+**244 bounties — 13,650,000 XTM**
 
-*Last updated: October 28, 2026 at 00:26 UTC*
+*Last updated: October 28, 2026 at 01:26 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 113 | 15,000 |
+| S | 114 | 15,000 |
 | M | 84 | 60,000 |
 | L | 46 | 150,000 |
