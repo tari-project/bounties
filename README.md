@@ -45,14 +45,14 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#346 — Bug report: tari-ootle wallet_storage_sqlite: `stealth_outputs_get_locked_by_lock_id` and `confidential_outputs_get_locked_by_lock_id` overwrite all outputs' account address with the first row's account (ISSUE-3156)](https://github.com/tari-project/special_contributions/issues/346) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#349 — Contribution: fix(walletd): record wallet outputs in create_stealth_transfer_statement (tari-project/tari-ootle#3155)](https://github.com/tari-project/special_contributions/issues/349) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#359 — Contribution: fix(walletd): harden transaction-request value summary change validation (tari-project/tari-ootle#3158)](https://github.com/tari-project/special_contributions/issues/359) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#350 — Contest Winning: September 2026 Build Contest (2nd Place)](https://github.com/tari-project/special_contributions/issues/350) | special_contributions | P | 500,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#352 — Require a sorted body before treating it as the one its header commits](https://github.com/tari-project/special_contributions/issues/352) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#357 — Security report: tari-ootle replica crashes fatally when a LocalAccept references a foreign input pledge it has not stored yet (GHSA-6g74-qmhj-9gx9)](https://github.com/tari-project/special_contributions/issues/357) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#357 — Security report: tari-ootle replica crashes fatally when a LocalAccept references a foreign input pledge it has not stored yet (GHSA-6g74-qmhj-9gx9)](https://github.com/tari-project/special_contributions/issues/357) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#340 — Contest Winning: September 2026 Build Contest](https://github.com/tari-project/special_contributions/issues/340) | special_contributions | P | 1,000,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#350 — Contest Winning: September 2026 Build Contest (2nd Place)](https://github.com/tari-project/special_contributions/issues/350) | special_contributions | P | 500,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
 | [#-165 — TIP-3: Tari Community Forums](https://github.com/tari-project/rfcs/pull/165) | rfcs | L | 150,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/rfcs/pulls) | 💬 1 |
@@ -274,7 +274,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **256 bounties — 15,760,000 XTM**
 
-*Last updated: October 29, 2026 at 13:26 UTC*
+*Last updated: October 29, 2026 at 14:26 UTC*
 
 ### Tier Summary
 
