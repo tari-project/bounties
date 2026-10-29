@@ -28,7 +28,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#331 — Security report: tari-universe wallet mnemonic was handed to the signing child process in an environment variable, visible to any same-user process on macOS (GHSA-2rj3-v56x-776x)](https://github.com/tari-project/special_contributions/issues/331) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#332 — Security report: tari-universe wallet send had no confirmation gate when no PIN was set, reachable through the tapplet postMessage bridge, with a no-op isolation hook, permissive CSP and an unverified bridge tapplet download (GHSA-9mc8-c8cr-7m6h)](https://github.com/tari-project/special_contributions/issues/332) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#334 — Security report: tari-universe airdrop access and refresh tokens were sent in telemetry events (GHSA-pfr6-f88m-m42j)](https://github.com/tari-project/special_contributions/issues/334) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
-| [#356 — Contribution: fix(indexer,wallet): reject version-mismatched Up proofs and allow re-adoption from spent_version (tari-project/tari-ootle#3149)](https://github.com/tari-project/special_contributions/issues/356) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#358 — Security report: tari-ootle quadratic component-state validation on `SetState` is unmetered (O(n²) host work priced as a linear CBOR walk) (GHSA-pgc3-w5cw-fm5v)](https://github.com/tari-project/special_contributions/issues/358) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#85 — Security report: tari-ootle unauthenticated validator JSON-RPC can create signed exit artifact (GHSA-39x3-3pg3-px79)](https://github.com/tari-project/special_contributions/issues/85) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
@@ -47,6 +46,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#359 — Contribution: fix(walletd): harden transaction-request value summary change validation (tari-project/tari-ootle#3158)](https://github.com/tari-project/special_contributions/issues/359) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#352 — Require a sorted body before treating it as the one its header commits](https://github.com/tari-project/special_contributions/issues/352) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#356 — Contribution: fix(indexer,wallet): reject version-mismatched Up proofs and allow re-adoption from spent_version (tari-project/tari-ootle#3149)](https://github.com/tari-project/special_contributions/issues/356) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#357 — Security report: tari-ootle replica crashes fatally when a LocalAccept references a foreign input pledge it has not stored yet (GHSA-6g74-qmhj-9gx9)](https://github.com/tari-project/special_contributions/issues/357) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 1 |
@@ -274,7 +274,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **256 bounties — 15,760,000 XTM**
 
-*Last updated: October 29, 2026 at 15:26 UTC*
+*Last updated: October 29, 2026 at 16:26 UTC*
 
 ### Tier Summary
 
