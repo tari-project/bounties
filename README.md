@@ -47,6 +47,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#340 — Contest Winning: September 2026 Build Contest](https://github.com/tari-project/special_contributions/issues/340) | special_contributions | P | 1,000,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#350 — Contest Winning: September 2026 Build Contest (2nd Place)](https://github.com/tari-project/special_contributions/issues/350) | special_contributions | P | 500,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#351 — Contest Winning: September 2026 Build Contest (3rd Place)](https://github.com/tari-project/special_contributions/issues/351) | special_contributions | P | 250,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
 | [#-165 — TIP-3: Tari Community Forums](https://github.com/tari-project/rfcs/pull/165) | rfcs | L | 150,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/rfcs/pulls) | 💬 1 |
@@ -84,6 +85,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#280 — Security report: tari-ootle non-canonical confidential mask in a payer-crafted output panics the receiving wallet (persistent walletd crash loop) (GHSA-mm9x-928m-8gjc)](https://github.com/tari-project/special_contributions/issues/280) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#327 — Prune mode sync issue](https://github.com/tari-project/special_contributions/issues/327) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#377 — Security report: tari-ootle bypass of Resource AuthHook Authorization in RuntimeInterfaceImpl::invoke_resource_access_hook When Hook Component Is Omitted from Transaction Inputs (GHSA-3m37-r5xr-frh9)](https://github.com/tari-project/special_contributions/issues/377) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#383 — report cve for syncing issue](https://github.com/tari-project/special_contributions/issues/383) | special_contributions | L | 150,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#7796 — Harden offline transaction signing](https://github.com/tari-project/tari/issues/7796) | tari | L | 150,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#1931 — UX: Wallet address book](https://github.com/tari-project/tari-ootle/issues/1931) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [1 PR](https://github.com/tari-project/tari-ootle/pulls) | 💬 1 |
 | [#1949 — walletd: Log of balance changes](https://github.com/tari-project/tari-ootle/issues/1949) | tari-ootle | L | 150,000 | @sdbondi | ✅ Merged | [3 PRs](https://github.com/tari-project/tari-ootle/pulls) | 💬 3 |
@@ -273,16 +275,14 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3128 — seed wallet import problem](https://github.com/tari-project/universe/issues/3128) | universe | S | 15,000 | @brianp | ✅ Merged | [3 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
 | [#3210 — Tari Universe   1.6.11 reports rate in G/s on Mac for CPU](https://github.com/tari-project/universe/issues/3210) | universe | S | 15,000 | @brianp | ✅ Merged | [12 PRs](https://github.com/tari-project/universe/pulls) | 💬 13 |
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
-| [#351 — Contest Winning: September 2026 Build Contest (3rd Place)](https://github.com/tari-project/special_contributions/issues/351) | special_contributions | P | 250,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#137 — Security report: tari-ootle wASM metering ceiling bypass via nested cross-template calls (EMAIL-91)](https://github.com/tari-project/special_contributions/issues/137) | special_contributions | L | 150,000 | @? | ⚫ Closed | — | — |
 | [#145 — Security report: tari-ootle consensus message decode expands 24–48× beyond wire-byte accounting → remote unauthenticated memory exhaustion (OOM) of validator nodes (GHSA-9795-9pp8-phgh)](https://github.com/tari-project/special_contributions/issues/145) | special_contributions | L | 150,000 | @? | ⚫ Closed | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#383 — report cve for syncing issue](https://github.com/tari-project/special_contributions/issues/383) | special_contributions | L | 150,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
 
 **264 bounties — 16,375,000 XTM**
 
-*Last updated: October 30, 2026 at 13:26 UTC*
+*Last updated: October 30, 2026 at 15:26 UTC*
 
 ### Tier Summary
 
