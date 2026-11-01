@@ -35,10 +35,10 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#291 — Bug report: tari-ootle coalesced UTXO protobuf frames are dropped and wallet scan cursor skips owned outputs (GHSA-mf7r-4pfr-2qg3)](https://github.com/tari-project/special_contributions/issues/291) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#304 — Security report: tari-ootle walletd: no Host header validation in no-auth mode, and the WebAuthn signature counter is not persisted (ISSUE-2842)](https://github.com/tari-project/special_contributions/issues/304) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#345 — Contribution: fix(wallet): resolve per-row account in get_locked_by_lock_id (tari-project/tari-ootle#3157)](https://github.com/tari-project/special_contributions/issues/345) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
-| [#346 — Bug report: tari-ootle wallet_storage_sqlite: `stealth_outputs_get_locked_by_lock_id` and `confidential_outputs_get_locked_by_lock_id` overwrite all outputs' account address with the first row's account (ISSUE-3156)](https://github.com/tari-project/special_contributions/issues/346) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
-| [#349 — Contribution: fix(walletd): record wallet outputs in create_stealth_transfer_statement (tari-project/tari-ootle#3155)](https://github.com/tari-project/special_contributions/issues/349) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
-| [#359 — Contribution: fix(walletd): harden transaction-request value summary change validation (tari-project/tari-ootle#3158)](https://github.com/tari-project/special_contributions/issues/359) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#345 — Contribution: fix(wallet): resolve per-row account in get_locked_by_lock_id (tari-project/tari-ootle#3157)](https://github.com/tari-project/special_contributions/issues/345) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#346 — Bug report: tari-ootle wallet_storage_sqlite: `stealth_outputs_get_locked_by_lock_id` and `confidential_outputs_get_locked_by_lock_id` overwrite all outputs' account address with the first row's account (ISSUE-3156)](https://github.com/tari-project/special_contributions/issues/346) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#349 — Contribution: fix(walletd): record wallet outputs in create_stealth_transfer_statement (tari-project/tari-ootle#3155)](https://github.com/tari-project/special_contributions/issues/349) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#359 — Contribution: fix(walletd): harden transaction-request value summary change validation (tari-project/tari-ootle#3158)](https://github.com/tari-project/special_contributions/issues/359) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#340 — Contest Winning: September 2026 Build Contest](https://github.com/tari-project/special_contributions/issues/340) | special_contributions | P | 1,000,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -282,7 +282,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **264 bounties — 16,375,000 XTM**
 
-*Last updated: October 31, 2026 at 23:26 UTC*
+*Last updated: November 1, 2026 at 01:25 UTC*
 
 ### Tier Summary
 
