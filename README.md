@@ -36,6 +36,12 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#397 — Contribution: fix(swarm): fix 0.x/0.0.x semantic_version_eq, protocol parsing, and message ID hashing (tari-project/tari-ootle#3242)](https://github.com/tari-project/special_contributions/issues/397) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#398 — Contribution: fix(common_types): fix committee max_node_failures formula, ShardStateVersions CBOR prealloc, and ShardGroup::from_str (tari-project/tari-ootle#3244)](https://github.com/tari-project/special_contributions/issues/398) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#399 — Contribution: fix(indexer_lib): bound batch cache writes, fix unsettled fallback, and deduplicate component refs (tari-project/tari-ootle#3249)](https://github.com/tari-project/special_contributions/issues/399) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#403 — Contribution: fix(swarm_daemon): fix duplicate L1 watch paths, registration count, and reply handling (tari-project/tari-ootle#3240)](https://github.com/tari-project/special_contributions/issues/403) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#405 — Security report: tari-ootle first-arrived remote abort reason wins in the transaction pool, so nodes permanently disagree on multi-shard transaction decisions (GHSA-82mc-m2cc-fg23)](https://github.com/tari-project/special_contributions/issues/405) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#406 — Contribution: fix(template_build): support stateless template docs, extra_entry merge, and source_path errors (tari-project/tari-ootle#3241)](https://github.com/tari-project/special_contributions/issues/406) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#407 — Contribution: fix(libp2p-substream): drain behaviour events in poll and fix connection-close handling (tari-project/tari-ootle#3239)](https://github.com/tari-project/special_contributions/issues/407) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#408 — Bug report: tari-ootle multiple consensus and transaction vulnerabilities in Ootle L2 (future TC proposal buffering, catch-up sync stall, persisted NewView height, and blob/migrate validation & discovery bugs) (GHSA-r6h6-hfg3-qf82)](https://github.com/tari-project/special_contributions/issues/408) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#409 — Contribution: fix(ootle_serde): fix binary option serialization in hex/duration and support visit_seq in BytesVisitor (tari-project/tari-ootle#3247)](https://github.com/tari-project/special_contributions/issues/409) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#332 — Security report: tari-universe wallet send had no confirmation gate when no PIN was set, reachable through the tapplet postMessage bridge, with a no-op isolation hook, permissive CSP and an unverified bridge tapplet download (GHSA-9mc8-c8cr-7m6h)](https://github.com/tari-project/special_contributions/issues/332) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
@@ -286,16 +292,17 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#145 — Security report: tari-ootle consensus message decode expands 24–48× beyond wire-byte accounting → remote unauthenticated memory exhaustion (OOM) of validator nodes (GHSA-9795-9pp8-phgh)](https://github.com/tari-project/special_contributions/issues/145) | special_contributions | L | 150,000 | @? | ⚫ Closed | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
+| [#400 — Contribution: fix(consensus,transaction): fix future TC proposal buffering, catch-up batch progress, persisted NewView height, and blob/migrate input & template discovery (tari-project/tari-ootle#3233)](https://github.com/tari-project/special_contributions/issues/400) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | — |
 
-**271 bounties — 16,615,000 XTM**
+**278 bounties — 16,720,000 XTM**
 
-*Last updated: November 2, 2026 at 11:14 UTC*
+*Last updated: November 2, 2026 at 12:15 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 127 | 15,000 |
+| S | 134 | 15,000 |
 | M | 91 | 60,000 |
 | L | 50 | 150,000 |
 | P | 3 | 1,750,000 total |
