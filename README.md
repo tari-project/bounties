@@ -29,6 +29,12 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#317 — Security report: tari-ootle unbounded memory growth and quadratic CPU in the wallet SSE event-stream consumer (@tari-project/ootle-indexer) (GHSA-j9gh-gmgx-hhp3)](https://github.com/tari-project/special_contributions/issues/317) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#337 — Security report: tari-universe log files exposed the OS user name through absolute app data paths (GHSA-qj92-r4m5-9hrp)](https://github.com/tari-project/special_contributions/issues/337) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#379 — Security report: tari-ootle f1: Wallet trusts unauthenticated indexer REST responses at sign-act points (ISSUE-2808)](https://github.com/tari-project/special_contributions/issues/379) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#394 — Security report: tari-ootle global declared inputs are explicitly fanned out to every shard group's evidence but excluded from the fee, on a stated premise the code contradicts (GHSA-hvq5-mmqf-86r2)](https://github.com/tari-project/special_contributions/issues/394) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#395 — Contribution: feat(walletd): require setup token for first passkey and add reset-passkeys (#3049) (tari-project/tari-ootle#3114)](https://github.com/tari-project/special_contributions/issues/395) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#396 — Contribution: fix(networking): fix IPv6 global scope check, bootstrap completion, and topic peers (tari-project/tari-ootle#3237)](https://github.com/tari-project/special_contributions/issues/396) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#397 — Contribution: fix(swarm): fix 0.x/0.0.x semantic_version_eq, protocol parsing, and message ID hashing (tari-project/tari-ootle#3242)](https://github.com/tari-project/special_contributions/issues/397) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#398 — Contribution: fix(common_types): fix committee max_node_failures formula, ShardStateVersions CBOR prealloc, and ShardGroup::from_str (tari-project/tari-ootle#3244)](https://github.com/tari-project/special_contributions/issues/398) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#399 — Contribution: fix(indexer_lib): bound batch cache writes, fix unsettled fallback, and deduplicate component refs (tari-project/tari-ootle#3249)](https://github.com/tari-project/special_contributions/issues/399) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#274 — Security report: tari-ootle disconnected transaction-event SSE replay streams retain background tasks beyond the connection limit (GHSA-66vp-q959-8w99)](https://github.com/tari-project/special_contributions/issues/274) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#332 — Security report: tari-universe wallet send had no confirmation gate when no PIN was set, reachable through the tapplet postMessage bridge, with a no-op isolation hook, permissive CSP and an unverified bridge tapplet download (GHSA-9mc8-c8cr-7m6h)](https://github.com/tari-project/special_contributions/issues/332) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -280,15 +286,15 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
 
-**264 bounties — 16,375,000 XTM**
+**270 bounties — 16,465,000 XTM**
 
-*Last updated: November 2, 2026 at 06:14 UTC*
+*Last updated: November 2, 2026 at 07:15 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 121 | 15,000 |
+| S | 127 | 15,000 |
 | M | 91 | 60,000 |
 | L | 49 | 150,000 |
 | P | 3 | 1,750,000 total |
