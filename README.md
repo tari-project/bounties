@@ -16,7 +16,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
 | [#43 — Security report: tari-ootle unauthenticated HotStuff restart (GHSA-wxp4-rq8h-jcvf)](https://github.com/tari-project/special_contributions/issues/43) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
-| [#393 — Security report: tari-ootle unmetered access-rule evaluation: each resource authorization scans requirements × live proofs for free (up to 2,623× CPU amplification, measured) (GHSA-8h8f-293m-v3rr)](https://github.com/tari-project/special_contributions/issues/393) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#72 — Security report: tari-ootle epoch-checkpoint total_exhaust_burn is unbounded and overflows the indexer Amount accumulator, aborting it (GHSA-jhc4-392q-5jvw)](https://github.com/tari-project/special_contributions/issues/72) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#134 — Security report: tari-ootle consensus MissingTransactionsResponse decodes ~0.5-1.3 GiB of heap from a single 4 MiB message (per-message transaction decode bound missing from #2761) (GHSA-h87c-879q-38hj)](https://github.com/tari-project/special_contributions/issues/134) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#163 — Security report: tari-ootle unbounded RestrictedAccessRule::AnyOf/AllOf decode amplification on the validator RPC path (GHSA-mj8q-cqch-jjv5)](https://github.com/tari-project/special_contributions/issues/163) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
@@ -31,7 +30,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#337 — Security report: tari-universe log files exposed the OS user name through absolute app data paths (GHSA-qj92-r4m5-9hrp)](https://github.com/tari-project/special_contributions/issues/337) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#379 — Security report: tari-ootle f1: Wallet trusts unauthenticated indexer REST responses at sign-act points (ISSUE-2808)](https://github.com/tari-project/special_contributions/issues/379) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#394 — Security report: tari-ootle global declared inputs are explicitly fanned out to every shard group's evidence but excluded from the fee, on a stated premise the code contradicts (GHSA-hvq5-mmqf-86r2)](https://github.com/tari-project/special_contributions/issues/394) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#395 — Contribution: feat(walletd): require setup token for first passkey and add reset-passkeys (#3049) (tari-project/tari-ootle#3114)](https://github.com/tari-project/special_contributions/issues/395) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#396 — Contribution: fix(networking): fix IPv6 global scope check, bootstrap completion, and topic peers (tari-project/tari-ootle#3237)](https://github.com/tari-project/special_contributions/issues/396) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#397 — Contribution: fix(swarm): fix 0.x/0.0.x semantic_version_eq, protocol parsing, and message ID hashing (tari-project/tari-ootle#3242)](https://github.com/tari-project/special_contributions/issues/397) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#398 — Contribution: fix(common_types): fix committee max_node_failures formula, ShardStateVersions CBOR prealloc, and ShardGroup::from_str (tari-project/tari-ootle#3244)](https://github.com/tari-project/special_contributions/issues/398) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
@@ -290,13 +288,15 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#137 — Security report: tari-ootle wASM metering ceiling bypass via nested cross-template calls (EMAIL-91)](https://github.com/tari-project/special_contributions/issues/137) | special_contributions | L | 150,000 | @? | ⚫ Closed | — | — |
 | [#145 — Security report: tari-ootle consensus message decode expands 24–48× beyond wire-byte accounting → remote unauthenticated memory exhaustion (OOM) of validator nodes (GHSA-9795-9pp8-phgh)](https://github.com/tari-project/special_contributions/issues/145) | special_contributions | L | 150,000 | @? | ⚫ Closed | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#393 — Security report: tari-ootle unmetered access-rule evaluation: each resource authorization scans requirements × live proofs for free (up to 2,623× CPU amplification, measured) (GHSA-8h8f-293m-v3rr)](https://github.com/tari-project/special_contributions/issues/393) | special_contributions | L | 150,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
-| [#400 — Contribution: fix(consensus,transaction): fix future TC proposal buffering, catch-up batch progress, persisted NewView height, and blob/migrate input & template discovery (tari-project/tari-ootle#3233)](https://github.com/tari-project/special_contributions/issues/400) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | — |
+| [#395 — Contribution: feat(walletd): require setup token for first passkey and add reset-passkeys (#3049) (tari-project/tari-ootle#3114)](https://github.com/tari-project/special_contributions/issues/395) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
+| [#400 — Contribution: fix(consensus,transaction): fix future TC proposal buffering, catch-up batch progress, persisted NewView height, and blob/migrate input & template discovery (tari-project/tari-ootle#3233)](https://github.com/tari-project/special_contributions/issues/400) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 
 **278 bounties — 16,720,000 XTM**
 
-*Last updated: November 2, 2026 at 12:15 UTC*
+*Last updated: November 2, 2026 at 13:14 UTC*
 
 ### Tier Summary
 
