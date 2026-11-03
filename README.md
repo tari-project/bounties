@@ -296,12 +296,12 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
 | [#395 — Contribution: feat(walletd): require setup token for first passkey and add reset-passkeys (#3049) (tari-project/tari-ootle#3114)](https://github.com/tari-project/special_contributions/issues/395) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#400 — Contribution: fix(consensus,transaction): fix future TC proposal buffering, catch-up batch progress, persisted NewView height, and blob/migrate input & template discovery (tari-project/tari-ootle#3233)](https://github.com/tari-project/special_contributions/issues/400) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
-| [#412 — Security report: tari-ootle callee Frame Can Return Out-of-Scope Bucket, Proof, or AddressAllocation Held by Caller Frame Due to Duplicate validate_return_value Implementation (Bypassing PR #2575) (GHSA-jcxr-8qg7-3mg8)](https://github.com/tari-project/special_contributions/issues/412) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | — |
+| [#412 — Security report: tari-ootle callee Frame Can Return Out-of-Scope Bucket, Proof, or AddressAllocation Held by Caller Frame Due to Duplicate validate_return_value Implementation (Bypassing PR #2575) (GHSA-jcxr-8qg7-3mg8)](https://github.com/tari-project/special_contributions/issues/412) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | ⚫ Closed | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 
 **283 bounties — 16,795,000 XTM**
 
-*Last updated: November 3, 2026 at 08:15 UTC*
+*Last updated: November 3, 2026 at 09:14 UTC*
 
 ### Tier Summary
 
