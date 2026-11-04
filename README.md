@@ -50,7 +50,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#427 — Bug report: tari-ootle feeModule::on_fee_checkpoint Omits WasmExecution and NativeExecution Charges, Allowing Unpaid Main-Intent Execution (Reject Instead of AcceptFeeRejectRest) (GHSA-j53w-fcwx-66xx)](https://github.com/tari-project/special_contributions/issues/427) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#428 — Contribution: fix(engine): charge execution fees at on_fee_checkpoint and before required_fee_payment (tari-project/tari-ootle#3224)](https://github.com/tari-project/special_contributions/issues/428) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#429 — Security report: tari-ootle output-Only Shard Group Receiving a Foreign LocalAccept Across an Epoch Boundary Reconstructs LockedEpoch from the Enclosing Foreign Block Instead of the Input Shard Group's Execution Pin, Causing Cross-Shard Execution Divergence (GHSA-59jq-qfcj-c5m2)](https://github.com/tari-project/special_contributions/issues/429) | special_contributions | L | 150,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#429 — Security report: tari-ootle output-Only Shard Group Receiving a Foreign LocalAccept Across an Epoch Boundary Reconstructs LockedEpoch from the Enclosing Foreign Block Instead of the Input Shard Group's Execution Pin, Causing Cross-Shard Execution Divergence (GHSA-59jq-qfcj-c5m2)](https://github.com/tari-project/special_contributions/issues/429) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#332 — Security report: tari-universe wallet send had no confirmation gate when no PIN was set, reachable through the tapplet postMessage bridge, with a no-op isolation hook, permissive CSP and an unverified bridge tapplet download (GHSA-9mc8-c8cr-7m6h)](https://github.com/tari-project/special_contributions/issues/332) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#420 — mempool hardeing report](https://github.com/tari-project/special_contributions/issues/420) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
@@ -311,7 +311,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **293 bounties — 17,305,000 XTM**
 
-*Last updated: November 3, 2026 at 23:12 UTC*
+*Last updated: November 4, 2026 at 00:11 UTC*
 
 ### Tier Summary
 
