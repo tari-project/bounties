@@ -49,6 +49,11 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#425 — Contribution: fix(peersync): fix want-list completion check, semaphore release, and duplicate/stale records (tari-project/tari-ootle#3236)](https://github.com/tari-project/special_contributions/issues/425) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#427 — Bug report: tari-ootle feeModule::on_fee_checkpoint Omits WasmExecution and NativeExecution Charges, Allowing Unpaid Main-Intent Execution (Reject Instead of AcceptFeeRejectRest) (GHSA-j53w-fcwx-66xx)](https://github.com/tari-project/special_contributions/issues/427) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#428 — Contribution: fix(engine): charge execution fees at on_fee_checkpoint and before required_fee_payment (tari-project/tari-ootle#3224)](https://github.com/tari-project/special_contributions/issues/428) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#432 — Security report: tari-ootle componentAddressAllocation cross-template deterministic public-key address hijacking and unscoped child-frame AuthHook bypass (GHSA-j2cg-mjxf-qjvr)](https://github.com/tari-project/special_contributions/issues/432) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#433 — Contribution: fix(validator_node_client): handle null JSON-RPC error, HTTP status errors, and response Deserialize impls (tari-project/tari-ootle#3243)](https://github.com/tari-project/special_contributions/issues/433) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#434 — Contribution: fix(libp2p-messaging): fix sink cycling, connection-close events, and stream queueing (tari-project/tari-ootle#3238)](https://github.com/tari-project/special_contributions/issues/434) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#435 — Security report: tari-ootle a vault can be seated in two components: `validate_component_state` only rejects duplicates within one component's state (GHSA-cx7p-5g7q-pcm2)](https://github.com/tari-project/special_contributions/issues/435) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#436 — Bug report: tari-ootle pendingSubstateStore::try_lock_all and OnPropose::prepare_transaction leak partial substate locks and input pledges on deferred/aborted transactions, causing proposer/replica DecisionDisagreement and false on-chain aborts (GHSA-xfj9-82c5-6xf3)](https://github.com/tari-project/special_contributions/issues/436) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#429 — Security report: tari-ootle output-Only Shard Group Receiving a Foreign LocalAccept Across an Epoch Boundary Reconstructs LockedEpoch from the Enclosing Foreign Block Instead of the Input Shard Group's Execution Pin, Causing Cross-Shard Execution Divergence (GHSA-59jq-qfcj-c5m2)](https://github.com/tari-project/special_contributions/issues/429) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#332 — Security report: tari-universe wallet send had no confirmation gate when no PIN was set, reachable through the tapplet postMessage bridge, with a no-op isolation hook, permissive CSP and an unverified bridge tapplet download (GHSA-9mc8-c8cr-7m6h)](https://github.com/tari-project/special_contributions/issues/332) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -309,15 +314,15 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#400 — Contribution: fix(consensus,transaction): fix future TC proposal buffering, catch-up batch progress, persisted NewView height, and blob/migrate input & template discovery (tari-project/tari-ootle#3233)](https://github.com/tari-project/special_contributions/issues/400) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | ⚫ Closed | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 
-**293 bounties — 17,305,000 XTM**
+**298 bounties — 17,380,000 XTM**
 
-*Last updated: November 4, 2026 at 08:11 UTC*
+*Last updated: November 4, 2026 at 09:12 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 145 | 15,000 |
+| S | 150 | 15,000 |
 | M | 93 | 60,000 |
 | L | 52 | 150,000 |
 | P | 3 | 1,750,000 total |
