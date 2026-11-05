@@ -25,6 +25,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#334 — Security report: tari-universe airdrop access and refresh tokens were sent in telemetry events (GHSA-pfr6-f88m-m42j)](https://github.com/tari-project/special_contributions/issues/334) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#358 — Security report: tari-ootle quadratic component-state validation on `SetState` is unmetered (O(n²) host work priced as a linear CBOR walk) (GHSA-pgc3-w5cw-fm5v)](https://github.com/tari-project/special_contributions/issues/358) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#419 — Security report: tari-ootle consensus: multishard output-lock abort drops foreign output shard groups from Evidence, retains partial locks, and bypasses LocalAccept command validation (permanent cross-shard deadlock) (GHSA-fqc5-7vfv-r2q6)](https://github.com/tari-project/special_contributions/issues/419) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
+| [#452 — Security report: tari-ootle `get_shard_snapshot` pins a 4 MiB unary response per RPC session, letting one peer hold gigabytes on a validator (GHSA-c8c5-x8q9-g5cx)](https://github.com/tari-project/special_contributions/issues/452) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#85 — Security report: tari-ootle unauthenticated validator JSON-RPC can create signed exit artifact (GHSA-39x3-3pg3-px79)](https://github.com/tari-project/special_contributions/issues/85) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#213 — Security report: tari-ootle unverified state-sync batch epoch defeats epoch GC and re-infects downstream peers (GHSA-ph9g-xc95-wj99)](https://github.com/tari-project/special_contributions/issues/213) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
@@ -54,6 +55,15 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#435 — Security report: tari-ootle a vault can be seated in two components: `validate_component_state` only rejects duplicates within one component's state (GHSA-cx7p-5g7q-pcm2)](https://github.com/tari-project/special_contributions/issues/435) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#436 — Bug report: tari-ootle pendingSubstateStore::try_lock_all and OnPropose::prepare_transaction leak partial substate locks and input pledges on deferred/aborted transactions, causing proposer/replica DecisionDisagreement and false on-chain aborts (GHSA-xfj9-82c5-6xf3)](https://github.com/tari-project/special_contributions/issues/436) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#442 — Security report: tari-ootle tari_walletd multi-indexer failover defeated by stalling indexer — no read timeout exists on any request path (GHSA-43mw-rj55-36cw)](https://github.com/tari-project/special_contributions/issues/442) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#443 — Contribution: fix(walletd,wallet_sdk): enforce lock ownership on submit and reject nonexistent imported keys (tari-project/tari-ootle#3225)](https://github.com/tari-project/special_contributions/issues/443) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#444 — Security report: tari-ootle walletd / wallet_sdk: Lock Ownership Bypass in submit/submit_dry_run & Permanent Fund Freezing on Multi-Lock Transactions (GHSA-344f-v89p-jw54)](https://github.com/tari-project/special_contributions/issues/444) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#446 — Security report: tari-ootle unsigned ProposalCertificate shard_group lets a Byzantine committee member corrupt a victim's persisted leaf block (GHSA-rgw9-phr2-f42g)](https://github.com/tari-project/special_contributions/issues/446) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#447 — Security report: tari-ootle cross-caller lock hijack in walletd: a Transactions(Create)-scoped API key can bind other callers' locks, make walletd sign with victims' account/stealth keys, and force victim fee expenditure on chain (GHSA-57p9-3cv5-5hqm)](https://github.com/tari-project/special_contributions/issues/447) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#449 — Bug report: tari-ootle validator state sync: a partially completed first sync is reported up to date after a committee layout change (GHSA-533f-pgxr-73c4)](https://github.com/tari-project/special_contributions/issues/449) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#450 — Contribution: fix(indexer_lib): defer f=0 nonexistence and confirm unproven batch downs (tari-project/tari-ootle#3313)](https://github.com/tari-project/special_contributions/issues/450) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#451 — Contribution: fix(engine): evaluate scoped rules outside frames and clear last output at fee checkpoint (tari-project/tari-ootle#3294)](https://github.com/tari-project/special_contributions/issues/451) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#453 — Contribution: fix(engine_types): preserve u64 integers above i64::MAX in convert_json_to_cbor (tari-project/tari-ootle#3366)](https://github.com/tari-project/special_contributions/issues/453) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#454 — Contribution: fix(epoch_oracles): emit DoneForNow at epoch 0 in ConfiguredEpochOracle and forward errors in HybridEpochOracle (tari-project/tari-ootle#3364)](https://github.com/tari-project/special_contributions/issues/454) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#429 — Security report: tari-ootle output-Only Shard Group Receiving a Foreign LocalAccept Across an Epoch Boundary Reconstructs LockedEpoch from the Enclosing Foreign Block Instead of the Input Shard Group's Execution Pin, Causing Cross-Shard Execution Divergence (GHSA-59jq-qfcj-c5m2)](https://github.com/tari-project/special_contributions/issues/429) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#332 — Security report: tari-universe wallet send had no confirmation gate when no PIN was set, reachable through the tapplet postMessage bridge, with a no-op isolation hook, permissive CSP and an unverified bridge tapplet download (GHSA-9mc8-c8cr-7m6h)](https://github.com/tari-project/special_contributions/issues/332) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -311,21 +321,22 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3279 — Add a "Show on startup" setting (launch minimized to tray)](https://github.com/tari-project/universe/issues/3279) | universe | S | 15,000 | @brianp | ✅ Merged | [2 PRs](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#137 — Security report: tari-ootle wASM metering ceiling bypass via nested cross-template calls (EMAIL-91)](https://github.com/tari-project/special_contributions/issues/137) | special_contributions | L | 150,000 | @? | ⚫ Closed | — | — |
 | [#145 — Security report: tari-ootle consensus message decode expands 24–48× beyond wire-byte accounting → remote unauthenticated memory exhaustion (OOM) of validator nodes (GHSA-9795-9pp8-phgh)](https://github.com/tari-project/special_contributions/issues/145) | special_contributions | L | 150,000 | @? | ⚫ Closed | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#445 — Security report: tari-ootle unmetered O(active_element_segments * table_slots) Full-Table Syncs on Empty Active Element Segments in WasmModule::load_template_from_code and limits::instantiation_points (GHSA-3v5g-mv99-6m5c)](https://github.com/tari-project/special_contributions/issues/445) | special_contributions | L | 150,000 | @? | ⚫ Closed | — | — |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
 | [#106 — Security report: tari-ootle wallet derives its fee-swap input from unverified indexer pool reserves with no cap or confirmation: a lying indexer can make a fee swap sell the user's entire token balance into an attacker-owned pool (same class as GHSA-vv8c-c3cc-cwm8) (GHSA-mv6w-58hv-xv8r)](https://github.com/tari-project/special_contributions/issues/106) | special_contributions | M | 60,000 | @? | ⚫ Closed | — | — |
 | [#395 — Contribution: feat(walletd): require setup token for first passkey and add reset-passkeys (#3049) (tari-project/tari-ootle#3114)](https://github.com/tari-project/special_contributions/issues/395) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#400 — Contribution: fix(consensus,transaction): fix future TC proposal buffering, catch-up batch progress, persisted NewView height, and blob/migrate input & template discovery (tari-project/tari-ootle#3233)](https://github.com/tari-project/special_contributions/issues/400) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | ⚫ Closed | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 
-**301 bounties — 17,425,000 XTM**
+**312 bounties — 17,770,000 XTM**
 
-*Last updated: November 5, 2026 at 09:11 UTC*
+*Last updated: November 5, 2026 at 10:12 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 153 | 15,000 |
-| M | 93 | 60,000 |
-| L | 52 | 150,000 |
+| S | 162 | 15,000 |
+| M | 94 | 60,000 |
+| L | 53 | 150,000 |
 | P | 3 | 1,750,000 total |
