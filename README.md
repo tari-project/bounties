@@ -53,12 +53,13 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#434 — Contribution: fix(libp2p-messaging): fix sink cycling, connection-close events, and stream queueing (tari-project/tari-ootle#3238)](https://github.com/tari-project/special_contributions/issues/434) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#435 — Security report: tari-ootle a vault can be seated in two components: `validate_component_state` only rejects duplicates within one component's state (GHSA-cx7p-5g7q-pcm2)](https://github.com/tari-project/special_contributions/issues/435) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#436 — Bug report: tari-ootle pendingSubstateStore::try_lock_all and OnPropose::prepare_transaction leak partial substate locks and input pledges on deferred/aborted transactions, causing proposer/replica DecisionDisagreement and false on-chain aborts (GHSA-xfj9-82c5-6xf3)](https://github.com/tari-project/special_contributions/issues/436) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#442 — Security report: tari-ootle tari_walletd multi-indexer failover defeated by stalling indexer — no read timeout exists on any request path (GHSA-43mw-rj55-36cw)](https://github.com/tari-project/special_contributions/issues/442) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#429 — Security report: tari-ootle output-Only Shard Group Receiving a Foreign LocalAccept Across an Epoch Boundary Reconstructs LockedEpoch from the Enclosing Foreign Block Instead of the Input Shard Group's Execution Pin, Causing Cross-Shard Execution Divergence (GHSA-59jq-qfcj-c5m2)](https://github.com/tari-project/special_contributions/issues/429) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#332 — Security report: tari-universe wallet send had no confirmation gate when no PIN was set, reachable through the tapplet postMessage bridge, with a no-op isolation hook, permissive CSP and an unverified bridge tapplet download (GHSA-9mc8-c8cr-7m6h)](https://github.com/tari-project/special_contributions/issues/332) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#420 — mempool hardeing report](https://github.com/tari-project/special_contributions/issues/420) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
-| [#379 — Security report: tari-ootle f1: Wallet trusts unauthenticated indexer REST responses at sign-act points (ISSUE-2808)](https://github.com/tari-project/special_contributions/issues/379) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#379 — Security report: tari-ootle f1: Wallet trusts unauthenticated indexer REST responses at sign-act points (ISSUE-2808)](https://github.com/tari-project/special_contributions/issues/379) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#394 — Security report: tari-ootle global declared inputs are explicitly fanned out to every shard group's evidence but excluded from the fee, on a stated premise the code contradicts (GHSA-hvq5-mmqf-86r2)](https://github.com/tari-project/special_contributions/issues/394) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#417 — Contribution: feat(walletd): flag upgradable components in dry-run responses (tari-project/tari-ootle#3263)](https://github.com/tari-project/special_contributions/issues/417) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#437 — Contribution: fix(engine): reject trailing bytes in IndexedValue::from_raw and tari_tdef custom sections (tari-project/tari-ootle#3302)](https://github.com/tari-project/special_contributions/issues/437) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -316,15 +317,15 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#400 — Contribution: fix(consensus,transaction): fix future TC proposal buffering, catch-up batch progress, persisted NewView height, and blob/migrate input & template discovery (tari-project/tari-ootle#3233)](https://github.com/tari-project/special_contributions/issues/400) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | ⚫ Closed | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 
-**300 bounties — 17,410,000 XTM**
+**301 bounties — 17,425,000 XTM**
 
-*Last updated: November 5, 2026 at 04:11 UTC*
+*Last updated: November 5, 2026 at 05:15 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 152 | 15,000 |
+| S | 153 | 15,000 |
 | M | 93 | 60,000 |
 | L | 52 | 150,000 |
 | P | 3 | 1,750,000 total |
