@@ -64,6 +64,12 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#451 — Contribution: fix(engine): evaluate scoped rules outside frames and clear last output at fee checkpoint (tari-project/tari-ootle#3294)](https://github.com/tari-project/special_contributions/issues/451) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#453 — Contribution: fix(engine_types): preserve u64 integers above i64::MAX in convert_json_to_cbor (tari-project/tari-ootle#3366)](https://github.com/tari-project/special_contributions/issues/453) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#454 — Contribution: fix(epoch_oracles): emit DoneForNow at epoch 0 in ConfiguredEpochOracle and forward errors in HybridEpochOracle (tari-project/tari-ootle#3364)](https://github.com/tari-project/special_contributions/issues/454) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#456 — Contribution: fix(template_lib_types): validate CBOR and serde sequence lengths for Amount and PrecisionAmount (tari-project/tari-ootle#3293)](https://github.com/tari-project/special_contributions/issues/456) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#457 — Contribution: fix(engine): enforce stealth transfer limits before auth and meter spend-script bound args (tari-project/tari-ootle#3295)](https://github.com/tari-project/special_contributions/issues/457) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#458 — Contribution: fix(engine_types): enforce exact CBOR decoding for substates, metadata and manifest args (tari-project/tari-ootle#3331)](https://github.com/tari-project/special_contributions/issues/458) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#459 — Contribution: fix(transaction): include stealth script-path refs and merge builder inputs (tari-project/tari-ootle#3308)](https://github.com/tari-project/special_contributions/issues/459) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#461 — Contribution: fix(rpc_framework): format deadline bounds in BadRequest details and guard RpcResponse::is_fin (tari-project/tari-ootle#3368)](https://github.com/tari-project/special_contributions/issues/461) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#463 — Bug report: tari-ootle instruction::StealthTransfer Script-Path AtomicCondition::TemplateFunction Omitted From referenced_templates_iter, TemplatePrewarmer, to_referenced_substates, and INVOCATION_FLOOR Weight Accounting (GHSA-rm8v-q966-w296)](https://github.com/tari-project/special_contributions/issues/463) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#332 — Security report: tari-universe wallet send had no confirmation gate when no PIN was set, reachable through the tapplet postMessage bridge, with a no-op isolation hook, permissive CSP and an unverified bridge tapplet download (GHSA-9mc8-c8cr-7m6h)](https://github.com/tari-project/special_contributions/issues/332) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#420 — mempool hardeing report](https://github.com/tari-project/special_contributions/issues/420) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -328,15 +334,15 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#400 — Contribution: fix(consensus,transaction): fix future TC proposal buffering, catch-up batch progress, persisted NewView height, and blob/migrate input & template discovery (tari-project/tari-ootle#3233)](https://github.com/tari-project/special_contributions/issues/400) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | ⚫ Closed | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 
-**312 bounties — 17,770,000 XTM**
+**318 bounties — 17,860,000 XTM**
 
-*Last updated: November 5, 2026 at 14:11 UTC*
+*Last updated: November 5, 2026 at 15:12 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 162 | 15,000 |
+| S | 168 | 15,000 |
 | M | 94 | 60,000 |
 | L | 53 | 150,000 |
 | P | 3 | 1,750,000 total |
