@@ -64,7 +64,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#420 — mempool hardeing report](https://github.com/tari-project/special_contributions/issues/420) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#455 — Security report: tari-ootle unsolicited CatchUpSyncResponse suppresses honest votes: a single Byzantine committee member can halt a shard (GHSA-mm3m-2528-qqj9)](https://github.com/tari-project/special_contributions/issues/455) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
-| [#447 — Security report: tari-ootle cross-caller lock hijack in walletd: a Transactions(Create)-scoped API key can bind other callers' locks, make walletd sign with victims' account/stealth keys, and force victim fee expenditure on chain (GHSA-57p9-3cv5-5hqm)](https://github.com/tari-project/special_contributions/issues/447) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#447 — Security report: tari-ootle cross-caller lock hijack in walletd: a Transactions(Create)-scoped API key can bind other callers' locks, make walletd sign with victims' account/stealth keys, and force victim fee expenditure on chain (GHSA-57p9-3cv5-5hqm)](https://github.com/tari-project/special_contributions/issues/447) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#450 — Contribution: fix(indexer_lib): defer f=0 nonexistence and confirm unproven batch downs (tari-project/tari-ootle#3313)](https://github.com/tari-project/special_contributions/issues/450) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#451 — Contribution: fix(engine): evaluate scoped rules outside frames and clear last output at fee checkpoint (tari-project/tari-ootle#3294)](https://github.com/tari-project/special_contributions/issues/451) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#453 — Contribution: fix(engine_types): preserve u64 integers above i64::MAX in convert_json_to_cbor (tari-project/tari-ootle#3366)](https://github.com/tari-project/special_contributions/issues/453) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -338,7 +338,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **320 bounties — 17,980,000 XTM**
 
-*Last updated: November 6, 2026 at 02:11 UTC*
+*Last updated: November 6, 2026 at 03:16 UTC*
 
 ### Tier Summary
 
