@@ -28,6 +28,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#452 — Security report: tari-ootle `get_shard_snapshot` pins a 4 MiB unary response per RPC session, letting one peer hold gigabytes on a validator (GHSA-c8c5-x8q9-g5cx)](https://github.com/tari-project/special_contributions/issues/452) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#472 — Contribution: fix(engine): release vault and resource locks across auth hooks and guard workspace and lock state (tari-project/tari-ootle#3345)](https://github.com/tari-project/special_contributions/issues/472) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#475 — Security report: tari-ootle declared-input load work is free when the fee intent fails: #3060's InputLoad/InputFanout charges are metered before the fee intent but never collected on the reject path (GHSA-wm9x-3q2m-rphj)](https://github.com/tari-project/special_contributions/issues/475) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
+| [#498 — Contribution: fix(engine): harden spend-script bound args, base scope refs, and restricted frames (tari-project/tari-ootle#3309)](https://github.com/tari-project/special_contributions/issues/498) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#85 — Security report: tari-ootle unauthenticated validator JSON-RPC can create signed exit artifact (GHSA-39x3-3pg3-px79)](https://github.com/tari-project/special_contributions/issues/85) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#213 — Security report: tari-ootle unverified state-sync batch epoch defeats epoch GC and re-infects downstream peers (GHSA-ph9g-xc95-wj99)](https://github.com/tari-project/special_contributions/issues/213) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
@@ -75,13 +76,21 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#486 — Contribution: fix(wallet_sdk): include swap view key and account inputs in stealth and confidential transfers (tari-project/tari-ootle#3343)](https://github.com/tari-project/special_contributions/issues/486) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#489 — Contribution: fix(transaction_validation): reject UpdateComponentTemplate in fee instructions (#1210) (tari-project/tari-ootle#3330)](https://github.com/tari-project/special_contributions/issues/489) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#490 — Contribution: fix(transaction_manifest): isolate fee_main bindings, enforce nested cbor depth, and reject duplicate macro kwargs (tari-project/tari-ootle#3352)](https://github.com/tari-project/special_contributions/issues/490) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#491 — Contribution: fix(consensus): include current block foreign pledges in LocalAccept and AllAccept validation (tari-project/tari-ootle#3362)](https://github.com/tari-project/special_contributions/issues/491) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#492 — Contribution: fix(transaction): use main_signer in all_published_templates_iter and merge builder inputs (tari-project/tari-ootle#3349)](https://github.com/tari-project/special_contributions/issues/492) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#493 — Contribution: fix(validator_node): emit filtered genesis batch and guard inactive mempool (tari-project/tari-ootle#3314)](https://github.com/tari-project/special_contributions/issues/493) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#494 — Contribution: fix(consensus): sync transaction fees in TransactionPoolStatusUpdate::apply (tari-project/tari-ootle#3311)](https://github.com/tari-project/special_contributions/issues/494) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#495 — Contribution: fix(storage,consensus): remove missing transaction from all parked local blocks (tari-project/tari-ootle#3335)](https://github.com/tari-project/special_contributions/issues/495) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#496 — Contribution: fix(state_store_rocksdb): include pending block_diffs in locked substate lookup (tari-project/tari-ootle#3336)](https://github.com/tari-project/special_contributions/issues/496) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#497 — Contribution: fix(epoch_oracles): stop real-time ticker at initial_epoch and emit DoneForNow at epoch 0 (tari-project/tari-ootle#3355)](https://github.com/tari-project/special_contributions/issues/497) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#499 — Contribution: fix(epoch_manager): preserve historical validator deactivations and emit epoch change on hash correction (tari-project/tari-ootle#3307)](https://github.com/tari-project/special_contributions/issues/499) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#332 — Security report: tari-universe wallet send had no confirmation gate when no PIN was set, reachable through the tapplet postMessage bridge, with a no-op isolation hook, permissive CSP and an unverified bridge tapplet download (GHSA-9mc8-c8cr-7m6h)](https://github.com/tari-project/special_contributions/issues/332) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#420 — mempool hardeing report](https://github.com/tari-project/special_contributions/issues/420) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#455 — Security report: tari-ootle unsolicited CatchUpSyncResponse suppresses honest votes: a single Byzantine committee member can halt a shard (GHSA-mm3m-2528-qqj9)](https://github.com/tari-project/special_contributions/issues/455) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#460 — Report: tari-ootle no voter-side no-state-changes-after-EOE check lets crash recovery stamp divergent genesis root (EMAIL-130)](https://github.com/tari-project/special_contributions/issues/460) | special_contributions | M | 60,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#460 — Report: tari-ootle no voter-side no-state-changes-after-EOE check lets crash recovery stamp divergent genesis root (EMAIL-130)](https://github.com/tari-project/special_contributions/issues/460) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
-| [#446 — Security report: tari-ootle unsigned ProposalCertificate shard_group lets a Byzantine committee member corrupt a victim's persisted leaf block (GHSA-rgw9-phr2-f42g)](https://github.com/tari-project/special_contributions/issues/446) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#446 — Security report: tari-ootle unsigned ProposalCertificate shard_group lets a Byzantine committee member corrupt a victim's persisted leaf block (GHSA-rgw9-phr2-f42g)](https://github.com/tari-project/special_contributions/issues/446) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#447 — Security report: tari-ootle cross-caller lock hijack in walletd: a Transactions(Create)-scoped API key can bind other callers' locks, make walletd sign with victims' account/stealth keys, and force victim fee expenditure on chain (GHSA-57p9-3cv5-5hqm)](https://github.com/tari-project/special_contributions/issues/447) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#450 — Contribution: fix(indexer_lib): defer f=0 nonexistence and confirm unproven batch downs (tari-project/tari-ootle#3313)](https://github.com/tari-project/special_contributions/issues/450) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#451 — Contribution: fix(engine): evaluate scoped rules outside frames and clear last output at fee checkpoint (tari-project/tari-ootle#3294)](https://github.com/tari-project/special_contributions/issues/451) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -355,15 +364,15 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#400 — Contribution: fix(consensus,transaction): fix future TC proposal buffering, catch-up batch progress, persisted NewView height, and blob/migrate input & template discovery (tari-project/tari-ootle#3233)](https://github.com/tari-project/special_contributions/issues/400) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | ⚫ Closed | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 
-**339 bounties — 18,355,000 XTM**
+**348 bounties — 18,535,000 XTM**
 
-*Last updated: November 6, 2026 at 12:11 UTC*
+*Last updated: November 6, 2026 at 13:19 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 185 | 15,000 |
-| M | 98 | 60,000 |
+| S | 193 | 15,000 |
+| M | 99 | 60,000 |
 | L | 53 | 150,000 |
 | P | 3 | 1,750,000 total |
