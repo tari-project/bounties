@@ -102,7 +102,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#461 — Contribution: fix(rpc_framework): format deadline bounds in BadRequest details and guard RpcResponse::is_fin (tari-project/tari-ootle#3368)](https://github.com/tari-project/special_contributions/issues/461) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#463 — Bug report: tari-ootle instruction::StealthTransfer Script-Path AtomicCondition::TemplateFunction Omitted From referenced_templates_iter, TemplatePrewarmer, to_referenced_substates, and INVOCATION_FLOOR Weight Accounting (GHSA-rm8v-q966-w296)](https://github.com/tari-project/special_contributions/issues/463) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#470 — Contribution: fix(transaction): include non-XTR Assert resources in to_referenced_substates (tari-project/tari-ootle#3289)](https://github.com/tari-project/special_contributions/issues/470) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#482 — Contribution: fix(transaction): enforce CBOR decode bounds on inputs/signatures/blobs and advance workspace_ids in from_unsigned (tari-project/tari-ootle#3394)](https://github.com/tari-project/special_contributions/issues/482) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#482 — Contribution: fix(transaction): enforce CBOR decode bounds on inputs/signatures/blobs and advance workspace_ids in from_unsigned (tari-project/tari-ootle#3394)](https://github.com/tari-project/special_contributions/issues/482) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#340 — Contest Winning: September 2026 Build Contest](https://github.com/tari-project/special_contributions/issues/340) | special_contributions | P | 1,000,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#350 — Contest Winning: September 2026 Build Contest (2nd Place)](https://github.com/tari-project/special_contributions/issues/350) | special_contributions | P | 500,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -366,7 +366,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **348 bounties — 18,535,000 XTM**
 
-*Last updated: November 6, 2026 at 16:11 UTC*
+*Last updated: November 6, 2026 at 17:25 UTC*
 
 ### Tier Summary
 
