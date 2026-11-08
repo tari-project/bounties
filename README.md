@@ -88,6 +88,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#501 — Contribution: fix(storage_sqlite): preserve prior exit epochs on deactivation and tie-break registrations by id (tari-project/tari-ootle#3338)](https://github.com/tari-project/special_contributions/issues/501) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#503 — Contribution: fix(storage): keep the first parked record's missing transactions on duplicate delivery (tari-project/tari-ootle#3357)](https://github.com/tari-project/special_contributions/issues/503) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#504 — Contribution: fix(consensus): execute catch-up blocks below last_voted and test foreign-proposal-only proposals (tari-project/tari-ootle#3301)](https://github.com/tari-project/special_contributions/issues/504) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#506 — Contribution: fix(consensus): commit next-epoch genesis block and preserve epoch-boundary buffered messages (tari-project/tari-ootle#3334)](https://github.com/tari-project/special_contributions/issues/506) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#507 — Contribution: fix(storage): require Input pledge in SubstatePledge::satisfies_requirement (tari-project/tari-ootle#3466)](https://github.com/tari-project/special_contributions/issues/507) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#332 — Security report: tari-universe wallet send had no confirmation gate when no PIN was set, reachable through the tapplet postMessage bridge, with a no-op isolation hook, permissive CSP and an unverified bridge tapplet download (GHSA-9mc8-c8cr-7m6h)](https://github.com/tari-project/special_contributions/issues/332) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#420 — mempool hardeing report](https://github.com/tari-project/special_contributions/issues/420) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -373,15 +375,15 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#400 — Contribution: fix(consensus,transaction): fix future TC proposal buffering, catch-up batch progress, persisted NewView height, and blob/migrate input & template discovery (tari-project/tari-ootle#3233)](https://github.com/tari-project/special_contributions/issues/400) | special_contributions | S | 15,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | ⚫ Closed | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 
-**357 bounties — 18,760,000 XTM**
+**359 bounties — 18,790,000 XTM**
 
-*Last updated: November 8, 2026 at 06:11 UTC*
+*Last updated: November 8, 2026 at 07:12 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 200 | 15,000 |
+| S | 202 | 15,000 |
 | M | 101 | 60,000 |
 | L | 53 | 150,000 |
 | P | 3 | 1,750,000 total |
