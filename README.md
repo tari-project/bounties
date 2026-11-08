@@ -94,10 +94,10 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#460 — Report: tari-ootle no voter-side no-state-changes-after-EOE check lets crash recovery stamp divergent genesis root (EMAIL-130)](https://github.com/tari-project/special_contributions/issues/460) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
 | [#458 — Contribution: fix(engine_types): enforce exact CBOR decoding for substates, metadata and manifest args (tari-project/tari-ootle#3331)](https://github.com/tari-project/special_contributions/issues/458) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#3489 — Linux Flatpak: copy to clipboard silently fails under Wayland (no X11 in sandbox)](https://github.com/tari-project/universe/issues/3489) | universe | S | 15,000 | @brianp | 🟡 PR Open | — | 💬 2 |
-| [#3492 — MCP server: no error shown when the configured port is already in use](https://github.com/tari-project/universe/issues/3492) | universe | S | 15,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 7 |
-| [#3494 — Scheduled mining window doesn't apply its mode when mining is already running](https://github.com/tari-project/universe/issues/3494) | universe | S | 15,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 3 |
-| [#3518 — L2 menu opens PIN setup while L1 wallet is loading, even when a PIN is already set](https://github.com/tari-project/universe/issues/3518) | universe | S | 15,000 | @brianp | 🟡 PR Open | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 6 |
+| [#3489 — Linux Flatpak: copy to clipboard silently fails under Wayland (no X11 in sandbox)](https://github.com/tari-project/universe/issues/3489) | universe | S | 15,000 | @brianp | 🟡 PR Open | [3 PRs](https://github.com/tari-project/universe/pulls) | 💬 3 |
+| [#3492 — MCP server: no error shown when the configured port is already in use](https://github.com/tari-project/universe/issues/3492) | universe | S | 15,000 | @brianp | 🟡 PR Open | [7 PRs](https://github.com/tari-project/universe/pulls) | 💬 7 |
+| [#3494 — Scheduled mining window doesn't apply its mode when mining is already running](https://github.com/tari-project/universe/issues/3494) | universe | S | 15,000 | @brianp | 🟡 PR Open | [4 PRs](https://github.com/tari-project/universe/pulls) | 💬 4 |
+| [#3518 — L2 menu opens PIN setup while L1 wallet is loading, even when a PIN is already set](https://github.com/tari-project/universe/issues/3518) | universe | S | 15,000 | @brianp | 🟡 PR Open | [7 PRs](https://github.com/tari-project/universe/pulls) | 💬 7 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#340 — Contest Winning: September 2026 Build Contest](https://github.com/tari-project/special_contributions/issues/340) | special_contributions | P | 1,000,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#350 — Contest Winning: September 2026 Build Contest (2nd Place)](https://github.com/tari-project/special_contributions/issues/350) | special_contributions | P | 500,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -375,7 +375,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **357 bounties — 18,760,000 XTM**
 
-*Last updated: November 8, 2026 at 02:12 UTC*
+*Last updated: November 8, 2026 at 03:11 UTC*
 
 ### Tier Summary
 
