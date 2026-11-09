@@ -76,13 +76,13 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#511 — Contribution: fix(jellyfish): validate CBOR NibblePath length, nibbles, and duplicate keys (tari-project/tari-ootle#3512)](https://github.com/tari-project/special_contributions/issues/511) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#512 — Contribution: fix(engine): reuse current component lock in ComponentAction::GetTemplateAddress (tari-project/tari-ootle#3513)](https://github.com/tari-project/special_contributions/issues/512) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#514 — Security report: tari-ootle tari_walletd allows minting API keys with SigningRequests(Approve) and omits account-scope authorization in handle_list (nfts.list) (GHSA-5hh3-fvmf-xxhq)](https://github.com/tari-project/special_contributions/issues/514) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#515 — Contribution: fix(walletd): refuse granting signing_requests:approve to API keys (tari-project/tari-ootle#3545)](https://github.com/tari-project/special_contributions/issues/515) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
-| [#516 — Contribution: fix(validator_node,consensus,walletd,indexer): avoid refutable select patterns on broadcast receivers (tari-project/tari-ootle#3341)](https://github.com/tari-project/special_contributions/issues/516) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#515 — Contribution: fix(walletd): refuse granting signing_requests:approve to API keys (tari-project/tari-ootle#3545)](https://github.com/tari-project/special_contributions/issues/515) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#516 — Contribution: fix(validator_node,consensus,walletd,indexer): avoid refutable select patterns on broadcast receivers (tari-project/tari-ootle#3341)](https://github.com/tari-project/special_contributions/issues/516) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#518 — Contribution: fix(state_store_rocksdb): fix exclusive upper bounds in range queries and rewinds (tari-project/tari-ootle#3478)](https://github.com/tari-project/special_contributions/issues/518) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#519 — Contribution: fix(transaction): charge invocation floor on stealth template functions and merge workspace keys (tari-project/tari-ootle#3486)](https://github.com/tari-project/special_contributions/issues/519) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3489 — Linux Flatpak: copy to clipboard silently fails under Wayland (no X11 in sandbox)](https://github.com/tari-project/universe/issues/3489) | universe | S | 15,000 | @brianp | 🟡 PR Open | [5 PRs](https://github.com/tari-project/universe/pulls) | 💬 5 |
-| [#3492 — MCP server: no error shown when the configured port is already in use](https://github.com/tari-project/universe/issues/3492) | universe | S | 15,000 | @brianp | 🟡 PR Open | [8 PRs](https://github.com/tari-project/universe/pulls) | 💬 11 |
-| [#3494 — Scheduled mining window doesn't apply its mode when mining is already running](https://github.com/tari-project/universe/issues/3494) | universe | S | 15,000 | @brianp | 🟡 PR Open | [5 PRs](https://github.com/tari-project/universe/pulls) | 💬 6 |
+| [#3492 — MCP server: no error shown when the configured port is already in use](https://github.com/tari-project/universe/issues/3492) | universe | S | 15,000 | @brianp | 🟡 PR Open | [11 PRs](https://github.com/tari-project/universe/pulls) | 💬 11 |
+| [#3494 — Scheduled mining window doesn't apply its mode when mining is already running](https://github.com/tari-project/universe/issues/3494) | universe | S | 15,000 | @brianp | 🟡 PR Open | [6 PRs](https://github.com/tari-project/universe/pulls) | 💬 6 |
 | [#3518 — L2 menu opens PIN setup while L1 wallet is loading, even when a PIN is already set](https://github.com/tari-project/universe/issues/3518) | universe | S | 15,000 | @brianp | 🟡 PR Open | [7 PRs](https://github.com/tari-project/universe/pulls) | 💬 7 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [24 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 28 |
 | [#340 — Contest Winning: September 2026 Build Contest](https://github.com/tari-project/special_contributions/issues/340) | special_contributions | P | 1,000,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -389,7 +389,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **371 bounties — 19,150,000 XTM**
 
-*Last updated: November 9, 2026 at 03:12 UTC*
+*Last updated: November 9, 2026 at 04:11 UTC*
 
 ### Tier Summary
 
