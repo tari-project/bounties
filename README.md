@@ -52,8 +52,8 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#332 — Security report: tari-universe wallet send had no confirmation gate when no PIN was set, reachable through the tapplet postMessage bridge, with a no-op isolation hook, permissive CSP and an unverified bridge tapplet download (GHSA-9mc8-c8cr-7m6h)](https://github.com/tari-project/special_contributions/issues/332) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#420 — mempool hardeing report](https://github.com/tari-project/special_contributions/issues/420) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [5 PRs](https://github.com/tari-project/universe/pulls) | 💬 6 |
-| [#611 — Contribution: fix(engine): accept direct ResourceAddress on workspace in resolve_resource_address_ref (tari-project/tari-ootle#3674)](https://github.com/tari-project/special_contributions/issues/611) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
-| [#619 — Contribution: fix(consensus): enforce transaction min_epoch at sequencing and foreign pinning (tari-project/tari-ootle#3704)](https://github.com/tari-project/special_contributions/issues/619) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#611 — Contribution: fix(engine): accept direct ResourceAddress on workspace in resolve_resource_address_ref (tari-project/tari-ootle#3674)](https://github.com/tari-project/special_contributions/issues/611) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#619 — Contribution: fix(consensus): enforce transaction min_epoch at sequencing and foreign pinning (tari-project/tari-ootle#3704)](https://github.com/tari-project/special_contributions/issues/619) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#620 — Contribution: fix(engine): enforce CallScope check in ComponentAction::GetTemplateAddress (tari-project/tari-ootle#3701)](https://github.com/tari-project/special_contributions/issues/620) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#622 — Contribution: fix(tari_bor): enforce max decode depth and sentinel map bounds in serde deserializer (tari-project/tari-ootle#3707)](https://github.com/tari-project/special_contributions/issues/622) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [26 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 30 |
@@ -461,7 +461,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **443 bounties — 20,410,000 XTM**
 
-*Last updated: November 12, 2026 at 20:50 UTC*
+*Last updated: November 12, 2026 at 21:50 UTC*
 
 ### Tier Summary
 
