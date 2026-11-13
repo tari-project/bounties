@@ -63,7 +63,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#635 — Contribution: fix(epoch_oracles): defer ConfiguredCurrentEpoch persistence, reject global/max-epoch validators, and avoid duplicate HybridEpochOracle transition (tari-project/tari-ootle#3548)](https://github.com/tari-project/special_contributions/issues/635) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#636 — Contribution: fix(consensus): preserve view votes after quorum and enforce collectible vote window (tari-project/tari-ootle#3706)](https://github.com/tari-project/special_contributions/issues/636) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#638 — Contribution: fix(engine)!: hold minted non-fungibles to the max_substate_outputs limit (tari-project/tari-ootle#3767)](https://github.com/tari-project/special_contributions/issues/638) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#640 — Contribution: fix(consensus): track next_epoch target on rotation and ignore stale EpochChanged events (tari-project/tari-ootle#3675)](https://github.com/tari-project/special_contributions/issues/640) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#640 — Contribution: fix(consensus): track next_epoch target on rotation and ignore stale EpochChanged events (tari-project/tari-ootle#3675)](https://github.com/tari-project/special_contributions/issues/640) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#646 — Contribution: fix(walletd): enforce session token, bound listen address, and peer-close cleanup in WebRTC (tari-project/tari-ootle#3763)](https://github.com/tari-project/special_contributions/issues/646) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [26 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 30 |
 | [#340 — Contest Winning: September 2026 Build Contest](https://github.com/tari-project/special_contributions/issues/340) | special_contributions | P | 1,000,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -474,7 +474,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **456 bounties — 20,650,000 XTM**
 
-*Last updated: November 13, 2026 at 21:50 UTC*
+*Last updated: November 13, 2026 at 22:50 UTC*
 
 ### Tier Summary
 
