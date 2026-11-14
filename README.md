@@ -51,7 +51,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#634 — Contribution: fix(indexer_lib): harden substate batch and template result validation (tari-project/tari-ootle#3456)](https://github.com/tari-project/special_contributions/issues/634) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#639 — Contribution: fix(validator_node): bound get_committed_block_proof RPC by state_sync_reads and response budget (tari-project/tari-ootle#3668)](https://github.com/tari-project/special_contributions/issues/639) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#641 — Contribution: fix(wallet_sdk): release pre-locked inputs on merged-fee fallback and declare required account substates (tari-project/tari-ootle#3296)](https://github.com/tari-project/special_contributions/issues/641) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
-| [#642 — Contribution: fix: serve unverified substate cache and clear reorged epoch state (tari-project/tari-ootle#3522)](https://github.com/tari-project/special_contributions/issues/642) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#643 — Contribution: fix(validator_node,app_utilities,swarm_daemon): harden identity keypair persistence and claim key settings (tari-project/tari-ootle#3565)](https://github.com/tari-project/special_contributions/issues/643) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#644 — Contribution: fix(walletd): enforce account scopes in validator handlers and validate nft transfer list (tari-project/tari-ootle#3297)](https://github.com/tari-project/special_contributions/issues/644) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -64,6 +63,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#636 — Contribution: fix(consensus): preserve view votes after quorum and enforce collectible vote window (tari-project/tari-ootle#3706)](https://github.com/tari-project/special_contributions/issues/636) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#638 — Contribution: fix(engine)!: hold minted non-fungibles to the max_substate_outputs limit (tari-project/tari-ootle#3767)](https://github.com/tari-project/special_contributions/issues/638) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#640 — Contribution: fix(consensus): track next_epoch target on rotation and ignore stale EpochChanged events (tari-project/tari-ootle#3675)](https://github.com/tari-project/special_contributions/issues/640) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#642 — Contribution: fix: serve unverified substate cache and clear reorged epoch state (tari-project/tari-ootle#3522)](https://github.com/tari-project/special_contributions/issues/642) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#646 — Contribution: fix(walletd): enforce session token, bound listen address, and peer-close cleanup in WebRTC (tari-project/tari-ootle#3763)](https://github.com/tari-project/special_contributions/issues/646) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [26 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 30 |
 | [#340 — Contest Winning: September 2026 Build Contest](https://github.com/tari-project/special_contributions/issues/340) | special_contributions | P | 1,000,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -474,7 +474,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **456 bounties — 20,650,000 XTM**
 
-*Last updated: November 14, 2026 at 02:50 UTC*
+*Last updated: November 14, 2026 at 03:50 UTC*
 
 ### Tier Summary
 
