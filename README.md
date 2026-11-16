@@ -60,6 +60,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#420 — mempool hardeing report](https://github.com/tari-project/special_contributions/issues/420) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [5 PRs](https://github.com/tari-project/universe/pulls) | 💬 6 |
 | [#636 — Contribution: fix(consensus): preserve view votes after quorum and enforce collectible vote window (tari-project/tari-ootle#3706)](https://github.com/tari-project/special_contributions/issues/636) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#653 — Contribution: fix(engine): reject guest exports carrying reserved __tari_global_ prefix (tari-project/tari-ootle#3702)](https://github.com/tari-project/special_contributions/issues/653) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [26 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 30 |
 | [#340 — Contest Winning: September 2026 Build Contest](https://github.com/tari-project/special_contributions/issues/340) | special_contributions | P | 1,000,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#350 — Contest Winning: September 2026 Build Contest (2nd Place)](https://github.com/tari-project/special_contributions/issues/350) | special_contributions | P | 500,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -474,15 +475,15 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#527 — Contribution: fix(engine_types): validate preconditions before mutating ResourceContainer (tari-project/tari-ootle#3518)](https://github.com/tari-project/special_contributions/issues/527) | special_contributions | S | 15,000 | @? | ⚫ Closed | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | ⚫ Closed | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 
-**458 bounties — 20,680,000 XTM**
+**459 bounties — 20,695,000 XTM**
 
-*Last updated: November 16, 2026 at 16:50 UTC*
+*Last updated: November 16, 2026 at 17:50 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 294 | 15,000 |
+| S | 295 | 15,000 |
 | M | 107 | 60,000 |
 | L | 54 | 150,000 |
 | P | 3 | 1,750,000 total |
