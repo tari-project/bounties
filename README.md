@@ -66,7 +66,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#659 — Report: tari-ootle min_epoch validation ordering and missing consensus window check allow gossipsub sender-fault bypass, premature execution before min_epoch, and parked-proposal stalls (GHSA-2cvw-5986-qgcc)](https://github.com/tari-project/special_contributions/issues/659) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#660 — Contribution: fix(consensus): reject foreign proposals naming the local shard group (tari-project/tari-ootle#3779)](https://github.com/tari-project/special_contributions/issues/660) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [2 PRs](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
 | [#661 — Contribution: fix(consensus): preserve Output lock on fee-pool withdrawals and defer versioned lock conflicts (tari-project/tari-ootle#3632)](https://github.com/tari-project/special_contributions/issues/661) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [2 PRs](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
-| [#669 — Contribution: fix(wallet): resolve ValidatorFeePool token, unstored references, and versions in dependent substates (tari-project/tari-ootle#3634)](https://github.com/tari-project/special_contributions/issues/669) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#669 — Contribution: fix(wallet): resolve ValidatorFeePool token, unstored references, and versions in dependent substates (tari-project/tari-ootle#3634)](https://github.com/tari-project/special_contributions/issues/669) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | 🟡 PR Open | [26 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 30 |
 | [#340 — Contest Winning: September 2026 Build Contest](https://github.com/tari-project/special_contributions/issues/340) | special_contributions | P | 1,000,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#350 — Contest Winning: September 2026 Build Contest (2nd Place)](https://github.com/tari-project/special_contributions/issues/350) | special_contributions | P | 500,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -483,7 +483,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **465 bounties — 20,920,000 XTM**
 
-*Last updated: November 18, 2026 at 10:26 UTC*
+*Last updated: November 18, 2026 at 11:28 UTC*
 
 ### Tier Summary
 
