@@ -42,6 +42,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#449 — Bug report: tari-ootle validator state sync: a partially completed first sync is reported up to date after a committee layout change (GHSA-533f-pgxr-73c4)](https://github.com/tari-project/special_contributions/issues/449) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#596 — Security report: tari-ootle ootle Engine Unmetered InstructionArg::Blob / Spend-Script Args & CBOR Nesting-Depth Bypass, and Consensus Aborted-Transaction Resequencing / Foreign LocalAccept Stage Divergence (GHSA-49cx-57x8-w632)](https://github.com/tari-project/special_contributions/issues/596) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#668 — Contribution: fix(consensus): pass HighPc height on pacemaker start and reset timers on view advance (tari-project/tari-ootle#3794)](https://github.com/tari-project/special_contributions/issues/668) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#670 — Contribution: fix(engine): reject duplicate function names and colliding dispatch identifiers in TemplateDef (tari-project/tari-ootle#3841)](https://github.com/tari-project/special_contributions/issues/670) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#657 — Security report: tari-ootle unauthenticated Target-Template Migration (Instruction::UpdateComponentTemplate) Allows Arbitrary Component State & Template-Scoped Access-Rule Forgery Across Any Template (GHSA-8cwh-mrp7-8v24)](https://github.com/tari-project/special_contributions/issues/657) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [2 PRs](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
 | [#332 — Security report: tari-universe wallet send had no confirmation gate when no PIN was set, reachable through the tapplet postMessage bridge, with a no-op isolation hook, permissive CSP and an unverified bridge tapplet download (GHSA-9mc8-c8cr-7m6h)](https://github.com/tari-project/special_contributions/issues/332) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -481,15 +482,15 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#527 — Contribution: fix(engine_types): validate preconditions before mutating ResourceContainer (tari-project/tari-ootle#3518)](https://github.com/tari-project/special_contributions/issues/527) | special_contributions | S | 15,000 | @? | ⚫ Closed | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | ⚫ Closed | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 
-**465 bounties — 20,920,000 XTM**
+**466 bounties — 20,935,000 XTM**
 
-*Last updated: November 18, 2026 at 12:26 UTC*
+*Last updated: November 18, 2026 at 13:32 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 300 | 15,000 |
+| S | 301 | 15,000 |
 | M | 107 | 60,000 |
 | L | 55 | 150,000 |
 | P | 3 | 1,750,000 total |
