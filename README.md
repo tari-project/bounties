@@ -31,6 +31,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#475 — Security report: tari-ootle declared-input load work is free when the fee intent fails: #3060's InputLoad/InputFanout charges are metered before the fee intent but never collected on the reject path (GHSA-wm9x-3q2m-rphj)](https://github.com/tari-project/special_contributions/issues/475) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#505 — Security report: tari-ootle gossipsub content-addressed message ids let an unauthorized peer suppress the honest `ForeignProposalNotification`: cross-shard foreign proposals are never fetched (GHSA-f2pj-25vc-7jjm)](https://github.com/tari-project/special_contributions/issues/505) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#521 — Security report: tari-ootle a validator that does not vote on a finalizing block reports the previous life cycle's decision (GHSA-9f9q-g46r-7rrc)](https://github.com/tari-project/special_contributions/issues/521) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
+| [#674 — Security report: tari-ootle sealer Can Mint Arbitrarily Many Distinct Valid TransactionIds and TransactionReceipts from a Single Co-Signature via Unbound Co-Signature Padding, Permutation, and Witness Nonce Hashing in calculate_id_v1 (GHSA-fcwg-q252-mr2f)](https://github.com/tari-project/special_contributions/issues/674) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#45 — Security report: tari-ootle foreign proposal committee binding (GHSA-m493-gggq-hvvw)](https://github.com/tari-project/special_contributions/issues/45) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#85 — Security report: tari-ootle unauthenticated validator JSON-RPC can create signed exit artifact (GHSA-39x3-3pg3-px79)](https://github.com/tari-project/special_contributions/issues/85) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#213 — Security report: tari-ootle unverified state-sync batch epoch defeats epoch GC and re-infects downstream peers (GHSA-ph9g-xc95-wj99)](https://github.com/tari-project/special_contributions/issues/213) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
@@ -485,15 +486,15 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#527 — Contribution: fix(engine_types): validate preconditions before mutating ResourceContainer (tari-project/tari-ootle#3518)](https://github.com/tari-project/special_contributions/issues/527) | special_contributions | S | 15,000 | @? | ⚫ Closed | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | ⚫ Closed | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 
-**469 bounties — 22,685,000 XTM**
+**470 bounties — 22,745,000 XTM**
 
-*Last updated: November 19, 2026 at 04:26 UTC*
+*Last updated: November 19, 2026 at 05:31 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
 | S | 301 | 15,000 |
-| M | 107 | 60,000 |
+| M | 108 | 60,000 |
 | L | 55 | 150,000 |
 | P | 6 | 3,500,000 total |
