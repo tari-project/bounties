@@ -68,8 +68,7 @@ def fetch_bounty_issues(local_titles):
             capture_output=True, text=True
         )
         if result.returncode != 0:
-            print(f"WARN: failed to query {repo}: {result.stderr.strip()}", file=sys.stderr)
-            continue
+            raise RuntimeError(f"failed to query {repo}: {result.stderr.strip()}")
         for item in json.loads(result.stdout):
             tier = "?"
             for label in item["labels"]:
@@ -213,7 +212,11 @@ def render_readme(issues):
 def main():
     dry_run = "--dry-run" in sys.argv
     local_titles = load_local_titles()
-    issues = fetch_bounty_issues(local_titles)
+    try:
+        issues = fetch_bounty_issues(local_titles)
+    except RuntimeError as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
+        return 1
     readme = render_readme(issues)
 
     if dry_run:
@@ -223,7 +226,8 @@ def main():
         with open(readme_path, "w") as f:
             f.write(readme)
         print(f"Wrote README.md ({len(issues)} issues from GitHub labels)", file=sys.stderr)
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
