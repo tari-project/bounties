@@ -49,6 +49,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#350 — Contest Winning: September 2026 Build Contest (2nd Place)](https://github.com/tari-project/special_contributions/issues/350) | special_contributions | P | 500,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#351 — Contest Winning: September 2026 Build Contest (3rd Place)](https://github.com/tari-project/special_contributions/issues/351) | special_contributions | P | 250,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#671 — Contest Winning: Ootle Bug Hunt 1st Place](https://github.com/tari-project/special_contributions/issues/671) | special_contributions | P | 1,000,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#673 — Contest Winning: Ootle Bug Hunt 3rd Place](https://github.com/tari-project/special_contributions/issues/673) | special_contributions | P | 250,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#1 — Upgrade faqqer](https://github.com/tari-project/faqqer/issues/1) | faqqer | L | 150,000 | @metalaureate | ✅ Merged | [3 PRs](https://github.com/tari-project/faqqer/pulls) | 💬 3 |
 | [#119 — Migration from console wallet](https://github.com/tari-project/minotari-cli/issues/119) | minotari-cli | L | 150,000 | @SWvheerden | ✅ Merged | [3 PRs](https://github.com/tari-project/minotari-cli/pulls) | 💬 3 |
 | [#-165 — TIP-3: Tari Community Forums](https://github.com/tari-project/rfcs/pull/165) | rfcs | L | 150,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/rfcs/pulls) | 💬 1 |
@@ -483,7 +484,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3492 — MCP server: no error shown when the configured port is already in use](https://github.com/tari-project/universe/issues/3492) | universe | S | 15,000 | @brianp | ✅ Merged | [17 PRs](https://github.com/tari-project/universe/pulls) | 💬 18 |
 | [#3494 — Scheduled mining window doesn't apply its mode when mining is already running](https://github.com/tari-project/universe/issues/3494) | universe | S | 15,000 | @brianp | ✅ Merged | [11 PRs](https://github.com/tari-project/universe/pulls) | 💬 11 |
 | [#3518 — L2 menu opens PIN setup while L1 wallet is loading, even when a PIN is already set](https://github.com/tari-project/universe/issues/3518) | universe | S | 15,000 | @brianp | ✅ Merged | [11 PRs](https://github.com/tari-project/universe/pulls) | 💬 12 |
-| [#673 — Contest Winning: Ootle Bug Hunt 3rd Place](https://github.com/tari-project/special_contributions/issues/673) | special_contributions | P | 250,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#137 — Security report: tari-ootle wASM metering ceiling bypass via nested cross-template calls (EMAIL-91)](https://github.com/tari-project/special_contributions/issues/137) | special_contributions | L | 150,000 | @? | ⚫ Closed | — | — |
 | [#145 — Security report: tari-ootle consensus message decode expands 24–48× beyond wire-byte accounting → remote unauthenticated memory exhaustion (OOM) of validator nodes (GHSA-9795-9pp8-phgh)](https://github.com/tari-project/special_contributions/issues/145) | special_contributions | L | 150,000 | @? | ⚫ Closed | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
@@ -496,7 +496,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **478 bounties — 23,000,000 XTM**
 
-*Last updated: November 24, 2026 at 10:54 UTC*
+*Last updated: November 24, 2026 at 11:53 UTC*
 
 ### Tier Summary
 
