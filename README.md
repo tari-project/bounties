@@ -37,6 +37,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#668 — Contribution: fix(consensus): pass HighPc height on pacemaker start and reset timers on view advance (tari-project/tari-ootle#3794)](https://github.com/tari-project/special_contributions/issues/668) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#677 — Contribution: fix(state_store_rocksdb): keep a substate's head at its highest version in any transition order (tari-project/tari-ootle#3820)](https://github.com/tari-project/special_contributions/issues/677) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#689 — Contribution: fix(template_macros): validate non-wasm templates, allow impl-before-struct, and improve AST diagnostics (tari-project/tari-ootle#3468)](https://github.com/tari-project/special_contributions/issues/689) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#693 — Contribution: fix(wallet-sdk-services): reconcile confidential output spent status on vault refresh (tari-project/tari-ootle#3983)](https://github.com/tari-project/special_contributions/issues/693) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#672 — Contest Winning: Ootle Bug Hunt 2nd Place](https://github.com/tari-project/special_contributions/issues/672) | special_contributions | P | 500,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#680 — Security report: tari-universe Monero seed PIN encryption used a single unsalted SHA-256 KDF, allowing offline brute force of the PIN keyspace (GHSA-gr4c-r43w-8pp9)](https://github.com/tari-project/special_contributions/issues/680) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -493,15 +494,15 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | ⚫ Closed | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | ⚫ Closed | [26 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 30 |
 
-**477 bounties — 22,985,000 XTM**
+**478 bounties — 23,000,000 XTM**
 
-*Last updated: November 24, 2026 at 09:53 UTC*
+*Last updated: November 24, 2026 at 10:54 UTC*
 
 ### Tier Summary
 
 | Tier | Count | XTM |
 |:----:|:-----:|----:|
-| S | 307 | 15,000 |
+| S | 308 | 15,000 |
 | M | 108 | 60,000 |
 | L | 56 | 150,000 |
 | P | 6 | 3,500,000 total |
