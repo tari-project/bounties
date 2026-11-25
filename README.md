@@ -44,7 +44,6 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [6 PRs](https://github.com/tari-project/universe/pulls) | 💬 7 |
 | [#659 — Report: tari-ootle min_epoch validation ordering and missing consensus window check allow gossipsub sender-fault bypass, premature execution before min_epoch, and parked-proposal stalls (GHSA-2cvw-5986-qgcc)](https://github.com/tari-project/special_contributions/issues/659) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#679 — Security report: tari-universe app config files were world-readable, exposing the MCP bearer token, airdrop tokens and wallet view key to other local users (GHSA-3rc7-6cr6-8mx8)](https://github.com/tari-project/special_contributions/issues/679) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#693 — Contribution: fix(wallet-sdk-services): reconcile confidential output spent status on vault refresh (tari-project/tari-ootle#3983)](https://github.com/tari-project/special_contributions/issues/693) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#340 — Contest Winning: September 2026 Build Contest](https://github.com/tari-project/special_contributions/issues/340) | special_contributions | P | 1,000,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#350 — Contest Winning: September 2026 Build Contest (2nd Place)](https://github.com/tari-project/special_contributions/issues/350) | special_contributions | P | 500,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#351 — Contest Winning: September 2026 Build Contest (3rd Place)](https://github.com/tari-project/special_contributions/issues/351) | special_contributions | P | 250,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -461,6 +460,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#670 — Contribution: fix(engine): reject duplicate function names and colliding dispatch identifiers in TemplateDef (tari-project/tari-ootle#3841)](https://github.com/tari-project/special_contributions/issues/670) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#676 — Contribution: fix(wallet-storage): confirm on-chain unconfirmed outputs relocked for spend (tari-project/tari-ootle#3851)](https://github.com/tari-project/special_contributions/issues/676) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#686 — Bug report: tari-ootle un-Aborted Foreign Evidence in TransactionPoolRecord::set_remote_decision Causes Leader-vs-Replica MismatchedEvidence No-Votes on Locally Aborted Multi-Shard Transactions (GHSA-wr9f-gm95-grww)](https://github.com/tari-project/special_contributions/issues/686) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
+| [#693 — Contribution: fix(wallet-sdk-services): reconcile confidential output spent status on vault refresh (tari-project/tari-ootle#3983)](https://github.com/tari-project/special_contributions/issues/693) | special_contributions | S | 15,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#-7822 — fix: consume merge mining proxy monero reservation](https://github.com/tari-project/tari/pull/7822) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7259 — feat: auto zero value coinbase reward calculation](https://github.com/tari-project/tari/pull/7259) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
 | [#-7242 — fix: minotari_merge_mining_proxy returns Tari block hash even if submit_to_origin is disabled](https://github.com/tari-project/tari/pull/7242) | tari | S | 15,000 | @SWvheerden | ✅ Merged | [1 PR](https://github.com/tari-project/tari/pulls) | 💬 1 |
@@ -496,7 +496,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **478 bounties — 23,000,000 XTM**
 
-*Last updated: November 25, 2026 at 10:50 UTC*
+*Last updated: November 25, 2026 at 11:48 UTC*
 
 ### Tier Summary
 
