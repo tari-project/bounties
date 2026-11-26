@@ -15,6 +15,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 | Issue | Repo | Tier | XTM | Maintainer | Status | PRs | Activity |
 |-------|------|:----:|----:|-----------|--------|:---:|:--------:|
+| [#696 — Contest Winning: October Spooky Secrets 1st Place](https://github.com/tari-project/special_contributions/issues/696) | special_contributions | P | 1,000,000 | @? | 🟢 Open | — | — |
 | [#43 — Security report: tari-ootle unauthenticated HotStuff restart (GHSA-wxp4-rq8h-jcvf)](https://github.com/tari-project/special_contributions/issues/43) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#72 — Security report: tari-ootle epoch-checkpoint total_exhaust_burn is unbounded and overflows the indexer Amount accumulator, aborting it (GHSA-jhc4-392q-5jvw)](https://github.com/tari-project/special_contributions/issues/72) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#134 — Security report: tari-ootle consensus MissingTransactionsResponse decodes ~0.5-1.3 GiB of heap from a single 4 MiB message (per-message transaction decode bound missing from #2761) (GHSA-h87c-879q-38hj)](https://github.com/tari-project/special_contributions/issues/134) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
@@ -37,6 +38,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#668 — Contribution: fix(consensus): pass HighPc height on pacemaker start and reset timers on view advance (tari-project/tari-ootle#3794)](https://github.com/tari-project/special_contributions/issues/668) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#677 — Contribution: fix(state_store_rocksdb): keep a substate's head at its highest version in any transition order (tari-project/tari-ootle#3820)](https://github.com/tari-project/special_contributions/issues/677) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
 | [#689 — Contribution: fix(template_macros): validate non-wasm templates, allow impl-before-struct, and improve AST diagnostics (tari-project/tari-ootle#3468)](https://github.com/tari-project/special_contributions/issues/689) | special_contributions | S | 15,000 | @? | 🟢 Open | — | — |
+| [#697 — Contest Winning: October Spooky Secrets 2nd Place](https://github.com/tari-project/special_contributions/issues/697) | special_contributions | P | 500,000 | @? | 🟡 PR Open | — | 💬 1 |
 | [#65 — Security report: tari-ootle liquidity pool: swap on a one-sided pool pays out the entire reserve for a 1-unit input (missing zero-reserve guard) (GHSA-8mmv-p9gv-57jf)](https://github.com/tari-project/special_contributions/issues/65) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#680 — Security report: tari-universe Monero seed PIN encryption used a single unsalted SHA-256 KDF, allowing offline brute force of the PIN keyspace (GHSA-gr4c-r43w-8pp9)](https://github.com/tari-project/special_contributions/issues/680) | special_contributions | L | 150,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#420 — mempool hardeing report](https://github.com/tari-project/special_contributions/issues/420) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -484,6 +486,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3492 — MCP server: no error shown when the configured port is already in use](https://github.com/tari-project/universe/issues/3492) | universe | S | 15,000 | @brianp | ✅ Merged | [17 PRs](https://github.com/tari-project/universe/pulls) | 💬 18 |
 | [#3494 — Scheduled mining window doesn't apply its mode when mining is already running](https://github.com/tari-project/universe/issues/3494) | universe | S | 15,000 | @brianp | ✅ Merged | [11 PRs](https://github.com/tari-project/universe/pulls) | 💬 11 |
 | [#3518 — L2 menu opens PIN setup while L1 wallet is loading, even when a PIN is already set](https://github.com/tari-project/universe/issues/3518) | universe | S | 15,000 | @brianp | ✅ Merged | [11 PRs](https://github.com/tari-project/universe/pulls) | 💬 12 |
+| [#698 — Contest Winning: October Spooky Secrets 3rd Place](https://github.com/tari-project/special_contributions/issues/698) | special_contributions | P | 250,000 | @? | ⚫ Closed | — | 💬 1 |
 | [#137 — Security report: tari-ootle wASM metering ceiling bypass via nested cross-template calls (EMAIL-91)](https://github.com/tari-project/special_contributions/issues/137) | special_contributions | L | 150,000 | @? | ⚫ Closed | — | — |
 | [#145 — Security report: tari-ootle consensus message decode expands 24–48× beyond wire-byte accounting → remote unauthenticated memory exhaustion (OOM) of validator nodes (GHSA-9795-9pp8-phgh)](https://github.com/tari-project/special_contributions/issues/145) | special_contributions | L | 150,000 | @? | ⚫ Closed | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#7164 — JMT data is very large and should be optimized..](https://github.com/tari-project/tari/issues/7164) | tari | L | 150,000 | @SWvheerden | ⚫ Closed | — | — |
@@ -494,9 +497,9 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | ⚫ Closed | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | ⚫ Closed | [26 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 30 |
 
-**478 bounties — 23,000,000 XTM**
+**481 bounties — 24,750,000 XTM**
 
-*Last updated: November 26, 2026 at 01:50 UTC*
+*Last updated: November 26, 2026 at 02:48 UTC*
 
 ### Tier Summary
 
@@ -505,4 +508,4 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | S | 308 | 15,000 |
 | M | 108 | 60,000 |
 | L | 56 | 150,000 |
-| P | 6 | 3,500,000 total |
+| P | 9 | 5,250,000 total |
