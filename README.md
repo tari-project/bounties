@@ -18,6 +18,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#696 — Contest Winning: October Spooky Secrets 1st Place](https://github.com/tari-project/special_contributions/issues/696) | special_contributions | P | 1,000,000 | @? | 🟢 Open | — | — |
 | [#43 — Security report: tari-ootle unauthenticated HotStuff restart (GHSA-wxp4-rq8h-jcvf)](https://github.com/tari-project/special_contributions/issues/43) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#708 — Security report: tari-ootle unmetered O(N log N) Confidential container commitment moves (>10,000x underpricing) and unpriced discrete substate downs in BucketAction::Burn (GHSA-qgfh-h9fc-gw3g)](https://github.com/tari-project/special_contributions/issues/708) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
+| [#716 — Security report: tari-ootle rPC server reserves 6 MiB of read buffer per inbound substream from 4-byte length prefix (1572864x amplification, unauthenticated) (GHSA-wfmg-6gv5-8qp2)](https://github.com/tari-project/special_contributions/issues/716) | special_contributions | L | 150,000 | @? | 🟢 Open | — | — |
 | [#72 — Security report: tari-ootle epoch-checkpoint total_exhaust_burn is unbounded and overflows the indexer Amount accumulator, aborting it (GHSA-jhc4-392q-5jvw)](https://github.com/tari-project/special_contributions/issues/72) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#134 — Security report: tari-ootle consensus MissingTransactionsResponse decodes ~0.5-1.3 GiB of heap from a single 4 MiB message (per-message transaction decode bound missing from #2761) (GHSA-h87c-879q-38hj)](https://github.com/tari-project/special_contributions/issues/134) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
 | [#163 — Security report: tari-ootle unbounded RestrictedAccessRule::AnyOf/AllOf decode amplification on the validator RPC path (GHSA-mj8q-cqch-jjv5)](https://github.com/tari-project/special_contributions/issues/163) | special_contributions | M | 60,000 | @? | 🟢 Open | — | — |
@@ -504,9 +505,9 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#3425 — L1 send flow never shows the network fee before the user approves](https://github.com/tari-project/universe/issues/3425) | universe | S | 15,000 | @brianp | ⚫ Closed | [1 PR](https://github.com/tari-project/universe/pulls) | 💬 2 |
 | [#103 — Mitigate risks due to "next" known CVEs version and current versions range](https://github.com/tari-project/wxtm-bridge-frontend/issues/103) | wxtm-bridge-frontend | S | 15,000 | @martinserts | ⚫ Closed | [26 PRs](https://github.com/tari-project/wxtm-bridge-frontend/pulls) | 💬 30 |
 
-**488 bounties — 25,125,000 XTM**
+**489 bounties — 25,275,000 XTM**
 
-*Last updated: November 27, 2026 at 14:48 UTC*
+*Last updated: November 27, 2026 at 15:50 UTC*
 
 ### Tier Summary
 
@@ -514,5 +515,5 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 |:----:|:-----:|----:|
 | S | 311 | 15,000 |
 | M | 111 | 60,000 |
-| L | 57 | 150,000 |
+| L | 58 | 150,000 |
 | P | 9 | 5,250,000 total |
