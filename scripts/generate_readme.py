@@ -42,7 +42,7 @@ def load_local_titles():
     for fname in os.listdir(issues_dir):
         if not fname.endswith(".md"):
             continue
-        with open(os.path.join(issues_dir, fname)) as f:
+        with open(os.path.join(issues_dir, fname), encoding="utf-8") as f:
             content = f.read()
         m = re.search(r'^## Bounty:\s*(.+)$', content, re.MULTILINE)
         if not m:
@@ -65,7 +65,7 @@ def fetch_bounty_issues(local_titles):
             ["gh", "issue", "list", "-R", repo, "--label", "bounty", "--state", "all",
              "--json", "number,title,labels,url,state,comments,closedByPullRequestsReferences",
              "--limit", "100"],
-            capture_output=True, text=True
+            capture_output=True, encoding="utf-8"
         )
         if result.returncode != 0:
             print(f"WARN: failed to query {repo}: {result.stderr.strip()}", file=sys.stderr)
@@ -195,7 +195,8 @@ def render_readme(issues):
     lines.append("")
     lines.append(f"**{len(issues)} bounties \u2014 {total_xtm:,} XTM**")
     lines.append("")
-    updated = datetime.now(timezone.utc).strftime("%B %-d, %Y at %H:%M UTC")
+    now = datetime.now(timezone.utc)
+    updated = f"{now:%B} {now.day}, {now:%Y at %H:%M UTC}"
     lines.append(f"*Last updated: {updated}*")
     lines.append("")
     lines.append("### Tier Summary")
@@ -220,7 +221,7 @@ def main():
         print(readme)
     else:
         readme_path = os.path.join(ROOT_DIR, "README.md")
-        with open(readme_path, "w") as f:
+        with open(readme_path, "w", encoding="utf-8") as f:
             f.write(readme)
         print(f"Wrote README.md ({len(issues)} issues from GitHub labels)", file=sys.stderr)
 
