@@ -47,9 +47,9 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 | [#710 — Security report: tari-ootle consensus: unvalidated CatchUpPageMessage.next_height allows a single Byzantine committee peer to permanently suppress victim block proposals for the entire epoch and trigger tight sync loops (GHSA-49mw-pgvh-wp3c)](https://github.com/tari-project/special_contributions/issues/710) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#712 — Contribution: fix(consensus): bound timeout votes per sender so committees resume after long quorum loss (tari-project/tari-ootle#3758)](https://github.com/tari-project/special_contributions/issues/712) | special_contributions | M | 60,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#3299 — CPU mining capped at 64 threads on Windows machines with 64+ logical cores](https://github.com/tari-project/universe/issues/3299) | universe | M | 60,000 | @brianp | 🟡 PR Open | [6 PRs](https://github.com/tari-project/universe/pulls) | 💬 7 |
-| [#659 — Report: tari-ootle min_epoch validation ordering and missing consensus window check allow gossipsub sender-fault bypass, premature execution before min_epoch, and parked-proposal stalls (GHSA-2cvw-5986-qgcc)](https://github.com/tari-project/special_contributions/issues/659) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
+| [#659 — Report: tari-ootle min_epoch validation ordering and missing consensus window check allow gossipsub sender-fault bypass, premature execution before min_epoch, and parked-proposal stalls (GHSA-2cvw-5986-qgcc)](https://github.com/tari-project/special_contributions/issues/659) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [2 PRs](https://github.com/tari-project/special_contributions/pulls) | 💬 2 |
 | [#679 — Security report: tari-universe app config files were world-readable, exposing the MCP bearer token, airdrop tokens and wallet view key to other local users (GHSA-3rc7-6cr6-8mx8)](https://github.com/tari-project/special_contributions/issues/679) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
-| [#689 — Contribution: fix(template_macros): validate non-wasm templates, allow impl-before-struct, and improve AST diagnostics (tari-project/tari-ootle#3468)](https://github.com/tari-project/special_contributions/issues/689) | special_contributions | S | 15,000 | @? | 🟡 PR Open | — | 💬 1 |
+| [#689 — Contribution: fix(template_macros): validate non-wasm templates, allow impl-before-struct, and improve AST diagnostics (tari-project/tari-ootle#3468)](https://github.com/tari-project/special_contributions/issues/689) | special_contributions | S | 15,000 | @? | 🟡 PR Open | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#340 — Contest Winning: September 2026 Build Contest](https://github.com/tari-project/special_contributions/issues/340) | special_contributions | P | 1,000,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#350 — Contest Winning: September 2026 Build Contest (2nd Place)](https://github.com/tari-project/special_contributions/issues/350) | special_contributions | P | 500,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
 | [#351 — Contest Winning: September 2026 Build Contest (3rd Place)](https://github.com/tari-project/special_contributions/issues/351) | special_contributions | P | 250,000 | @? | ✅ Merged | [1 PR](https://github.com/tari-project/special_contributions/pulls) | 💬 1 |
@@ -507,7 +507,7 @@ Open bounties for the Tari ecosystem. Pick one, ship it, get paid.
 
 **489 bounties — 25,275,000 XTM**
 
-*Last updated: November 28, 2026 at 10:50 UTC*
+*Last updated: November 28, 2026 at 11:48 UTC*
 
 ### Tier Summary
 
